@@ -1,0 +1,1065 @@
+2019-12-04 17:40:28,947 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.1/maven-compiler-plugin-3.1.jar
+2019-12-04 17:40:29,953 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.1/maven-compiler-plugin-3.1.jar
+2019-12-04 17:40:30,746 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.21.0/maven-surefire-plugin-2.21.0.jar
+2019-12-04 17:40:31,000 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.21.0/maven-surefire-plugin-2.21.0.jar
+2019-12-04 17:40:31,317 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.1/maven-compiler-plugin-3.1.pom
+2019-12-04 17:40:31,533 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.1/maven-compiler-plugin-3.1.pom
+2019-12-04 17:40:31,779 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/24/maven-plugins-24.pom
+2019-12-04 17:40:32,163 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/24/maven-plugins-24.pom
+2019-12-04 17:40:32,768 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.1/plexus-utils-1.5.1.pom
+2019-12-04 17:40:32,975 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.1/plexus-utils-1.5.1.pom
+2019-12-04 17:40:33,385 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-toolchain/1.0/maven-toolchain-1.0.pom
+2019-12-04 17:40:33,978 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-toolchain/1.0/maven-toolchain-1.0.pom
+2019-12-04 17:40:36,022 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.2/plexus-compiler-api-2.2.pom
+2019-12-04 17:40:36,302 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.2/plexus-compiler-api-2.2.pom
+2019-12-04 17:40:36,672 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/2.2/plexus-compiler-2.2.pom
+2019-12-04 17:40:37,297 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/2.2/plexus-compiler-2.2.pom
+2019-12-04 17:40:37,675 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.2/plexus-compiler-manager-2.2.pom
+2019-12-04 17:40:37,893 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.2/plexus-compiler-manager-2.2.pom
+2019-12-04 17:40:38,129 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.2/plexus-compiler-javac-2.2.pom
+2019-12-04 17:40:38,333 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.2/plexus-compiler-javac-2.2.pom
+2019-12-04 17:40:38,666 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.2/plexus-compilers-2.2.pom
+2019-12-04 17:40:38,986 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.2/plexus-compilers-2.2.pom
+2019-12-04 17:40:39,689 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.1/plexus-utils-1.5.1.jar
+2019-12-04 17:40:40,537 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.1/plexus-utils-1.5.1.jar
+2019-12-04 17:40:40,769 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-toolchain/1.0/maven-toolchain-1.0.jar
+2019-12-04 17:40:40,973 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-toolchain/1.0/maven-toolchain-1.0.jar
+2019-12-04 17:40:41,171 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/0.1/maven-shared-utils-0.1.jar
+2019-12-04 17:40:41,642 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/0.1/maven-shared-utils-0.1.jar
+2019-12-04 17:40:41,861 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.2/plexus-compiler-api-2.2.jar
+2019-12-04 17:40:42,054 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.2/plexus-compiler-api-2.2.jar
+2019-12-04 17:40:42,393 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.2/plexus-compiler-manager-2.2.jar
+2019-12-04 17:40:42,623 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.2/plexus-compiler-manager-2.2.jar
+2019-12-04 17:40:42,814 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.2/plexus-compiler-javac-2.2.jar
+2019-12-04 17:40:43,013 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.2/plexus-compiler-javac-2.2.jar
+2019-12-04 17:40:43,564 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: apd:infoimage.iwm:0.0.1-SNAPSHOT @ C:\Users\MadhurVK\git\iif-qa-automation\infoimage.iwm\pom.xml.
+2019-12-04 17:40:43,564 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: apd:infoimage.iwm:0.0.1-SNAPSHOT @ C:\Users\MadhurVK\git\iif-qa-automation\infoimage.iwm\pom.xml.
+2019-12-04 17:40:43,836 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testng/testng/6.10/testng-6.10.pom
+2019-12-04 17:40:44,037 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testng/testng/6.10/testng-6.10.pom
+2019-12-04 17:40:44,448 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-java/3.11.0/selenium-java-3.11.0.pom
+2019-12-04 17:40:44,934 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-java/3.11.0/selenium-java-3.11.0.pom
+2019-12-04 17:40:45,183 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/3.11.0/selenium-api-3.11.0.pom
+2019-12-04 17:40:45,396 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/3.11.0/selenium-api-3.11.0.pom
+2019-12-04 17:40:45,678 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chrome-driver/3.11.0/selenium-chrome-driver-3.11.0.pom
+2019-12-04 17:40:45,893 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chrome-driver/3.11.0/selenium-chrome-driver-3.11.0.pom
+2019-12-04 17:40:46,114 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/3.11.0/selenium-remote-driver-3.11.0.pom
+2019-12-04 17:40:46,323 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/3.11.0/selenium-remote-driver-3.11.0.pom
+2019-12-04 17:40:46,539 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.7.9/byte-buddy-1.7.9.pom
+2019-12-04 17:40:46,755 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.7.9/byte-buddy-1.7.9.pom
+2019-12-04 17:40:46,962 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-parent/1.7.9/byte-buddy-parent-1.7.9.pom
+2019-12-04 17:40:47,181 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-parent/1.7.9/byte-buddy-parent-1.7.9.pom
+2019-12-04 17:40:47,516 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/23.6-jre/guava-23.6-jre.pom
+2019-12-04 17:40:47,745 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/23.6-jre/guava-23.6-jre.pom
+2019-12-04 17:40:47,954 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/23.6-jre/guava-parent-23.6-jre.pom
+2019-12-04 17:40:48,165 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/23.6-jre/guava-parent-23.6-jre.pom
+2019-12-04 17:40:48,539 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/squareup/okhttp3/okhttp/3.9.1/okhttp-3.9.1.pom
+2019-12-04 17:40:48,749 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/squareup/okhttp3/okhttp/3.9.1/okhttp-3.9.1.pom
+2019-12-04 17:40:48,972 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/squareup/okhttp3/parent/3.9.1/parent-3.9.1.pom
+2019-12-04 17:40:49,210 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/squareup/okhttp3/parent/3.9.1/parent-3.9.1.pom
+2019-12-04 17:40:49,548 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/squareup/okio/okio/1.13.0/okio-1.13.0.pom
+2019-12-04 17:40:49,773 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/squareup/okio/okio/1.13.0/okio-1.13.0.pom
+2019-12-04 17:40:50,092 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/squareup/okio/okio-parent/1.13.0/okio-parent-1.13.0.pom
+2019-12-04 17:40:50,386 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/squareup/okio/okio-parent/1.13.0/okio-parent-1.13.0.pom
+2019-12-04 17:40:50,723 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-edge-driver/3.11.0/selenium-edge-driver-3.11.0.pom
+2019-12-04 17:40:51,021 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-edge-driver/3.11.0/selenium-edge-driver-3.11.0.pom
+2019-12-04 17:40:51,386 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/3.11.0/selenium-firefox-driver-3.11.0.pom
+2019-12-04 17:40:51,617 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/3.11.0/selenium-firefox-driver-3.11.0.pom
+2019-12-04 17:40:51,954 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/3.11.0/selenium-ie-driver-3.11.0.pom
+2019-12-04 17:40:52,237 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/3.11.0/selenium-ie-driver-3.11.0.pom
+2019-12-04 17:40:52,620 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-opera-driver/3.11.0/selenium-opera-driver-3.11.0.pom
+2019-12-04 17:40:52,869 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-opera-driver/3.11.0/selenium-opera-driver-3.11.0.pom
+2019-12-04 17:40:53,214 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/3.11.0/selenium-safari-driver-3.11.0.pom
+2019-12-04 17:40:53,459 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/3.11.0/selenium-safari-driver-3.11.0.pom
+2019-12-04 17:40:53,784 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/3.11.0/selenium-support-3.11.0.pom
+2019-12-04 17:40:54,076 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/3.11.0/selenium-support-3.11.0.pom
+2019-12-04 17:40:54,290 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/log4j/log4j/1.2.13/log4j-1.2.13.pom
+2019-12-04 17:40:54,625 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/log4j/log4j/1.2.13/log4j-1.2.13.pom
+2019-12-04 17:40:54,876 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/poi/poi/3.10-FINAL/poi-3.10-FINAL.pom
+2019-12-04 17:40:55,109 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi/3.10-FINAL/poi-3.10-FINAL.pom
+2019-12-04 17:40:55,506 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.5/commons-codec-1.5.pom
+2019-12-04 17:40:55,717 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.5/commons-codec-1.5.pom
+2019-12-04 17:40:55,962 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/20/commons-parent-20.pom
+2019-12-04 17:40:56,331 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/20/commons-parent-20.pom
+2019-12-04 17:40:56,579 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml/3.10-FINAL/poi-ooxml-3.10-FINAL.pom
+2019-12-04 17:40:56,944 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml/3.10-FINAL/poi-ooxml-3.10-FINAL.pom
+2019-12-04 17:40:57,245 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml-schemas/3.10-FINAL/poi-ooxml-schemas-3.10-FINAL.pom
+2019-12-04 17:40:57,533 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml-schemas/3.10-FINAL/poi-ooxml-schemas-3.10-FINAL.pom
+2019-12-04 17:40:57,753 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/xmlbeans/xmlbeans/2.3.0/xmlbeans-2.3.0.pom
+2019-12-04 17:40:57,951 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/xmlbeans/xmlbeans/2.3.0/xmlbeans-2.3.0.pom
+2019-12-04 17:40:58,182 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/poi/poi-scratchpad/3.10-FINAL/poi-scratchpad-3.10-FINAL.pom
+2019-12-04 17:40:58,578 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi-scratchpad/3.10-FINAL/poi-scratchpad-3.10-FINAL.pom
+2019-12-04 17:40:58,983 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/poi/poi-excelant/3.10-FINAL/poi-excelant-3.10-FINAL.pom
+2019-12-04 17:40:59,257 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi-excelant/3.10-FINAL/poi-excelant-3.10-FINAL.pom
+2019-12-04 17:40:59,650 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/poi/poi-examples/3.10-FINAL/poi-examples-3.10-FINAL.pom
+2019-12-04 17:40:59,955 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi-examples/3.10-FINAL/poi-examples-3.10-FINAL.pom
+2019-12-04 17:41:00,210 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/2.48.0/selenium-ie-driver-2.48.0.pom
+2019-12-04 17:41:00,425 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/2.48.0/selenium-ie-driver-2.48.0.pom
+2019-12-04 17:41:00,670 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-parent/2.48.0/selenium-parent-2.48.0.pom
+2019-12-04 17:41:01,038 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-parent/2.48.0/selenium-parent-2.48.0.pom
+2019-12-04 17:41:01,443 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/2.48.0/selenium-remote-driver-2.48.0.pom
+2019-12-04 17:41:01,860 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/2.48.0/selenium-remote-driver-2.48.0.pom
+2019-12-04 17:41:02,262 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/2.48.0/selenium-api-2.48.0.pom
+2019-12-04 17:41:02,473 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/2.48.0/selenium-api-2.48.0.pom
+2019-12-04 17:41:02,893 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/mail/mail/1.4.4/mail-1.4.4.pom
+2019-12-04 17:41:03,494 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/mail/mail/1.4.4/mail-1.4.4.pom
+2019-12-04 17:41:03,899 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/mail/all/1.4.4/all-1.4.4.pom
+2019-12-04 17:41:04,106 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/mail/all/1.4.4/all-1.4.4.pom
+2019-12-04 17:41:04,512 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jfree/jcommon/1.0.23/jcommon-1.0.23.pom
+2019-12-04 17:41:04,726 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jfree/jcommon/1.0.23/jcommon-1.0.23.pom
+2019-12-04 17:41:04,961 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jfree/jfreechart/1.0.19/jfreechart-1.0.19.pom
+2019-12-04 17:41:05,361 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jfree/jfreechart/1.0.19/jfreechart-1.0.19.pom
+2019-12-04 17:41:05,746 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/htmlunit-driver/2.29.0/htmlunit-driver-2.29.0.pom
+2019-12-04 17:41:05,955 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/htmlunit-driver/2.29.0/htmlunit-driver-2.29.0.pom
+2019-12-04 17:41:06,235 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/3.8.1/selenium-api-3.8.1.pom
+2019-12-04 17:41:06,445 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/3.8.1/selenium-api-3.8.1.pom
+2019-12-04 17:41:06,892 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/3.8.1/selenium-support-3.8.1.pom
+2019-12-04 17:41:07,406 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/3.8.1/selenium-support-3.8.1.pom
+2019-12-04 17:41:07,608 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/3.8.1/selenium-remote-driver-3.8.1.pom
+2019-12-04 17:41:07,811 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/3.8.1/selenium-remote-driver-3.8.1.pom
+2019-12-04 17:41:08,208 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sourceforge/htmlunit/htmlunit/2.29/htmlunit-2.29.pom
+2019-12-04 17:41:08,617 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sourceforge/htmlunit/htmlunit/2.29/htmlunit-2.29.pom
+2019-12-04 17:41:08,904 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7.pom
+2019-12-04 17:41:09,118 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7.pom
+2019-12-04 17:41:09,372 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-text/1.2/commons-text-1.2.pom
+2019-12-04 17:41:09,844 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-text/1.2/commons-text-1.2.pom
+2019-12-04 17:41:10,260 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpmime/4.5.4/httpmime-4.5.4.pom
+2019-12-04 17:41:10,662 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpmime/4.5.4/httpmime-4.5.4.pom
+2019-12-04 17:41:11,104 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.5.4/httpcomponents-client-4.5.4.pom
+2019-12-04 17:41:11,479 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.5.4/httpcomponents-client-4.5.4.pom
+2019-12-04 17:41:11,712 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.4/httpclient-4.5.4.pom
+2019-12-04 17:41:12,049 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.4/httpclient-4.5.4.pom
+2019-12-04 17:41:12,298 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.7/httpcore-4.4.7.pom
+2019-12-04 17:41:12,506 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.7/httpcore-4.4.7.pom
+2019-12-04 17:41:13,524 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.4.7/httpcomponents-core-4.4.7.pom
+2019-12-04 17:41:14,348 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.4.7/httpcomponents-core-4.4.7.pom
+2019-12-04 17:41:14,756 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/project/8/project-8.pom
+2019-12-04 17:41:14,977 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/project/8/project-8.pom
+2019-12-04 17:41:15,314 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sourceforge/htmlunit/htmlunit-core-js/2.28/htmlunit-core-js-2.28.pom
+2019-12-04 17:41:15,576 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sourceforge/htmlunit/htmlunit-core-js/2.28/htmlunit-core-js-2.28.pom
+2019-12-04 17:41:16,043 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sourceforge/htmlunit/neko-htmlunit/2.28/neko-htmlunit-2.28.pom
+2019-12-04 17:41:16,399 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sourceforge/htmlunit/neko-htmlunit/2.28/neko-htmlunit-2.28.pom
+2019-12-04 17:41:16,834 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sourceforge/cssparser/cssparser/0.9.24/cssparser-0.9.24.pom
+2019-12-04 17:41:17,214 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sourceforge/cssparser/cssparser/0.9.24/cssparser-0.9.24.pom
+2019-12-04 17:41:17,622 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-net/commons-net/3.6/commons-net-3.6.pom
+2019-12-04 17:41:17,818 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-net/commons-net/3.6/commons-net-3.6.pom
+2019-12-04 17:41:18,051 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/websocket-client/9.4.8.v20171121/websocket-client-9.4.8.v20171121.pom
+2019-12-04 17:41:18,258 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/websocket-client/9.4.8.v20171121/websocket-client-9.4.8.v20171121.pom
+2019-12-04 17:41:18,494 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/websocket-parent/9.4.8.v20171121/websocket-parent-9.4.8.v20171121.pom
+2019-12-04 17:41:18,855 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/websocket-parent/9.4.8.v20171121/websocket-parent-9.4.8.v20171121.pom
+2019-12-04 17:41:19,133 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-project/9.4.8.v20171121/jetty-project-9.4.8.v20171121.pom
+2019-12-04 17:41:19,341 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-project/9.4.8.v20171121/jetty-project-9.4.8.v20171121.pom
+2019-12-04 17:41:19,589 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-client/9.4.8.v20171121/jetty-client-9.4.8.v20171121.pom
+2019-12-04 17:41:19,795 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-client/9.4.8.v20171121/jetty-client-9.4.8.v20171121.pom
+2019-12-04 17:41:20,003 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-http/9.4.8.v20171121/jetty-http-9.4.8.v20171121.pom
+2019-12-04 17:41:20,234 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-http/9.4.8.v20171121/jetty-http-9.4.8.v20171121.pom
+2019-12-04 17:41:20,488 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-util/9.4.8.v20171121/jetty-util-9.4.8.v20171121.pom
+2019-12-04 17:41:20,716 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-util/9.4.8.v20171121/jetty-util-9.4.8.v20171121.pom
+2019-12-04 17:41:20,926 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-io/9.4.8.v20171121/jetty-io-9.4.8.v20171121.pom
+2019-12-04 17:41:21,320 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-io/9.4.8.v20171121/jetty-io-9.4.8.v20171121.pom
+2019-12-04 17:41:21,554 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-xml/9.4.8.v20171121/jetty-xml-9.4.8.v20171121.pom
+2019-12-04 17:41:21,854 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-xml/9.4.8.v20171121/jetty-xml-9.4.8.v20171121.pom
+2019-12-04 17:41:22,181 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/websocket-common/9.4.8.v20171121/websocket-common-9.4.8.v20171121.pom
+2019-12-04 17:41:22,545 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/websocket-common/9.4.8.v20171121/websocket-common-9.4.8.v20171121.pom
+2019-12-04 17:41:22,944 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/websocket-api/9.4.8.v20171121/websocket-api-9.4.8.v20171121.pom
+2019-12-04 17:41:23,153 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/websocket-api/9.4.8.v20171121/websocket-api-9.4.8.v20171121.pom
+2019-12-04 17:41:23,556 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium/2.0rc2/selenium-2.0rc2.pom
+2019-12-04 17:41:23,835 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium/2.0rc2/selenium-2.0rc2.pom
+2019-12-04 17:41:24,172 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-parent/2.0rc2/selenium-parent-2.0rc2.pom
+2019-12-04 17:41:24,590 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-parent/2.0rc2/selenium-parent-2.0rc2.pom
+2019-12-04 17:41:25,028 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-control/2.0rc2/selenium-remote-control-2.0rc2.pom
+2019-12-04 17:41:25,314 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-control/2.0rc2/selenium-remote-control-2.0rc2.pom
+2019-12-04 17:41:25,610 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chrome-driver/2.0rc2/selenium-chrome-driver-2.0rc2.pom
+2019-12-04 17:41:26,024 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chrome-driver/2.0rc2/selenium-chrome-driver-2.0rc2.pom
+2019-12-04 17:41:26,423 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/2.0rc2/selenium-remote-driver-2.0rc2.pom
+2019-12-04 17:41:26,703 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/2.0rc2/selenium-remote-driver-2.0rc2.pom
+2019-12-04 17:41:27,041 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/json/json/20080701/json-20080701.pom
+2019-12-04 17:41:27,252 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/json/json/20080701/json-20080701.pom
+2019-12-04 17:41:27,654 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/2.0rc2/selenium-api-2.0rc2.pom
+2019-12-04 17:41:28,047 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/2.0rc2/selenium-api-2.0rc2.pom
+2019-12-04 17:41:28,274 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/r09/guava-r09.pom
+2019-12-04 17:41:28,695 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/r09/guava-r09.pom
+2019-12-04 17:41:29,363 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.0.2/httpclient-4.0.2.pom
+2019-12-04 17:41:29,609 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.0.2/httpclient-4.0.2.pom
+2019-12-04 17:41:29,875 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.0.2/httpcomponents-client-4.0.2.pom
+2019-12-04 17:41:30,398 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.0.2/httpcomponents-client-4.0.2.pom
+2019-12-04 17:41:30,603 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/project/4.1/project-4.1.pom
+2019-12-04 17:41:30,837 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/project/4.1/project-4.1.pom
+2019-12-04 17:41:31,852 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.0.1/httpcore-4.0.1.pom
+2019-12-04 17:41:32,267 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.0.1/httpcore-4.0.1.pom
+2019-12-04 17:41:32,491 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.0.1/httpcomponents-core-4.0.1.pom
+2019-12-04 17:41:32,701 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.0.1/httpcomponents-core-4.0.1.pom
+2019-12-04 17:41:32,929 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/project/4.0/project-4.0.pom
+2019-12-04 17:41:33,317 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/project/4.0/project-4.0.pom
+2019-12-04 17:41:33,687 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.3/commons-codec-1.3.pom
+2019-12-04 17:41:33,922 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.3/commons-codec-1.3.pom
+2019-12-04 17:41:34,300 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-htmlunit-driver/2.0rc2/selenium-htmlunit-driver-2.0rc2.pom
+2019-12-04 17:41:34,686 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-htmlunit-driver/2.0rc2/selenium-htmlunit-driver-2.0rc2.pom
+2019-12-04 17:41:34,982 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sourceforge/htmlunit/htmlunit/2.8/htmlunit-2.8.pom
+2019-12-04 17:41:36,101 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sourceforge/htmlunit/htmlunit/2.8/htmlunit-2.8.pom
+2019-12-04 17:41:36,375 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/xalan/xalan/2.7.1/xalan-2.7.1.pom
+2019-12-04 17:41:36,778 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/xalan/xalan/2.7.1/xalan-2.7.1.pom
+2019-12-04 17:41:37,016 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/xalan/serializer/2.7.1/serializer-2.7.1.pom
+2019-12-04 17:41:37,213 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/xalan/serializer/2.7.1/serializer-2.7.1.pom
+2019-12-04 17:41:37,460 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.4/commons-lang-2.4.pom
+2019-12-04 17:41:37,657 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.4/commons-lang-2.4.pom
+2019-12-04 17:41:37,859 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.0.1/httpclient-4.0.1.pom
+2019-12-04 17:41:38,102 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.0.1/httpclient-4.0.1.pom
+2019-12-04 17:41:38,425 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.0.1/httpcomponents-client-4.0.1.pom
+2019-12-04 17:41:38,657 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.0.1/httpcomponents-client-4.0.1.pom
+2019-12-04 17:41:38,889 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpmime/4.0.1/httpmime-4.0.1.pom
+2019-12-04 17:41:39,168 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpmime/4.0.1/httpmime-4.0.1.pom
+2019-12-04 17:41:39,377 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/james/apache-mime4j/0.6/apache-mime4j-0.6.pom
+2019-12-04 17:41:39,653 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/james/apache-mime4j/0.6/apache-mime4j-0.6.pom
+2019-12-04 17:41:39,877 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/james/james-project/1.2/james-project-1.2.pom
+2019-12-04 17:41:40,259 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/james/james-project/1.2/james-project-1.2.pom
+2019-12-04 17:41:40,468 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/james/james-parent/1.1/james-parent-1.1.pom
+2019-12-04 17:41:40,671 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/james/james-parent/1.1/james-parent-1.1.pom
+2019-12-04 17:41:40,909 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.4/commons-codec-1.4.pom
+2019-12-04 17:41:41,282 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.4/commons-codec-1.4.pom
+2019-12-04 17:41:41,684 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sourceforge/htmlunit/htmlunit-core-js/2.8/htmlunit-core-js-2.8.pom
+2019-12-04 17:41:41,971 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sourceforge/htmlunit/htmlunit-core-js/2.8/htmlunit-core-js-2.8.pom
+2019-12-04 17:41:42,300 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/xerces/xercesImpl/2.9.1/xercesImpl-2.9.1.pom
+2019-12-04 17:41:42,507 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/xerces/xercesImpl/2.9.1/xercesImpl-2.9.1.pom
+2019-12-04 17:41:42,756 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sourceforge/nekohtml/nekohtml/1.9.14/nekohtml-1.9.14.pom
+2019-12-04 17:41:42,969 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sourceforge/nekohtml/nekohtml/1.9.14/nekohtml-1.9.14.pom
+2019-12-04 17:41:43,188 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sourceforge/cssparser/cssparser/0.9.5/cssparser-0.9.5.pom
+2019-12-04 17:41:43,539 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sourceforge/cssparser/cssparser/0.9.5/cssparser-0.9.5.pom
+2019-12-04 17:41:43,945 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/1.4/commons-io-1.4.pom
+2019-12-04 17:41:44,355 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/1.4/commons-io-1.4.pom
+2019-12-04 17:41:45,186 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/2.0rc2/selenium-firefox-driver-2.0rc2.pom
+2019-12-04 17:41:45,579 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/2.0rc2/selenium-firefox-driver-2.0rc2.pom
+2019-12-04 17:41:46,427 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/2.0rc2/selenium-ie-driver-2.0rc2.pom
+2019-12-04 17:41:46,760 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/2.0rc2/selenium-ie-driver-2.0rc2.pom
+2019-12-04 17:41:47,033 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/java/dev/jna/jna/3.2.2/jna-3.2.2.pom
+2019-12-04 17:41:47,440 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/java/dev/jna/jna/3.2.2/jna-3.2.2.pom
+2019-12-04 17:41:47,825 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-iphone-driver/2.0rc2/selenium-iphone-driver-2.0rc2.pom
+2019-12-04 17:41:48,118 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-iphone-driver/2.0rc2/selenium-iphone-driver-2.0rc2.pom
+2019-12-04 17:41:48,480 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-server/2.0rc2/selenium-server-2.0rc2.pom
+2019-12-04 17:41:48,863 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-server/2.0rc2/selenium-server-2.0rc2.pom
+2019-12-04 17:41:49,266 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/bouncycastle/bcprov-jdk15/135/bcprov-jdk15-135.pom
+2019-12-04 17:41:49,474 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/bouncycastle/bcprov-jdk15/135/bcprov-jdk15-135.pom
+2019-12-04 17:41:50,288 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mortbay/jetty/servlet-api-2.5/6.1.9/servlet-api-2.5-6.1.9.pom
+2019-12-04 17:41:50,493 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mortbay/jetty/servlet-api-2.5/6.1.9/servlet-api-2.5-6.1.9.pom
+2019-12-04 17:41:50,703 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mortbay/jetty/project/6.1.9/project-6.1.9.pom
+2019-12-04 17:41:50,922 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mortbay/jetty/project/6.1.9/project-6.1.9.pom
+2019-12-04 17:41:51,309 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/2.0rc2/selenium-support-2.0rc2.pom
+2019-12-04 17:41:51,617 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/2.0rc2/selenium-support-2.0rc2.pom
+2019-12-04 17:41:52,130 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testng/testng/6.10/testng-6.10.jar
+2019-12-04 17:41:57,972 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testng/testng/6.10/testng-6.10.jar
+2019-12-04 17:41:58,167 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-java/3.11.0/selenium-java-3.11.0.jar
+2019-12-04 17:41:58,379 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-java/3.11.0/selenium-java-3.11.0.jar
+2019-12-04 17:41:58,575 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chrome-driver/3.11.0/selenium-chrome-driver-3.11.0.jar
+2019-12-04 17:41:58,785 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chrome-driver/3.11.0/selenium-chrome-driver-3.11.0.jar
+2019-12-04 17:41:58,982 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-edge-driver/3.11.0/selenium-edge-driver-3.11.0.jar
+2019-12-04 17:41:59,203 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-edge-driver/3.11.0/selenium-edge-driver-3.11.0.jar
+2019-12-04 17:41:59,569 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/3.11.0/selenium-firefox-driver-3.11.0.jar
+2019-12-04 17:42:04,322 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/3.11.0/selenium-firefox-driver-3.11.0.jar
+2019-12-04 17:42:04,725 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-opera-driver/3.11.0/selenium-opera-driver-3.11.0.jar
+2019-12-04 17:42:04,930 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-opera-driver/3.11.0/selenium-opera-driver-3.11.0.jar
+2019-12-04 17:42:05,134 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/3.11.0/selenium-remote-driver-3.11.0.jar
+2019-12-04 17:42:06,567 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/3.11.0/selenium-remote-driver-3.11.0.jar
+2019-12-04 17:42:06,754 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/3.11.0/selenium-safari-driver-3.11.0.jar
+2019-12-04 17:42:06,950 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/3.11.0/selenium-safari-driver-3.11.0.jar
+2019-12-04 17:42:07,180 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/3.11.0/selenium-support-3.11.0.jar
+2019-12-04 17:42:07,800 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/3.11.0/selenium-support-3.11.0.jar
+2019-12-04 17:42:08,007 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.7.9/byte-buddy-1.7.9.jar
+2019-12-04 17:44:17,677 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.7.9/byte-buddy-1.7.9.jar
+2019-12-04 17:44:17,858 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/23.6-jre/guava-23.6-jre.jar
+2019-12-04 17:44:22,531 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/23.6-jre/guava-23.6-jre.jar
+2019-12-04 17:44:22,694 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/squareup/okhttp3/okhttp/3.9.1/okhttp-3.9.1.jar
+2019-12-04 17:44:23,666 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/squareup/okhttp3/okhttp/3.9.1/okhttp-3.9.1.jar
+2019-12-04 17:44:23,827 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/squareup/okio/okio/1.13.0/okio-1.13.0.jar
+2019-12-04 17:44:23,995 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/squareup/okio/okio/1.13.0/okio-1.13.0.jar
+2019-12-04 17:44:24,153 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/log4j/log4j/1.2.13/log4j-1.2.13.jar
+2019-12-04 17:44:24,983 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/log4j/log4j/1.2.13/log4j-1.2.13.jar
+2019-12-04 17:44:25,204 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/3.11.0/selenium-api-3.11.0.jar
+2019-12-04 17:44:25,740 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/3.11.0/selenium-api-3.11.0.jar
+2019-12-04 17:44:25,899 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/poi/poi/3.10-FINAL/poi-3.10-FINAL.jar
+2019-12-04 17:44:31,464 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi/3.10-FINAL/poi-3.10-FINAL.jar
+2019-12-04 17:44:31,628 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml/3.10-FINAL/poi-ooxml-3.10-FINAL.jar
+2019-12-04 17:44:34,124 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml/3.10-FINAL/poi-ooxml-3.10-FINAL.jar
+2019-12-04 17:44:34,314 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml-schemas/3.10-FINAL/poi-ooxml-schemas-3.10-FINAL.jar
+2019-12-04 17:44:43,640 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml-schemas/3.10-FINAL/poi-ooxml-schemas-3.10-FINAL.jar
+2019-12-04 17:44:43,816 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/xmlbeans/xmlbeans/2.3.0/xmlbeans-2.3.0.jar
+2019-12-04 17:44:48,467 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/xmlbeans/xmlbeans/2.3.0/xmlbeans-2.3.0.jar
+2019-12-04 17:44:48,649 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/poi/poi-scratchpad/3.10-FINAL/poi-scratchpad-3.10-FINAL.jar
+2019-12-04 17:44:51,278 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi-scratchpad/3.10-FINAL/poi-scratchpad-3.10-FINAL.jar
+2019-12-04 17:44:51,538 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/poi/poi-excelant/3.10-FINAL/poi-excelant-3.10-FINAL.jar
+2019-12-04 17:44:51,976 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi-excelant/3.10-FINAL/poi-excelant-3.10-FINAL.jar
+2019-12-04 17:44:52,321 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/poi/poi-examples/3.10-FINAL/poi-examples-3.10-FINAL.jar
+2019-12-04 17:44:53,115 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi-examples/3.10-FINAL/poi-examples-3.10-FINAL.jar
+2019-12-04 17:44:53,280 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/2.48.0/selenium-ie-driver-2.48.0.jar
+2019-12-04 17:44:53,451 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/2.48.0/selenium-ie-driver-2.48.0.jar
+2019-12-04 17:44:53,628 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/mail/mail/1.4.4/mail-1.4.4.jar
+2019-12-04 17:44:54,895 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/mail/mail/1.4.4/mail-1.4.4.jar
+2019-12-04 17:44:55,061 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jfree/jcommon/1.0.23/jcommon-1.0.23.jar
+2019-12-04 17:44:55,863 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jfree/jcommon/1.0.23/jcommon-1.0.23.jar
+2019-12-04 17:44:56,054 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jfree/jfreechart/1.0.19/jfreechart-1.0.19.jar
+2019-12-04 17:44:59,300 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jfree/jfreechart/1.0.19/jfreechart-1.0.19.jar
+2019-12-04 17:44:59,484 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/htmlunit-driver/2.29.0/htmlunit-driver-2.29.0.jar
+2019-12-04 17:44:59,653 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/htmlunit-driver/2.29.0/htmlunit-driver-2.29.0.jar
+2019-12-04 17:44:59,815 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sourceforge/htmlunit/htmlunit/2.29/htmlunit-2.29.jar
+2019-12-04 17:45:03,874 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sourceforge/htmlunit/htmlunit/2.29/htmlunit-2.29.jar
+2019-12-04 17:45:04,031 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7.jar
+2019-12-04 17:45:05,352 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7.jar
+2019-12-04 17:45:05,524 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-text/1.2/commons-text-1.2.jar
+2019-12-04 17:45:05,973 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-text/1.2/commons-text-1.2.jar
+2019-12-04 17:45:06,131 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpmime/4.5.4/httpmime-4.5.4.jar
+2019-12-04 17:45:06,315 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpmime/4.5.4/httpmime-4.5.4.jar
+2019-12-04 17:45:06,494 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sourceforge/htmlunit/htmlunit-core-js/2.28/htmlunit-core-js-2.28.jar
+2019-12-04 17:45:09,531 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sourceforge/htmlunit/htmlunit-core-js/2.28/htmlunit-core-js-2.28.jar
+2019-12-04 17:45:09,939 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sourceforge/htmlunit/neko-htmlunit/2.28/neko-htmlunit-2.28.jar
+2019-12-04 17:45:13,969 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sourceforge/htmlunit/neko-htmlunit/2.28/neko-htmlunit-2.28.jar
+2019-12-04 17:45:14,124 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sourceforge/cssparser/cssparser/0.9.24/cssparser-0.9.24.jar
+2019-12-04 17:45:15,515 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sourceforge/cssparser/cssparser/0.9.24/cssparser-0.9.24.jar
+2019-12-04 17:45:15,675 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-net/commons-net/3.6/commons-net-3.6.jar
+2019-12-04 17:45:16,462 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-net/commons-net/3.6/commons-net-3.6.jar
+2019-12-04 17:45:16,613 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/websocket-client/9.4.8.v20171121/websocket-client-9.4.8.v20171121.jar
+2019-12-04 17:45:16,784 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/websocket-client/9.4.8.v20171121/websocket-client-9.4.8.v20171121.jar
+2019-12-04 17:45:16,974 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-client/9.4.8.v20171121/jetty-client-9.4.8.v20171121.jar
+2019-12-04 17:45:17,835 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-client/9.4.8.v20171121/jetty-client-9.4.8.v20171121.jar
+2019-12-04 17:45:18,151 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-http/9.4.8.v20171121/jetty-http-9.4.8.v20171121.jar
+2019-12-04 17:45:18,969 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-http/9.4.8.v20171121/jetty-http-9.4.8.v20171121.jar
+2019-12-04 17:45:19,127 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-xml/9.4.8.v20171121/jetty-xml-9.4.8.v20171121.jar
+2019-12-04 17:45:19,430 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-xml/9.4.8.v20171121/jetty-xml-9.4.8.v20171121.jar
+2019-12-04 17:45:19,584 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-util/9.4.8.v20171121/jetty-util-9.4.8.v20171121.jar
+2019-12-04 17:45:21,349 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-util/9.4.8.v20171121/jetty-util-9.4.8.v20171121.jar
+2019-12-04 17:45:21,506 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-io/9.4.8.v20171121/jetty-io-9.4.8.v20171121.jar
+2019-12-04 17:45:22,048 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-io/9.4.8.v20171121/jetty-io-9.4.8.v20171121.jar
+2019-12-04 17:45:22,199 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/websocket-common/9.4.8.v20171121/websocket-common-9.4.8.v20171121.jar
+2019-12-04 17:45:22,920 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/websocket-common/9.4.8.v20171121/websocket-common-9.4.8.v20171121.jar
+2019-12-04 17:45:23,090 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/websocket-api/9.4.8.v20171121/websocket-api-9.4.8.v20171121.jar
+2019-12-04 17:45:23,258 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/websocket/websocket-api/9.4.8.v20171121/websocket-api-9.4.8.v20171121.jar
+2019-12-04 17:45:23,747 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-control/2.0rc2/selenium-remote-control-2.0rc2.jar
+2019-12-04 17:45:24,931 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-control/2.0rc2/selenium-remote-control-2.0rc2.jar
+2019-12-04 17:45:25,162 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-htmlunit-driver/2.0rc2/selenium-htmlunit-driver-2.0rc2.jar
+2019-12-04 17:45:25,561 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-htmlunit-driver/2.0rc2/selenium-htmlunit-driver-2.0rc2.jar
+2019-12-04 17:45:25,820 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-iphone-driver/2.0rc2/selenium-iphone-driver-2.0rc2.jar
+2019-12-04 17:45:26,098 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-iphone-driver/2.0rc2/selenium-iphone-driver-2.0rc2.jar
+2019-12-04 17:45:26,489 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-server/2.0rc2/selenium-server-2.0rc2.jar
+2019-12-04 17:45:31,045 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-server/2.0rc2/selenium-server-2.0rc2.jar
+2019-12-04 17:45:31,212 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/bouncycastle/bcprov-jdk15/135/bcprov-jdk15-135.jar
+2019-12-04 17:45:34,530 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/bouncycastle/bcprov-jdk15/135/bcprov-jdk15-135.jar
+2019-12-04 17:45:34,904 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mortbay/jetty/servlet-api-2.5/6.1.9/servlet-api-2.5-6.1.9.jar
+2019-12-04 17:45:35,358 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mortbay/jetty/servlet-api-2.5/6.1.9/servlet-api-2.5-6.1.9.jar
+2019-12-04 17:45:38,525 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.21.0/maven-surefire-plugin-2.21.0.pom
+2019-12-04 17:45:38,692 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.21.0/maven-surefire-plugin-2.21.0.pom
+2019-12-04 17:45:38,889 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.21.0/surefire-2.21.0.pom
+2019-12-04 17:45:39,061 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.21.0/surefire-2.21.0.pom
+2019-12-04 17:45:40,508 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 17:45:40,518 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-04 17:45:40,536 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 17:45:40,537 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2019-12-04 17:45:42,944 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: apd:infoimage.iwm:0.0.1-SNAPSHOT @ C:\Users\MadhurVK\git\iif-qa-automation\infoimage.iwm\pom.xml.
+2019-12-04 17:45:44,647 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: apd:infoimage.iwm:0.0.1-SNAPSHOT @ C:\Users\MadhurVK\git\iif-qa-automation\infoimage.iwm7.2\pom.xml.
+2019-12-04 17:47:55,257 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 17:47:55,258 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-04 17:47:55,286 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 17:47:55,287 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2019-12-04 17:48:00,976 [Worker-29] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-04 17:48:02,053 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: apd:infoimage.iwm:0.0.1-SNAPSHOT @ C:\Users\MadhurVK\git\iif-qa-automation\infoimage.iwm7.2\pom.xml.
+2019-12-04 17:48:03,866 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /infoimage7.2.iwm2/src/main/java
+2019-12-04 17:48:03,866 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /infoimage7.2.iwm2/src/main/resources
+2019-12-04 17:48:03,871 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /infoimage7.2.iwm2/src/test/java
+2019-12-04 17:48:03,871 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /infoimage7.2.iwm2/src/test/resources
+2019-12-04 17:48:04,858 [Worker-29] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2019-12-04 17:48:09,406 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 17:48:09,408 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-04 17:48:09,428 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 17:48:09,429 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2019-12-04 17:53:02,417 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-12-04 17:53:13,411 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\MadhurVK\git\iif-qa-automation\infoimage.iwm7.2
+2019-12-04 17:53:13,411 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install compile test
+2019-12-04 17:54:15,781 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 17:54:15,783 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-04 17:54:15,785 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 17:54:15,791 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2019-12-04 17:54:22,297 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-12-04 17:54:31,418 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\MadhurVK\git\iif-qa-automation\infoimage.iwm7.2
+2019-12-04 17:54:31,418 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install compile test
+2019-12-04 18:10:32,095 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 18:10:32,098 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-04 18:10:32,100 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 18:10:32,101 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-04 18:10:33,135 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 18:10:33,136 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-04 18:10:33,139 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 18:10:33,140 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-04 18:12:54,352 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 18:12:54,353 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-04 18:12:54,359 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 18:12:54,361 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-04 18:13:09,692 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 18:13:09,695 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-04 18:13:09,698 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 18:13:09,699 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-04 18:14:03,419 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 18:14:03,420 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-04 18:14:03,422 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 18:14:03,423 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-04 18:15:39,413 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 18:15:39,414 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-04 18:15:39,416 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 18:15:39,418 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-04 18:22:46,901 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: apd:infoimage.iwm:0.0.1-SNAPSHOT @ C:\Users\MadhurVK\git\iif-qa-automation\infoimage.iwm7.2\pom.xml.
+2019-12-04 18:22:49,027 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 18:22:49,036 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-04 18:22:49,046 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 18:22:49,049 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2019-12-04 18:22:56,791 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 18:22:56,798 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-04 18:22:56,813 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 18:22:56,817 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2019-12-04 18:24:25,160 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 18:24:25,161 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-04 18:24:25,163 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 18:24:25,163 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-04 18:24:35,892 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-12-04 18:24:45,143 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\MadhurVK\git\iif-qa-automation\infoimage.iwm7.2
+2019-12-04 18:24:45,143 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install compile test
+2019-12-04 18:26:29,356 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 18:26:29,357 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-04 18:26:29,360 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 18:26:29,360 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-04 18:26:30,415 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 18:26:30,418 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-04 18:26:30,421 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 18:26:30,421 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-04 18:26:48,889 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-12-04 18:26:58,880 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\MadhurVK\git\iif-qa-automation\infoimage.iwm7.2
+2019-12-04 18:26:58,881 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install compile test
+2019-12-04 18:27:51,529 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.5.2/plexus-classworlds-2.5.2-sources.jar
+2019-12-04 18:27:52,089 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.5.2/plexus-classworlds-2.5.2-sources.jar
+2019-12-04 18:27:52,349 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/takari/aether/takari-local-repository/0.9.0/takari-local-repository-0.9.0-sources.jar
+2019-12-04 18:27:52,565 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/takari/aether/takari-local-repository/0.9.0/takari-local-repository-0.9.0-sources.jar
+2019-12-04 18:27:52,837 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/takari/takari-filemanager/0.7.0/takari-filemanager-0.7.0-sources.jar
+2019-12-04 18:27:53,058 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/takari/takari-filemanager/0.7.0/takari-filemanager-0.7.0-sources.jar
+2019-12-04 18:27:53,348 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.3.3/maven-core-3.3.3-sources.jar
+2019-12-04 18:27:54,464 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.3.3/maven-core-3.3.3-sources.jar
+2019-12-04 18:27:54,758 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.3.3/maven-model-3.3.3-sources.jar
+2019-12-04 18:27:55,647 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.3.3/maven-model-3.3.3-sources.jar
+2019-12-04 18:27:55,991 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.3.3/maven-settings-3.3.3-sources.jar
+2019-12-04 18:27:56,190 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.3.3/maven-settings-3.3.3-sources.jar
+2019-12-04 18:27:56,457 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.3.3/maven-settings-builder-3.3.3-sources.jar
+2019-12-04 18:27:56,655 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.3.3/maven-settings-builder-3.3.3-sources.jar
+2019-12-04 18:27:56,890 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-builder-support/3.3.3/maven-builder-support-3.3.3-sources.jar
+2019-12-04 18:27:57,087 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-builder-support/3.3.3/maven-builder-support-3.3.3-sources.jar
+2019-12-04 18:27:57,325 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.3.3/maven-repository-metadata-3.3.3-sources.jar
+2019-12-04 18:27:57,522 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.3.3/maven-repository-metadata-3.3.3-sources.jar
+2019-12-04 18:27:57,852 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.3.3/maven-artifact-3.3.3-sources.jar
+2019-12-04 18:27:58,051 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.3.3/maven-artifact-3.3.3-sources.jar
+2019-12-04 18:27:58,291 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.3.3/maven-plugin-api-3.3.3-sources.jar
+2019-12-04 18:27:58,489 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.3.3/maven-plugin-api-3.3.3-sources.jar
+2019-12-04 18:27:58,830 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.3.3/maven-model-builder-3.3.3-sources.jar
+2019-12-04 18:27:59,397 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.3.3/maven-model-builder-3.3.3-sources.jar
+2019-12-04 18:27:59,637 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.3.3/maven-aether-provider-3.3.3-sources.jar
+2019-12-04 18:27:59,844 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.3.3/maven-aether-provider-3.3.3-sources.jar
+2019-12-04 18:28:00,148 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-api/1.0.2.v20150114/aether-api-1.0.2.v20150114-sources.jar
+2019-12-04 18:28:00,545 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-api/1.0.2.v20150114/aether-api-1.0.2.v20150114-sources.jar
+2019-12-04 18:28:00,788 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-util/1.0.2.v20150114/aether-util-1.0.2.v20150114-sources.jar
+2019-12-04 18:28:01,359 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-util/1.0.2.v20150114/aether-util-1.0.2.v20150114-sources.jar
+2019-12-04 18:28:01,599 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.21/plexus-interpolation-1.21-sources.jar
+2019-12-04 18:28:01,981 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.21/plexus-interpolation-1.21-sources.jar
+2019-12-04 18:28:02,231 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.20/plexus-utils-3.0.20-sources.jar
+2019-12-04 18:28:03,000 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.20/plexus-utils-3.0.20-sources.jar
+2019-12-04 18:28:03,230 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5-sources.jar
+2019-12-04 18:28:03,422 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5-sources.jar
+2019-12-04 18:28:03,666 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-embedder/3.3.3/maven-embedder-3.3.3-sources.jar
+2019-12-04 18:28:03,877 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-embedder/3.3.3/maven-embedder-3.3.3-sources.jar
+2019-12-04 18:28:04,121 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.2/commons-cli-1.2-sources.jar
+2019-12-04 18:28:04,327 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.2/commons-cli-1.2-sources.jar
+2019-12-04 18:28:04,638 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-compat/3.3.3/maven-compat-3.3.3-sources.jar
+2019-12-04 18:28:05,422 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-compat/3.3.3/maven-compat-3.3.3-sources.jar
+2019-12-04 18:28:05,735 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/2.9/wagon-provider-api-2.9-sources.jar
+2019-12-04 18:28:05,960 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/2.9/wagon-provider-api-2.9-sources.jar
+2019-12-04 18:28:06,251 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-impl/1.0.2.v20150114/aether-impl-1.0.2.v20150114-sources.jar
+2019-12-04 18:28:06,638 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-impl/1.0.2.v20150114/aether-impl-1.0.2.v20150114-sources.jar
+2019-12-04 18:28:06,875 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-spi/1.0.2.v20150114/aether-spi-1.0.2.v20150114-sources.jar
+2019-12-04 18:28:07,092 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-spi/1.0.2.v20150114/aether-spi-1.0.2.v20150114-sources.jar
+2019-12-04 18:28:07,321 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/takari/aether/aether-connector-okhttp/0.15.0/aether-connector-okhttp-0.15.0-sources.jar
+2019-12-04 18:28:07,522 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/takari/aether/aether-connector-okhttp/0.15.0/aether-connector-okhttp-0.15.0-sources.jar
+2019-12-04 18:28:07,758 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/squareup/okhttp/okhttp/2.3.0/okhttp-2.3.0-sources.jar
+2019-12-04 18:28:08,339 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/squareup/okhttp/okhttp/2.3.0/okhttp-2.3.0-sources.jar
+2019-12-04 18:28:08,599 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/squareup/okio/okio/1.3.0/okio-1.3.0-sources.jar
+2019-12-04 18:28:08,804 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/squareup/okio/okio/1.3.0/okio-1.3.0-sources.jar
+2019-12-04 18:28:09,043 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-connector-basic/1.0.2.v20150114/aether-connector-basic-1.0.2.v20150114-sources.jar
+2019-12-04 18:28:09,257 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-connector-basic/1.0.2.v20150114/aether-connector-basic-1.0.2.v20150114-sources.jar
+2019-12-04 18:28:09,500 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-transport-wagon/1.0.2.v20150114/aether-transport-wagon-1.0.2.v20150114-sources.jar
+2019-12-04 18:28:09,698 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-transport-wagon/1.0.2.v20150114/aether-transport-wagon-1.0.2.v20150114-sources.jar
+2019-12-04 18:28:09,927 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-file/2.9/wagon-file-2.9-sources.jar
+2019-12-04 18:28:10,127 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-file/2.9/wagon-file-2.9-sources.jar
+2019-12-04 18:28:10,393 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6-sources.jar
+2019-12-04 18:28:11,570 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6-sources.jar
+2019-12-04 18:28:46,203 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 18:28:46,207 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-04 18:28:46,212 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 18:28:46,213 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-04 18:28:47,241 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 18:28:47,243 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-04 18:28:47,245 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 18:28:47,246 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-04 18:29:50,331 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 18:29:50,332 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-04 18:29:50,337 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 18:29:50,337 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-04 18:32:47,159 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: apd:infoimage.iwm:0.0.1-SNAPSHOT @ C:\Users\MadhurVK\git\iif-qa-automation\infoimage.iwm7.2\pom.xml.
+2019-12-04 18:32:48,747 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 18:32:48,749 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-04 18:32:48,751 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 18:32:48,752 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-04 18:32:53,898 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 18:32:53,899 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-04 18:32:53,915 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 18:32:53,918 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2019-12-04 18:33:10,180 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-12-04 18:33:18,840 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\MadhurVK\git\iif-qa-automation\infoimage.iwm7.2
+2019-12-04 18:33:18,840 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install compile test
+2019-12-04 18:35:50,752 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 18:35:50,753 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-04 18:35:50,757 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 18:35:50,757 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-04 18:35:51,836 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 18:35:51,839 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-04 18:35:51,842 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 18:35:51,843 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-04 18:37:12,272 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-12-04 18:37:23,728 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\MadhurVK\git\iif-qa-automation\infoimage.iwm7.2
+2019-12-04 18:37:23,728 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install compile test
+2019-12-04 18:45:04,176 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-12-04 18:45:20,981 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\MadhurVK\git\iif-qa-automation\infoimage.iwm7.2
+2019-12-04 18:45:20,981 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install compile test
+2019-12-04 18:53:20,020 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 18:53:20,021 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-04 18:53:20,022 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 18:53:20,022 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-04 19:10:25,310 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 19:10:25,312 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-04 19:10:25,314 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 19:10:25,314 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-04 19:19:59,367 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 19:19:59,368 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-04 19:19:59,370 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 19:19:59,370 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-04 19:20:29,771 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 19:20:29,772 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-04 19:20:29,779 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 19:20:29,780 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-04 19:20:38,812 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 19:20:38,812 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-04 19:20:38,814 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 19:20:38,815 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-04 19:22:59,422 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 19:22:59,423 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-04 19:22:59,424 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 19:22:59,425 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-04 19:25:33,657 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 19:25:33,658 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-04 19:25:33,658 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 19:25:33,659 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 09:05:13,305 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 09:05:13,319 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-05 09:05:13,330 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 09:05:13,332 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2019-12-05 09:05:49,265 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-05 09:05:50,920 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: apd:infoimage.iwm:0.0.1-SNAPSHOT @ C:\Users\MadhurVK\git\iif-qa-automation\infoimage.iwm7.2\pom.xml.
+2019-12-05 09:05:53,680 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /infoimage7.2.iwm2/src/main/java
+2019-12-05 09:05:53,680 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /infoimage7.2.iwm2/src/main/resources
+2019-12-05 09:05:53,687 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /infoimage7.2.iwm2/src/test/java
+2019-12-05 09:05:53,688 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /infoimage7.2.iwm2/src/test/resources
+2019-12-05 09:05:54,737 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2019-12-05 09:06:01,144 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 09:06:01,145 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-05 09:06:01,165 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 09:06:01,166 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2019-12-05 09:23:46,045 [Worker-21] WARN  o.e.r.models.ModelRepository - Failed to download org.eclipse.recommenders:index::zip:0.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/mars/)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:444) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:294) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:192) [org.eclipse.recommenders.models_2.3.0.v20160216-1255.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:174) [org.eclipse.recommenders.models_2.3.0.v20160216-1255.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:165) [org.eclipse.recommenders.models.rcp_2.3.0.v20160216-1255.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.3.0.v20160216-1255.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/mars/)
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:39) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:355) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.util.concurrency.RunnableErrorForwarder$1.run(RunnableErrorForwarder.java:67) ~[na:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$DirectExecutor.execute(BasicRepositoryConnector.java:581) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:249) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:520) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421) ~[na:na]
+	... 8 common frames omitted
+2019-12-05 09:27:03,140 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 09:27:03,152 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-05 09:27:03,156 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 09:27:03,157 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 09:27:04,248 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 09:27:04,249 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 09:27:04,250 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 09:27:04,251 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 09:27:47,054 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 09:27:47,057 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-05 09:27:47,061 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 09:27:47,061 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 09:38:46,510 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 09:38:46,511 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-05 09:38:46,514 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 09:38:46,514 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 09:38:47,567 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 09:38:47,568 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 09:38:47,572 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 09:38:47,573 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 09:44:44,782 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 09:44:44,786 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-05 09:44:44,793 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 09:44:44,799 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2019-12-05 09:47:12,151 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 09:47:12,151 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 09:47:12,152 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 09:47:12,156 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2019-12-05 09:50:16,020 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 09:50:16,022 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-05 09:50:16,027 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 09:50:16,028 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 09:51:54,649 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 09:51:54,650 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-05 09:51:54,652 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 09:51:54,653 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 09:52:09,462 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 09:52:09,463 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 09:52:09,470 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 09:52:09,477 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2019-12-05 09:52:26,729 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 09:52:26,730 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 09:52:26,731 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 09:52:26,735 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2019-12-05 09:52:49,468 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 09:52:49,470 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-05 09:52:49,472 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 09:52:49,476 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2019-12-05 09:53:44,971 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 09:53:44,972 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-05 09:53:44,980 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 09:53:44,980 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 10:08:00,767 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 10:08:00,770 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-05 10:08:00,775 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 10:08:00,775 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 10:08:40,842 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 10:08:40,844 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 10:08:40,846 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 10:08:40,852 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2019-12-05 10:13:07,816 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 10:13:07,817 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-05 10:13:07,823 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 10:13:07,824 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 10:15:49,153 [Worker-39] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration INFO_10635 references closed project infoimage7.2.iwm2
+org.eclipse.core.runtime.CoreException: Launch configuration INFO_10635 references closed project infoimage7.2.iwm2
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408) ~[org.eclipse.jdt.launching_3.8.0.v20150527-0946.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1280) ~[org.eclipse.jdt.launching_3.8.0.v20150527-0946.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:229) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.7.0.v20150402-1709.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:309) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:919) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+2019-12-05 10:15:49,177 [Worker-39] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration INFO_10635 references closed project infoimage7.2.iwm2
+org.eclipse.core.runtime.CoreException: Launch configuration INFO_10635 references closed project infoimage7.2.iwm2
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408) ~[org.eclipse.jdt.launching_3.8.0.v20150527-0946.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1280) ~[org.eclipse.jdt.launching_3.8.0.v20150527-0946.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:229) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.7.0.v20150402-1709.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:310) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:919) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+2019-12-05 10:15:49,185 [Worker-39] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration INFO_10635 references closed project infoimage7.2.iwm2
+org.eclipse.core.runtime.CoreException: Launch configuration INFO_10635 references closed project infoimage7.2.iwm2
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408) ~[org.eclipse.jdt.launching_3.8.0.v20150527-0946.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1280) ~[org.eclipse.jdt.launching_3.8.0.v20150527-0946.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:229) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.7.0.v20150402-1709.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2166) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:384) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:250) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:220) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:173) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:311) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:919) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+2019-12-05 10:15:49,189 [Worker-39] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration INFO_10679 references closed project infoimage7.2.iwm2
+org.eclipse.core.runtime.CoreException: Launch configuration INFO_10679 references closed project infoimage7.2.iwm2
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408) ~[org.eclipse.jdt.launching_3.8.0.v20150527-0946.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1280) ~[org.eclipse.jdt.launching_3.8.0.v20150527-0946.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:229) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.7.0.v20150402-1709.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:309) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:919) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+2019-12-05 10:15:49,192 [Worker-39] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration INFO_10679 references closed project infoimage7.2.iwm2
+org.eclipse.core.runtime.CoreException: Launch configuration INFO_10679 references closed project infoimage7.2.iwm2
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408) ~[org.eclipse.jdt.launching_3.8.0.v20150527-0946.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1280) ~[org.eclipse.jdt.launching_3.8.0.v20150527-0946.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:229) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.7.0.v20150402-1709.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:310) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:919) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+2019-12-05 10:15:49,199 [Worker-39] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration INFO_10679 references closed project infoimage7.2.iwm2
+org.eclipse.core.runtime.CoreException: Launch configuration INFO_10679 references closed project infoimage7.2.iwm2
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408) ~[org.eclipse.jdt.launching_3.8.0.v20150527-0946.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1280) ~[org.eclipse.jdt.launching_3.8.0.v20150527-0946.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:229) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.7.0.v20150402-1709.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2166) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:384) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:250) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:220) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:173) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:311) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:919) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+2019-12-05 10:15:52,944 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: apd:infoimage.iwm:0.0.1-SNAPSHOT @ C:\Users\MadhurVK\git\iif-qa-automation\infoimage.iwm7.2\pom.xml.
+2019-12-05 10:15:52,947 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: apd:infoimage.iwm:0.0.1-SNAPSHOT @ C:\Users\MadhurVK\git\iif-qa-automation\infoimage.iwm7.2\pom.xml.
+2019-12-05 10:15:55,236 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 10:15:55,237 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-05 10:15:55,247 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 10:15:55,248 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2019-12-05 10:15:57,576 [Worker-42] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: apd:infoimage.iwm:0.0.1-SNAPSHOT @ C:\Users\MadhurVK\git\iif-qa-automation\infoimage.iwm7.2\pom.xml.
+2019-12-05 10:16:00,530 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 10:16:00,531 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 10:16:00,533 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 10:16:00,533 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 10:27:11,069 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 10:27:11,071 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-05 10:27:11,079 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 10:27:11,079 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 10:27:12,124 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 10:27:12,124 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 10:27:12,125 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 10:27:12,126 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 10:50:58,654 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 10:50:58,655 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 10:50:58,656 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 10:50:58,657 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 10:50:59,759 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 10:50:59,760 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 10:50:59,762 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 10:50:59,764 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 11:12:19,362 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 11:12:19,364 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-05 11:12:19,375 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 11:12:19,375 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 11:15:44,849 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 11:15:44,850 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-05 11:15:44,858 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 11:15:44,859 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 11:16:02,106 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 11:16:02,107 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-05 11:16:02,111 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 11:16:02,111 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 11:20:28,092 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 11:20:28,093 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 11:20:28,094 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 11:20:28,095 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-05 11:21:24,742 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 11:21:24,744 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-05 11:21:24,750 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 11:21:24,751 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 11:26:20,750 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 11:26:20,751 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 11:26:20,752 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 11:26:20,752 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-05 11:26:21,829 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 11:26:21,829 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 11:26:21,831 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 11:26:21,831 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 11:28:39,103 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 11:28:39,104 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 11:28:39,108 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 11:28:39,110 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-05 11:35:10,122 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 11:35:10,125 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-05 11:35:10,126 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 11:35:10,128 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-05 12:06:01,296 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/3.11.0/selenium-api-3.11.0-sources.jar
+2019-12-05 12:06:02,373 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/3.11.0/selenium-api-3.11.0-sources.jar
+2019-12-05 12:06:02,493 [Worker-77] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-api:3.11.0
+2019-12-05 12:06:02,970 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 12:06:02,971 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 12:06:02,971 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 12:06:02,972 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 12:06:05,010 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 12:06:05,010 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 12:06:05,013 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 12:06:05,013 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 12:23:56,572 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 12:23:56,574 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 12:23:56,574 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 12:23:56,581 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2019-12-05 12:24:25,473 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 12:24:25,474 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 12:24:25,476 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 12:24:25,479 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2019-12-05 12:34:38,510 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 12:34:38,511 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 12:34:38,513 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 12:34:38,517 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2019-12-05 12:34:39,633 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 12:34:39,634 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 12:34:39,635 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 12:34:39,636 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 12:47:50,884 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 12:47:50,885 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 12:47:50,886 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 12:47:50,889 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2019-12-05 12:47:52,012 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 12:47:52,014 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 12:47:52,017 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 12:47:52,018 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 12:58:25,766 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 12:58:25,767 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 12:58:25,768 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 12:58:25,772 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2019-12-05 12:58:26,863 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 12:58:26,863 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 12:58:26,866 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 12:58:26,867 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 13:06:48,854 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 13:06:48,855 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 13:06:48,856 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 13:06:48,860 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2019-12-05 13:06:49,910 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 13:06:49,910 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 13:06:49,911 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 13:06:49,912 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 13:22:04,364 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 13:22:04,365 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 13:22:04,366 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 13:22:04,370 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2019-12-05 13:22:05,661 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 13:22:05,661 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 13:22:05,663 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 13:22:05,664 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 13:35:43,684 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 13:35:43,685 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 13:35:43,686 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 13:35:43,690 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2019-12-05 13:35:44,779 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 13:35:44,780 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 13:35:44,782 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 13:35:44,783 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 13:39:34,559 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 13:39:34,560 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 13:39:34,561 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 13:39:34,565 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2019-12-05 13:55:15,918 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 13:55:15,921 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-05 13:55:15,925 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 13:55:15,925 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 13:55:16,961 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 13:55:16,962 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 13:55:16,964 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 13:55:16,965 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 15:54:29,786 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 15:54:29,787 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-05 15:54:29,795 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 15:54:29,796 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 15:54:30,879 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 15:54:30,881 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 15:54:30,884 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 15:54:30,885 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 16:22:04,951 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 16:22:04,951 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-05 16:22:04,958 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 16:22:04,960 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 16:22:06,005 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 16:22:06,006 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 16:22:06,008 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 16:22:06,009 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 16:37:22,346 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 16:37:22,347 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-05 16:37:22,353 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 16:37:22,354 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 16:37:23,486 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 16:37:23,487 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 16:37:23,488 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 16:37:23,489 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 16:48:52,525 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 16:48:52,526 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-05 16:48:52,529 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 16:48:52,529 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 16:48:53,552 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 16:48:53,553 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 16:48:53,554 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 16:48:53,554 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 17:15:00,484 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 17:15:00,486 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-05 17:15:00,488 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 17:15:00,488 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 17:15:01,532 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 17:15:01,533 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 17:15:01,536 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 17:15:01,536 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 17:35:29,034 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 17:35:29,041 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-05 17:35:29,044 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 17:35:29,067 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2019-12-05 17:35:30,123 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 17:35:30,124 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 17:35:30,125 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 17:35:30,126 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 17:44:50,452 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 17:44:50,454 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-05 17:44:50,459 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 17:44:50,459 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 17:44:51,536 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 17:44:51,537 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 17:44:51,538 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 17:44:51,538 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-05 17:45:49,316 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 17:45:49,318 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-05 17:45:49,323 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 17:45:49,324 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-06 08:44:23,893 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-06 08:44:23,908 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-06 08:44:23,919 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-06 08:44:23,921 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2019-12-06 09:06:37,793 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-06 09:06:37,804 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-06 09:06:37,814 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-06 09:06:37,817 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-06 09:22:53,927 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-06 09:22:53,930 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-06 09:22:53,935 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-06 09:22:53,935 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-06 09:42:45,151 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-06 09:42:45,155 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-06 09:42:45,157 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-06 09:42:45,158 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-06 09:43:57,855 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-06 09:43:57,857 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-06 09:43:57,859 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-06 09:43:57,860 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-06 09:52:16,244 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-06 09:52:16,245 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-06 09:52:16,251 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-06 09:52:16,251 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-06 09:56:04,413 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-06 09:56:04,414 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-06 09:56:04,418 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-06 09:56:04,419 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-06 09:56:58,535 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-06 09:56:58,537 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-12-06 09:56:58,541 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-06 09:56:58,542 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-06 10:25:05,748 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-06 10:25:05,749 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-06 10:25:05,752 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-06 10:25:05,752 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-06 10:34:57,199 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-06 10:34:57,199 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-06 10:34:57,200 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-06 10:34:57,201 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-06 11:03:18,323 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-06 11:03:18,328 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-06 11:03:18,336 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-06 11:03:18,337 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-06 11:08:41,646 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-06 11:08:41,647 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-06 11:08:41,652 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-06 11:08:41,653 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-06 11:08:42,714 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-06 11:08:42,715 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-06 11:08:42,719 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-06 11:08:42,720 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-06 11:24:08,014 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-06 11:24:08,018 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-06 11:24:08,025 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-06 11:24:08,026 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

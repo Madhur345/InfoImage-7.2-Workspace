@@ -1,0 +1,756 @@
+package apd.infoimage.iwm.pageFactory;
+
+import java.util.Properties;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.ui.Select;
+import org.testng.Assert;
+import org.testng.Reporter;
+import apd.infoimage.iwm.genericLib.Driver;
+import apd.infoimage.iwm.projectLib.ServerClassIWM;
+
+/**
+ * @author SumanGaK
+ *
+ */
+public class SearchPage extends ServerClassIWM {
+
+	@FindBy(xpath = "//span[contains(text(),'Basic Search')]")
+	private WebElement BasicSearch;
+
+	public WebElement getBasicSearch() {
+		return BasicSearch;
+	}
+
+	@FindBy(xpath = "//span[contains(text(),'Refined Search')]")
+	private WebElement RefinedSearch;
+
+	public WebElement getRefinedSearch() {
+		return RefinedSearch;
+	}
+
+	@FindBy(xpath = "//select[@id='queryType']")
+	private WebElement selectQueryType;
+
+	public WebElement getSelectQueryType() {
+		return selectQueryType;
+	}
+
+	@FindBy(xpath = "//input[@name='searchText']")
+	private WebElement TextBox;
+
+	public WebElement getTextBox() {
+		return TextBox;
+	}
+
+	@FindBy(xpath = "//input[@name='ID_CODE-requried']")
+	private WebElement IdCode;
+
+	public WebElement getIdCode() {
+		return IdCode;
+	}
+
+	@FindBy(xpath = "//input[@name='INVOICE_NO']")
+	private WebElement InvoiceNo;
+
+	public WebElement getInvoiceNo() {
+		return InvoiceNo;
+	}
+
+	@FindBy(xpath = "//button[contains(text(),'Search')]")
+	private WebElement SearchButton;
+
+	public WebElement getSearchButton() {
+		return SearchButton;
+	}
+
+	@FindBy(id = "form_validate")
+	private WebElement RefinedSearchButton;
+
+	public WebElement getRefinedSearchButton() {
+		return RefinedSearchButton;
+	}
+
+	public static Properties prop;
+
+	@FindBy(id = "reserveWorkitem_btn")
+	private WebElement RetrieveButton;
+
+	public WebElement getRetrieveButton() {
+		return RetrieveButton;
+	}
+
+	@FindBy(xpath = "//div[@id='searchByNameTab']//button[contains(text(),'Search')]")
+	private WebElement sbnSearchBtn;
+
+	public WebElement getSbnSearchBtn() {
+		return sbnSearchBtn;
+	}
+
+	@FindBy(xpath = "//div[@id='searchByNameTab']//input[@id='radio_document']")
+	private WebElement sbnDocRadio;
+
+	public WebElement getSbnDocRadio() {
+		return sbnDocRadio;
+	}
+
+	@FindBy(xpath = "//div[contains(text(),'Query Results Not Found')]")
+	private WebElement noResultInSBN;
+
+	public WebElement getNoResultInSBN() {
+		return noResultInSBN;
+	}
+
+	// vinay
+	public WebElement getRetriveandOpenWorkitem(String workItem) {
+		WebElement retriveandOpenWorkitem = Driver.driver.findElement(By.xpath("//td[span/a/font[text()='" + workItem
+				+ "']]/preceding-sibling::td/span/i[@class='spanRetrieveOpen']"));
+		return retriveandOpenWorkitem;
+	}
+
+	// Added By Suman - 24/11/2017
+	@FindBy(xpath = "//div[text()='ID_CODE']")
+	private WebElement QueryFieldAsIdCodeColumn;
+
+	public WebElement getQueryFieldAsIdCodeColumn() {
+		return QueryFieldAsIdCodeColumn;
+	}
+
+	@FindBy(xpath = "//div[text()='INVOICE_NO']")
+	private WebElement QueryFieldAsInvoiceNoColumn;
+
+	public WebElement getQueryFieldAsInvoiceNoColumn() {
+		return QueryFieldAsInvoiceNoColumn;
+	}
+
+	// Added By Suman - 27/11/2017
+	@FindBy(xpath = "//tr[1]/td[1]/button[@class='actionBtn']")
+	private WebElement firstRowFirstCell;
+
+	public WebElement getFirstRowFirstCell() {
+		return firstRowFirstCell;
+	}
+
+	@FindBy(xpath = "//tr[2]/td[1]/button[@class='actionBtn']")
+	private WebElement secondRowFirstCell;
+
+	public WebElement getSecondRowFirstCell() {
+		return secondRowFirstCell;
+	}
+
+	@FindBy(xpath = "//i[@class='actionMetaDataIcon']")
+	private WebElement searchMetaData;
+
+	public WebElement getSearchMetaData() {
+		return searchMetaData;
+	}
+
+	@FindBy(xpath = "//i[@class='actionFormFieldIcon']")
+	private WebElement searchFormFields;
+
+	public WebElement getSearchFormFields() {
+		return searchFormFields;
+	}
+
+	@FindBy(xpath = "//i[@class='copyURLicn']")
+	private WebElement searchCopyURL;
+
+	public WebElement getSearchCopyURL() {
+		return searchCopyURL;
+	}
+
+	// Added by Jayashri
+	@FindBy(xpath = "//button[@id='save_criteria']")
+	private WebElement refinedSearchSaveBtn;
+
+	public WebElement getRefinedSearchSaveBtn() {
+		return refinedSearchSaveBtn;
+	}
+
+	@FindBy(xpath = "//span[@id='ui-id-1']")
+	private WebElement defineSearchPopup;
+
+	public WebElement getDefineSearchPopup() {
+		return defineSearchPopup;
+	}
+
+	@FindBy(xpath = "//input[@id='saveQuerySearchName']")
+	private WebElement defSearchNameTextbox;
+
+	public WebElement getDefSearchNameTextbox() {
+		return defSearchNameTextbox;
+	}
+
+	@FindBy(xpath = "//button[contains(@id,'saveQuerySearch')]")
+	private WebElement defSearchPopupSaveBtn;
+
+	public WebElement getDefSearchPopupSaveBtn() {
+		return defSearchPopupSaveBtn;
+	}
+
+	@FindBy(xpath = "//div[@id='searchByNameTab']//input[@id='radio_folder']")
+	private WebElement sbnFolderRadio;
+
+	public WebElement getSbnFolderRadio() {
+		return sbnFolderRadio;
+	}
+
+	@FindBy(xpath = "//div[@id='searchByNameTab']//input[@id='seacrhText']")
+	private WebElement wNameSearchTextbox;
+
+	public WebElement getwNameSearchTextbox() {
+		return wNameSearchTextbox;
+	}
+
+	public WebElement getDefinedSearchName(String defSrchname) {
+		WebElement def = Driver.driver.findElement(By.xpath("//div[@id='definedSaerchDiv']//span[text()='" + defSrchname + "']"));
+		return def;
+	}
+
+	// Jayashri
+	@FindBy(xpath = "//span[contains(text(),'Search By Name')]")
+	private WebElement searchByNameTab;
+
+	public WebElement getSearchByNameTab() {
+		return searchByNameTab;
+	}
+
+	@FindBy(xpath = "//table[@class='workitemSearchList']")
+	private WebElement defSearchResultTable;
+
+	public WebElement getDefSearchResultTable() {
+		return defSearchResultTable;
+	}
+
+	/**
+	 * This method runs a query in refined search.
+	 * 
+	 * @author PradhanJ
+	 * @param Workitem
+	 * @throws InterruptedException 
+	 * @throws Exception
+	 */
+	public void refinedSearchWithInvoiceNo(String workitem, String option) throws InterruptedException {
+		
+			hp.getSearchTab().click();
+			util.waitForPageToLoad();
+			util.waitForElementEnabled(RefinedSearch);
+			RefinedSearch.click();
+			util.waitForPageToLoad();
+			Thread.sleep(2000);
+
+			Select sel = new Select(getSelectQueryType());
+			sel.selectByValue(option);
+			Reporter.log("Option selected as " + option, true);
+			Thread.sleep(2000);
+			IdCode.sendKeys("Unisys");
+			InvoiceNo.sendKeys("1234");
+			RefinedSearchButton.click();
+
+			Thread.sleep(5000);
+			boolean f9 = util.verifyObjectPresentReturnsBool(cwp.getWorkItemName(workitem));
+			if (f9) {
+				Reporter.log("Workitem to be retreived using Refined Search is present in grid", true);
+			} else {
+				Reporter.log("Workitem to be retreived using Refined Search is not present in grid", true);
+				Assert.fail("Workitem to be retreived using Refined Search is not present in grid ");
+			}
+
+			cwp.getCheckBoxWorkItemName(workitem).click();
+			Thread.sleep(2000);
+
+			RetrieveButton.click();
+			util.waitForPageToLoad();
+			util.waitForElementEnabled(hp.getSearchTab());
+			util.wait(15000);
+
+	}
+
+	/**
+	 * This method retrieves a WorkItem from Search.
+	 * 
+	 * @author SumanGaK
+	 * @param Workitem
+	 * @throws Exception
+	 */
+	public void retrieveWorkItemFromSearch(String workitem) {
+		try {
+			hp.getSearchTab().click();
+			Reporter.log("Clicked on Search Tab", true);
+			Thread.sleep(5000);
+			BasicSearch.click();
+			Reporter.log("Clicked on Basic Search", true);
+
+			Thread.sleep(2000);
+
+			TextBox.sendKeys(workitem);
+			Reporter.log("Workitem name sent to text box", true);
+			SearchButton.click();
+			Reporter.log("Clicked on Search Button", true);
+			Thread.sleep(5000);
+
+			boolean f3 = util.verifyObjectPresentReturnsBool(cwp.getWorkItemName(workitem));
+			if (f3) {
+				Reporter.log("Workitem to be retreived is present in grid", true);
+			} else {
+				Reporter.log("Workitem to be retreived is not present in grid", true);
+				Assert.fail("Workitem to be retreived is not present in grid ");
+			}
+
+			sp.getCheckBoxWorkItemName(workitem).click();
+			Reporter.log("Workitem Check Box is clicked", true);
+
+			Thread.sleep(5000);
+
+			RetrieveButton.click();
+			Reporter.log("Retrieve Button is clicked", true);
+
+			Thread.sleep(5000);
+			Driver.driver.navigate().refresh();
+			hp.getWorkItemTab().click();
+			Reporter.log("Workitem tab is clicked", true);
+			util.waitForPageToLoad();
+			cwp.searchByNameInWorkitemTab(workitem);
+			Reporter.log("Searching By Workitem Name In Workitem tab", true);
+			boolean f4 = util.verifyObjectPresentReturnsBool(cwp.getWorkItemName(workitem));
+			if (f4) {
+				Reporter.log("Retrieved Workitem is present in grid", true);
+			} else {
+				Reporter.log("Retrieved Workitem is not present in grid", true);
+				Assert.fail("Retrieved Workitem is not present in grid ");
+			}
+		} catch (Exception e) {
+			Reporter.log("Retrieve WorkItem From Search failed due to " + e.getMessage());
+			Assert.fail("Retrieve WorkItem From Search  failed Assert");
+		}
+	}
+
+	/**
+	 * This method runs a query in refined search.
+	 * 
+	 * @author SumanGaK
+	 * @param Workitem
+	 * @param Query
+	 *            type dropdown option
+	 * @throws Exception
+	 */
+	public void runQueryInRefinedSearch(String workitem, String option) {
+		try {
+
+			hp.getSearchTab().click();
+			RefinedSearch.click();
+
+			Thread.sleep(2000);
+
+			Select sel = new Select(getSelectQueryType());
+			sel.selectByValue(option);
+			Reporter.log("Option selected as " + option, true);
+			Thread.sleep(2000);
+
+			IdCode.sendKeys("Unisys");
+			RefinedSearchButton.click();
+
+			searchWorkitemByNameInSearchpage(workitem);
+			Thread.sleep(2000);
+			boolean f9 = util.verifyObjectPresentReturnsBool(sp.getWorkItemName(workitem));
+			if (f9) {
+				Reporter.log("Workitem to be retreived using Refined Search is present in grid", true);
+			} else {
+				Reporter.log("Workitem to be retreived using Refined Search is not present in grid", true);
+				Assert.fail("Workitem to be retreived using Refined Search is not present in grid ");
+			}
+
+			sp.getCheckBoxWorkItemName(workitem).click();
+
+			Thread.sleep(2000);
+
+			RetrieveButton.click();
+		} catch (Exception e) {
+			Reporter.log("Run Query In Refined Search failed due to " + e.getMessage());
+			Assert.fail("Run Query In Refined Search failed Assert");
+		}
+	}
+
+	/**
+	 * This method runs a query in refined search.
+	 * 
+	 * @author SumanGaK
+	 * @param Query
+	 *            type dropdown option
+	 * @throws Exception
+	 */
+	public void runViewQueryFieldsInRefinedSearch(String option) {
+		try {
+			hp.getSearchTab().click();
+			Reporter.log("Search Tab is clicked ", true);
+			util.waitForPageToLoad();
+			Thread.sleep(2000);
+			RefinedSearch.click();
+			Reporter.log("Refined Search is clicked ", true);
+			util.waitForPageToLoad();
+
+			Thread.sleep(2000);
+
+			Select sele = new Select(getSelectQueryType());
+			sele.selectByValue(option);
+
+			Reporter.log("Option selected as " + option, true);
+			Thread.sleep(2000);
+
+			IdCode.sendKeys("Unisys");
+			InvoiceNo.sendKeys("Uni1");
+			RefinedSearchButton.click();
+			util.waitForPageToLoad();
+
+			Thread.sleep(2000);
+			boolean f10 = util.verifyObjectPresentReturnsBool(getQueryFieldAsIdCodeColumn());
+			if (f10) {
+				// Reporter.log("Query fields are displayed as columns in search
+				// result",true);
+				Reporter.log("Query field ID_CODE is displayed as column in search result", true);
+			} else {
+				// Reporter.log("Query fields are not displayed as columns in
+				// search result",true);
+				Reporter.log("Query field ID_CODE is not displayed as column in search result", true);
+				// Assert.fail("Query fields are not displayed as columns in
+				// search result");
+				Assert.fail("Query field ID_CODE is not displayed as column in search result");
+			}
+			Thread.sleep(2000);
+			boolean f11 = util.verifyObjectPresentReturnsBool(getQueryFieldAsInvoiceNoColumn());
+			if (f11) {
+				Reporter.log("Query field INVOICE_NO is displayed as column in search result", true);
+			} else {
+				Reporter.log("Query field INVOICE_NO is not displayed as column in search result", true);
+				Assert.fail("Query field INVOICE_NO is not displayed as column in search result");
+			}
+		} catch (Exception e) {
+			Reporter.log("Run Query In Refined Search failed due to " + e.getMessage());
+			Assert.fail("Run Query In Refined Search failed Assert");
+		}
+
+	}
+
+	// Added By SumanGaK - 25-May-2018
+	@FindBy(xpath = "//select[@id='columnNameForSearching']")
+	private WebElement workitemsDropDownForSearch;
+
+	public WebElement getWorkitemsDropDownForSearch() {
+		return workitemsDropDownForSearch;
+	}
+
+	@FindBy(id = "NumOfRows")
+	private WebElement sumOfRowsDropDown;
+
+	public WebElement getNumOfRowsDropDown() {
+		return sumOfRowsDropDown;
+	}
+	// Xpaths found By Jayashri on 05/31/2018 for nested Search
+
+	@FindBy(xpath = "//span[text()='Nested Search']")
+	private WebElement nestedSearchTab;
+
+	public WebElement getNestedSearchTab() {
+		return nestedSearchTab;
+	}
+
+	@FindBy(xpath = "//select[@class='nestedQueryType']")
+	private WebElement queryTypeDropdown;
+
+	public WebElement getQueryTypeDropdown() {
+		return queryTypeDropdown;
+	}
+
+	@FindBy(xpath = "(//select[@ng-disabled='rule.readonly'])[1]")
+	private WebElement idCodeOperatorDropdown;
+
+	public WebElement getIdCodeOperatorDropdown() {
+		return idCodeOperatorDropdown;
+	}
+
+	@FindBy(xpath = "(//input[@ng-disabled='rule.readonly'])[1]")
+	private WebElement idCodeFieldInNestedSearch;
+
+	public WebElement getIdCodeFieldInNestedSearch() {
+		return idCodeFieldInNestedSearch;
+	}
+
+	@FindBy(xpath = "(//select[@ng-disabled='rule.readonly'])[3]")
+	private WebElement termsOperatorDropdown;
+
+	public WebElement getTermsOperatorDropdown() {
+		return termsOperatorDropdown;
+	}
+
+	@FindBy(xpath = "//form[@name='nestedSearchForm']//button[contains(text(),'Search')]")
+	private WebElement searchBtnInnestedSearch;
+
+	public WebElement getSearchBtnInnestedSearch() {
+		return searchBtnInnestedSearch;
+	}
+
+	public static Properties getProp() {
+		return prop;
+	}
+
+	public WebElement getSumOfRowsDropDown() {
+		return sumOfRowsDropDown;
+	}
+
+	@FindBy(xpath = "(//input[@ng-switch-when='FieldTypeText'])[3]")
+	private WebElement termsFieldInNestedSearch;
+
+	public WebElement getTermsFieldInNestedSearch() {
+		return termsFieldInNestedSearch;
+	}
+
+	@FindBy(xpath = "//select[@id='columnNameForSearching']")
+	private WebElement ColumnForsearchDropdown;
+
+	public WebElement getColumnForsearchDropdown() {
+		return ColumnForsearchDropdown;
+	}
+
+	@FindBy(xpath = "//input[@id='searchField']")
+	private WebElement searchFieldTextbox;
+
+	public WebElement getSearchFieldTextbox() {
+		return searchFieldTextbox;
+	}
+
+	public void searchWorkitemByNameInSearchpage(String wiName) {
+		Select selectField = new Select(getColumnForsearchDropdown());
+		selectField.selectByVisibleText("Name");
+		util.wait(2000);
+		searchFieldTextbox.clear();
+		searchFieldTextbox.sendKeys(wiName);
+		searchFieldTextbox.sendKeys(Keys.ENTER);
+
+	}
+
+	public WebElement getWorkItemName(String workItem) {
+		WebElement foundWorkItem = Driver.driver.findElement(By.xpath("//font[text()='" + workItem + "']"));
+		return foundWorkItem;
+	}
+
+	// Added By Suman-05-JUN-2018
+	@FindBy(xpath = "(//input[@ng-disabled='rule.readonly'])[2]")
+	private WebElement invoiceNoFieldInNestedSearch;
+
+	public WebElement getInvoiceNoFieldInNestedSearch() {
+		return invoiceNoFieldInNestedSearch;
+	}
+
+	@FindBy(xpath = "(//input[@ng-model='rule.data'])[3]")
+	private WebElement multiANDTermsFieldInNestedSearch;
+
+	public WebElement getMultiANDTermsFieldInNestedSearch() {
+		return multiANDTermsFieldInNestedSearch;
+	}
+
+	// Added By Suman-06-JUN-2018
+	@FindBy(xpath = "//input[@id='queryTypeNested']/following-sibling::button[1]")
+	private WebElement searchButtonInNestedSearch;
+
+	public WebElement getSearchButtonInNestedSearch() {
+		return searchButtonInNestedSearch;
+	}
+
+
+	@FindBy(xpath = "(//input[@ng-disabled='rule.readonly'])[4]")
+	private WebElement idCodeFieldInORNestedSearch;
+
+	public WebElement getIdCodeFieldInORNestedSearch() {
+		return idCodeFieldInORNestedSearch;
+	}
+
+
+	@FindBy(xpath = "(//input[@ng-disabled='rule.readonly'])[5]")
+	private WebElement multiANDORInvoiceNoFieldInNestedSearch;
+
+	public WebElement getMultiANDORInvoiceNoFieldInNestedSearch() {
+		return multiANDORInvoiceNoFieldInNestedSearch;
+	}
+
+	@FindBy(xpath = "//div[contains(@text(),'Query Results Not Found')]")
+	private WebElement messagePresence;
+
+	public WebElement getMessagePresence() {
+		return messagePresence;
+	}
+	@FindBy(xpath="//div[@id='workItemListView']//div[@class='noResultsFound']")
+	private WebElement noResultMsg;
+
+	public WebElement getNoResultMsg() {
+		return noResultMsg;
+	}
+
+	//Added By Suman - 14-Jun-2018
+	@FindBy(xpath = "//select[@class='nestedQueryType']")
+	private WebElement selectNestedQueryType;
+
+	public WebElement getSelectNestedQueryType() {
+		return selectNestedQueryType;
+	}
+	@FindBy(xpath="//iframe[@id='pageContentframe']")
+	private WebElement noSearchResutFrame;
+
+	public WebElement getNoSearchResutFrame() {
+		return noSearchResutFrame;
+	}
+
+	// Added by Suman - 31-Jul-2018
+	public WebElement getCheckBoxWorkItemName(String workItem) {
+		/*WebElement checkBoxWorkItemName = Driver.driver
+				.findElement(By.xpath("(//td[span/a/font[text()='" + workItem + "']]/preceding-sibling::td/input)[1]"));*/
+		WebElement checkBoxWorkItemName = Driver.driver
+				.findElement(By.xpath("(//input[@class='selectId'])[1]"));
+		return checkBoxWorkItemName;
+	}
+
+
+	//Added By Suman - 07-Aug-2018
+	@FindBy(linkText = "Search History 1")
+	private WebElement historyOfBasicSearch;
+
+	public WebElement getHistoryOfBasicSearch() {
+		return historyOfBasicSearch;
+	}
+
+	@FindBy(xpath = "//div[@id='basicSearchTab']//input[@id='radio_folder']")
+	private WebElement basicSearchFolderRadio;
+
+	public WebElement getBasicSearchFolderRadio() {
+		return basicSearchFolderRadio;
+	}
+
+	@FindBy(xpath = "//input[@name='seacrhText']")
+	private WebElement sbnTextBox;
+
+	public WebElement getSbnTextBox() {
+		return sbnTextBox;
+	}
+
+	//Added By Suman - 13-Aug-2018
+	@FindBy(linkText = "Search History 1")
+	private WebElement historyOfSearch;
+
+	public WebElement getHistoryOfSearch() {
+		return historyOfSearch;
+	}	
+
+	@FindBy(xpath = "//div[@id='refinedSearchTab']//input[@id='radio_folder']")
+	private WebElement refinedSearchFolderRadio;
+
+	public WebElement getRefinedSearchFolderRadio() {
+		return refinedSearchFolderRadio;
+	}	
+
+	@FindBy(xpath="//select[@id='NumOfRows']")
+	private WebElement itemsPerPageSelect;
+
+	public WebElement getItemsPerPageSelect() {
+		return itemsPerPageSelect;
+	}
+
+
+	//Added By Suman - 24-Aug-2018	
+	@FindBy(xpath = "//div[@id='basicSearchTab']//input[@id='radio_enterprise']")
+	private WebElement enterpriseLevelRadio;
+
+	public WebElement getEnterpriseLevelRadio() {
+		return enterpriseLevelRadio;
+	}
+
+
+	//Added By Suman - 29-Aug-2018	
+	@FindBy(xpath = "//select[@id='scopeId']")
+	private WebElement selectScope;
+
+	public WebElement getScope() {
+		return selectScope;
+	}
+
+
+	@FindBy(xpath = "//div[@id='searchByNameTab']//input[@id='radio_folder']")
+	private WebElement searchByNameFolderRadio;
+
+	public WebElement getSearchByNameFolderRadio() {
+		return searchByNameFolderRadio;
+	}
+
+	//Added By Suman - 31-Aug-2018	
+	@FindBy(xpath = "//div[@id='refinedSearchTab']//input[@id='radio_enterprise']")
+	private WebElement refinedSearchEnterpriseLevelRadio;
+
+	public WebElement getRefinedSearchEnterpriseLevelRadio() {
+		return refinedSearchEnterpriseLevelRadio;
+	}
+	
+	@FindBy(xpath = "//div[@id='basicSearchTab']//input[@id='radio_enterprise']")
+	private WebElement basicSearchEnterpriseLevelRadio;
+
+	public WebElement getBasicSearchEnterpriseLevelRadio() {
+		return basicSearchEnterpriseLevelRadio;
+	}
+	
+	//Added By Suman - 21-Nov-2018
+	@FindBy(id = "save_criteria")
+	private WebElement refinedSearchSaveSearchButton;
+
+	public WebElement getRefinedSearchSaveSearchButton() {
+		return refinedSearchSaveSearchButton;
+	}
+	
+	@FindBy(xpath = "(//div[@class='alert-error'])[1]")
+	private WebElement saveSearchAlertErrorMessage;
+
+	public WebElement getSaveSearchAlertErrorMessage() {
+		return saveSearchAlertErrorMessage;
+	}
+	
+	@FindBy(xpath="//div[@id='errorMsg']//span")
+	private WebElement refinedSearchErrorMsg;
+
+	public WebElement getSelectScope() {
+		return selectScope;
+	}
+
+	public WebElement getRefinedSearchErrorMsg() {
+		return refinedSearchErrorMsg;
+	}
+	@FindBy(xpath="//input[@name='searchText']")
+	private WebElement searchBoxInBasicsearch;
+
+	public WebElement getSearchBoxInBasicsearch() {
+		return searchBoxInBasicsearch;
+	}
+	@FindBy(xpath="(//i[@class='spanRetrieveOpen'])[1]")
+	private WebElement retrievOpenBtnOfFirstWitem;
+
+	public WebElement getRetrievOpenBtnOfFirstWitem() {
+		return retrievOpenBtnOfFirstWitem;
+	}
+	//Added By Avnish 27th Nov 2018
+	@FindBy(xpath = "//input[@class='selectId']")
+	private WebElement searchByNameCheckBox;
+
+	public WebElement getsearchByNameCheckBox() {
+		return searchByNameCheckBox;
+	}
+
+	@FindBy(xpath = "(//button[@type='submit' and text()=' Search '])[1]")
+	private WebElement basicSearchButton;
+
+	
+	public WebElement getBasicSearchButton() {
+		return basicSearchButton;
+	}
+	
+	@FindBy(xpath = "//select[@id='noOfWorkItem']")
+	public WebElement getBasicSearchDropDown;
+
+}

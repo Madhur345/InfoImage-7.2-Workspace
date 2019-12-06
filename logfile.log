@@ -1,0 +1,1005 @@
+2019-12-04 18:35:28,105 INFO  [Log] Login successful 
+2019-12-04 18:35:28,131 INFO  [Log] **************************************************************************************** 
+2019-12-04 18:35:28,131 INFO  [Log] **************************************************************************************** 
+2019-12-04 18:35:28,131 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 INFO_10635_ verify 'Send to default' functionality  for document type of workitem under Actions in workitems page        $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-12-04 18:35:28,131 INFO  [Log] **************************************************************************************** 
+2019-12-04 18:35:28,131 INFO  [Log] **************************************************************************************** 
+2019-12-04 18:35:29,529 INFO  [Log] Workitem : wi1933812063529 
+2019-12-04 18:35:29,530 INFO  [Log] Class Name : archive 
+2019-12-04 18:35:29,530 INFO  [Log] Workitem Type : Document 
+2019-12-04 18:35:29,673 INFO  [Log] Create Workitem page box present 
+2019-12-04 18:35:36,937 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-        XXXXXXXXXXXXXXXXXXXXXX 
+2019-12-04 18:35:36,937 INFO  [Log] X 
+2019-12-04 18:35:36,937 INFO  [Log] X 
+2019-12-04 18:35:36,937 INFO  [Log] X 
+2019-12-04 18:35:36,937 INFO  [Log] X 
+2019-12-04 18:40:27,353 ERROR [Log] Login failed 
+2019-12-04 18:47:19,056 INFO  [Log] Login successful 
+2019-12-04 18:47:19,082 INFO  [Log] **************************************************************************************** 
+2019-12-04 18:47:19,082 INFO  [Log] **************************************************************************************** 
+2019-12-04 18:47:19,082 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 INFO_10635_ verify 'Send to default' functionality  for document type of workitem under Actions in workitems page        $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-12-04 18:47:19,082 INFO  [Log] **************************************************************************************** 
+2019-12-04 18:47:19,082 INFO  [Log] **************************************************************************************** 
+2019-12-04 18:47:20,322 INFO  [Log] Workitem : wi1933812064720 
+2019-12-04 18:47:20,322 INFO  [Log] Class Name : archive 
+2019-12-04 18:47:20,322 INFO  [Log] Workitem Type : Document 
+2019-12-04 18:47:20,472 INFO  [Log] Create Workitem page box present 
+2019-12-04 18:47:22,725 INFO  [Log] Create Workitem window box is present 
+2019-12-04 18:47:23,012 INFO  [Log]  Workitem name inserted 
+2019-12-04 18:48:34,552 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-        XXXXXXXXXXXXXXXXXXXXXX 
+2019-12-04 18:48:34,552 INFO  [Log] X 
+2019-12-04 18:48:34,552 INFO  [Log] X 
+2019-12-04 18:48:34,552 INFO  [Log] X 
+2019-12-04 18:48:34,552 INFO  [Log] X 
+2019-12-05 09:12:14,228 INFO  [Log] Login successful 
+2019-12-05 09:12:15,543 INFO  [Log] VerifyReturntoQueuFunctionalityForFolderTypeOfWorkitemWhereDocumentIsFiledInsideFolder 
+2019-12-05 09:12:15,543 INFO  [Log] Workitem : wi1933912091215 
+2019-12-05 09:12:15,543 INFO  [Log] Class Name : archive 
+2019-12-05 09:12:15,543 INFO  [Log] Workitem Type : Document 
+2019-12-05 09:12:15,672 INFO  [Log] Create Workitem page box present 
+2019-12-05 09:12:17,897 INFO  [Log] Create Workitem window box is present 
+2019-12-05 09:12:18,263 INFO  [Log]  Workitem name inserted 
+2019-12-05 09:13:28,412 ERROR [Log]  
+2019-12-05 09:13:28,413 INFO  [Log] INFO_10679 VerifyReturntoQueuFunctionalityForFolderTypeOfWorkitemWhereDocumentIsFiledInsideFolder is failed. 
+2019-12-05 09:13:28,422 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-        XXXXXXXXXXXXXXXXXXXXXX 
+2019-12-05 09:13:28,423 INFO  [Log] X 
+2019-12-05 09:13:28,423 INFO  [Log] X 
+2019-12-05 09:13:28,423 INFO  [Log] X 
+2019-12-05 09:13:28,423 INFO  [Log] X 
+2019-12-05 09:34:40,193 ERROR [Log] Login failed 
+2019-12-05 10:14:28,279 ERROR [Log] Login failed 
+2019-12-05 10:18:32,527 INFO  [Log] Login successful 
+2019-12-05 10:18:33,542 INFO  [Log] VerifyReturntoQueuFunctionalityForFolderTypeOfWorkitemWhereDocumentIsFiledInsideFolder 
+2019-12-05 10:18:33,543 INFO  [Log] Workitem : wi1933912101833 
+2019-12-05 10:18:33,543 INFO  [Log] Class Name : archive 
+2019-12-05 10:18:33,543 INFO  [Log] Workitem Type : Document 
+2019-12-05 10:18:33,670 INFO  [Log] Create Workitem page box present 
+2019-12-05 10:18:35,927 INFO  [Log] Create Workitem window box is present 
+2019-12-05 10:18:36,155 INFO  [Log]  Workitem name inserted 
+2019-12-05 10:19:46,303 ERROR [Log]  
+2019-12-05 10:19:46,304 INFO  [Log] INFO_10679 VerifyReturntoQueuFunctionalityForFolderTypeOfWorkitemWhereDocumentIsFiledInsideFolder is failed. 
+2019-12-05 10:19:46,307 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-        XXXXXXXXXXXXXXXXXXXXXX 
+2019-12-05 10:19:46,307 INFO  [Log] X 
+2019-12-05 10:19:46,307 INFO  [Log] X 
+2019-12-05 10:19:46,307 INFO  [Log] X 
+2019-12-05 10:19:46,307 INFO  [Log] X 
+2019-12-05 10:21:13,725 ERROR [Log] Log out failed 
+2019-12-05 10:30:09,593 INFO  [Log] Login successful 
+2019-12-05 10:30:10,598 INFO  [Log] VerifyReturntoQueuFunctionalityForFolderTypeOfWorkitemWhereDocumentIsFiledInsideFolder 
+2019-12-05 10:30:10,598 INFO  [Log] Workitem : wi1933912103010 
+2019-12-05 10:30:10,598 INFO  [Log] Class Name : archive 
+2019-12-05 10:30:10,599 INFO  [Log] Workitem Type : Document 
+2019-12-05 10:30:10,722 INFO  [Log] Create Workitem page box present 
+2019-12-05 10:30:12,933 INFO  [Log] Create Workitem window box is present 
+2019-12-05 10:30:13,162 INFO  [Log]  Workitem name inserted 
+2019-12-05 10:30:13,262 INFO  [Log] ClassName selected as archive 
+2019-12-05 10:30:17,545 INFO  [Log] Create Workitem submit button clicked 
+2019-12-05 10:33:10,643 ERROR [Log]  
+2019-12-05 10:33:10,643 INFO  [Log] INFO_10679 VerifyReturntoQueuFunctionalityForFolderTypeOfWorkitemWhereDocumentIsFiledInsideFolder is failed. 
+2019-12-05 10:33:10,648 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-        XXXXXXXXXXXXXXXXXXXXXX 
+2019-12-05 10:33:10,648 INFO  [Log] X 
+2019-12-05 10:33:10,648 INFO  [Log] X 
+2019-12-05 10:33:10,648 INFO  [Log] X 
+2019-12-05 10:33:10,648 INFO  [Log] X 
+2019-12-05 10:33:32,830 INFO  [Log] Log out success  
+2019-12-05 11:23:18,363 INFO  [Log] Login successful 
+2019-12-05 11:23:19,761 INFO  [Log] VerifyReturntoQueuFunctionalityForFolderTypeOfWorkitemWhereDocumentIsFiledInsideFolder 
+2019-12-05 11:23:19,762 INFO  [Log] Workitem : wi1933912112319 
+2019-12-05 11:23:19,762 INFO  [Log] Class Name : Archive 
+2019-12-05 11:23:19,763 INFO  [Log] Workitem Type : Document 
+2019-12-05 11:23:19,898 INFO  [Log] Create Workitem page box present 
+2019-12-05 11:23:22,186 INFO  [Log] Create Workitem window box is present 
+2019-12-05 11:23:22,649 INFO  [Log]  Workitem name inserted 
+2019-12-05 11:24:32,828 ERROR [Log]  
+2019-12-05 11:24:32,829 INFO  [Log] INFO_10679 VerifyReturntoQueuFunctionalityForFolderTypeOfWorkitemWhereDocumentIsFiledInsideFolder is failed. 
+2019-12-05 11:24:32,836 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-        XXXXXXXXXXXXXXXXXXXXXX 
+2019-12-05 11:24:32,837 INFO  [Log] X 
+2019-12-05 11:24:32,837 INFO  [Log] X 
+2019-12-05 11:24:32,837 INFO  [Log] X 
+2019-12-05 11:24:32,837 INFO  [Log] X 
+2019-12-05 11:26:00,536 ERROR [Log] Log out failed 
+2019-12-05 11:28:44,923 INFO  [Log] Login successful 
+2019-12-05 11:28:46,456 INFO  [Log] VerifyReturntoQueuFunctionalityForFolderTypeOfWorkitemWhereDocumentIsFiledInsideFolder 
+2019-12-05 11:28:46,457 INFO  [Log] Workitem : wi1933912112846 
+2019-12-05 11:28:46,457 INFO  [Log] Class Name : archive 
+2019-12-05 11:28:46,457 INFO  [Log] Workitem Type : Document 
+2019-12-05 11:28:46,658 INFO  [Log] Create Workitem page box present 
+2019-12-05 11:28:49,199 INFO  [Log] Create Workitem window box is present 
+2019-12-05 11:28:49,437 INFO  [Log]  Workitem name inserted 
+2019-12-05 11:28:49,667 INFO  [Log] ClassName selected as archive 
+2019-12-05 11:28:54,149 INFO  [Log] Create Workitem submit button clicked 
+2019-12-05 11:29:21,242 INFO  [Log] Workitem is created successfully 
+2019-12-05 11:29:21,244 INFO  [Log] CreateWorkitem operation performed 
+2019-12-05 11:29:21,246 INFO  [Log] Document: wi1933912112846 has been created 
+2019-12-05 11:29:21,247 INFO  [Log] Workitem Type : Folder 
+2019-12-05 11:29:21,494 INFO  [Log] Create Workitem page box present 
+2019-12-05 11:29:23,941 INFO  [Log] Create Workitem window box is present 
+2019-12-05 11:29:24,412 INFO  [Log]  Workitem name inserted 
+2019-12-05 11:29:24,586 INFO  [Log] ClassName selected as archive 
+2019-12-05 11:29:29,095 INFO  [Log] Create Workitem submit button clicked 
+2019-12-05 11:29:54,406 INFO  [Log] Workitem is created successfully 
+2019-12-05 11:29:54,407 INFO  [Log] Folder: folder1933912112846 has been created 
+2019-12-05 11:30:12,582 INFO  [Log] Selected: wi1933912112846 to file work item 
+2019-12-05 11:30:19,021 INFO  [Log] File Work item dialog box is open 
+2019-12-05 11:30:19,339 INFO  [Log] Selected destination folder as: folder1933912112846 
+2019-12-05 11:31:32,498 ERROR [Log] no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(),'File Workitem') and @type='submit']"}
+  (Session info: chrome=62.0.3202.94)
+  (Driver info: chromedriver=2.31.488763 (092de99f48a300323ecf8c2a4e2e7cab51de5ba8),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'IN-MADHURVK-1', ip: '129.221.62.89', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.31.488763 (092de99f48a300..., userDataDir: C:\Users\MadhurVK\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 62.0.3202.94, webStorageEnabled: true}
+Session ID: e0ed3603429a2302ecb9e824d62be3ef
+*** Element info: {Using=xpath, value=//button[contains(text(),'File Workitem') and @type='submit']} 
+2019-12-05 11:31:32,500 INFO  [Log] INFO_10679 VerifyReturntoQueuFunctionalityForFolderTypeOfWorkitemWhereDocumentIsFiledInsideFolder is failed. 
+2019-12-05 11:31:32,510 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-        XXXXXXXXXXXXXXXXXXXXXX 
+2019-12-05 11:31:32,511 INFO  [Log] X 
+2019-12-05 11:31:32,511 INFO  [Log] X 
+2019-12-05 11:31:32,511 INFO  [Log] X 
+2019-12-05 11:31:32,511 INFO  [Log] X 
+2019-12-05 11:33:00,435 ERROR [Log] Log out failed 
+2019-12-05 11:46:47,573 INFO  [Log] Login successful 
+2019-12-05 11:46:49,038 INFO  [Log] VerifyReturntoQueuFunctionalityForFolderTypeOfWorkitemWhereDocumentIsFiledInsideFolder 
+2019-12-05 11:46:49,038 INFO  [Log] Workitem : wi1933912114648 
+2019-12-05 11:46:49,038 INFO  [Log] Class Name : archive 
+2019-12-05 11:46:49,039 INFO  [Log] Workitem Type : Document 
+2019-12-05 11:46:49,204 INFO  [Log] Create Workitem page box present 
+2019-12-05 11:46:51,530 INFO  [Log] Create Workitem window box is present 
+2019-12-05 11:46:51,995 INFO  [Log]  Workitem name inserted 
+2019-12-05 11:46:52,186 INFO  [Log] ClassName selected as archive 
+2019-12-05 11:46:56,545 INFO  [Log] Create Workitem submit button clicked 
+2019-12-05 11:47:25,014 INFO  [Log] Workitem is created successfully 
+2019-12-05 11:47:25,015 INFO  [Log] CreateWorkitem operation performed 
+2019-12-05 11:47:25,017 INFO  [Log] Document: wi1933912114648 has been created 
+2019-12-05 11:47:25,018 INFO  [Log] Workitem Type : Folder 
+2019-12-05 11:47:25,321 INFO  [Log] Create Workitem page box present 
+2019-12-05 11:47:27,852 INFO  [Log] Create Workitem window box is present 
+2019-12-05 11:47:28,386 INFO  [Log]  Workitem name inserted 
+2019-12-05 11:47:28,659 INFO  [Log] ClassName selected as archive 
+2019-12-05 11:47:33,080 INFO  [Log] Create Workitem submit button clicked 
+2019-12-05 11:47:59,460 INFO  [Log] Workitem is created successfully 
+2019-12-05 11:47:59,461 INFO  [Log] Folder: folder1933912114648 has been created 
+2019-12-05 11:48:17,833 INFO  [Log] Selected: wi1933912114648 to file work item 
+2019-12-05 11:48:24,234 INFO  [Log] File Work item dialog box is open 
+2019-12-05 11:48:24,374 INFO  [Log] Selected destination folder as: folder1933912114648 
+2019-12-05 11:48:52,000 ERROR [Log] unknown error: Element <font class="WorkitemNameColor">...</font> is not clickable at point (218, 287). Other element would receive the click: <div class="ui-tooltip-content">...</div>
+  (Session info: chrome=62.0.3202.94)
+  (Driver info: chromedriver=2.31.488763 (092de99f48a300323ecf8c2a4e2e7cab51de5ba8),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'IN-MADHURVK-1', ip: '129.221.62.89', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.31.488763 (092de99f48a300..., userDataDir: C:\Users\MadhurVK\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 62.0.3202.94, webStorageEnabled: true}
+Session ID: 9fbe1b601eefae9596cfdf3110ffa1e2 
+2019-12-05 11:48:52,001 INFO  [Log] INFO_10679 VerifyReturntoQueuFunctionalityForFolderTypeOfWorkitemWhereDocumentIsFiledInsideFolder is failed. 
+2019-12-05 11:48:52,003 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-        XXXXXXXXXXXXXXXXXXXXXX 
+2019-12-05 11:48:52,003 INFO  [Log] X 
+2019-12-05 11:48:52,003 INFO  [Log] X 
+2019-12-05 11:48:52,003 INFO  [Log] X 
+2019-12-05 11:48:52,003 INFO  [Log] X 
+2019-12-05 11:50:19,673 ERROR [Log] Log out failed 
+2019-12-05 11:59:01,921 INFO  [Log] Login successful 
+2019-12-05 11:59:03,265 INFO  [Log] VerifyReturntoQueuFunctionalityForFolderTypeOfWorkitemWhereDocumentIsFiledInsideFolder 
+2019-12-05 11:59:03,265 INFO  [Log] Workitem : wi1933912115903 
+2019-12-05 11:59:03,265 INFO  [Log] Class Name : archive 
+2019-12-05 11:59:03,266 INFO  [Log] Workitem Type : Document 
+2019-12-05 11:59:03,420 INFO  [Log] Create Workitem page box present 
+2019-12-05 11:59:07,938 INFO  [Log] Create Workitem window box is present 
+2019-12-05 11:59:08,188 INFO  [Log]  Workitem name inserted 
+2019-12-05 11:59:08,406 INFO  [Log] ClassName selected as archive 
+2019-12-05 11:59:12,830 INFO  [Log] Create Workitem submit button clicked 
+2019-12-05 11:59:39,755 INFO  [Log] Workitem is created successfully 
+2019-12-05 11:59:39,757 INFO  [Log] CreateWorkitem operation performed 
+2019-12-05 11:59:39,757 INFO  [Log] Document: wi1933912115903 has been created 
+2019-12-05 11:59:39,758 INFO  [Log] Workitem Type : Folder 
+2019-12-05 11:59:40,099 INFO  [Log] Create Workitem page box present 
+2019-12-05 11:59:42,570 INFO  [Log] Create Workitem window box is present 
+2019-12-05 11:59:43,168 INFO  [Log]  Workitem name inserted 
+2019-12-05 11:59:43,355 INFO  [Log] ClassName selected as archive 
+2019-12-05 11:59:56,148 INFO  [Log] Create Workitem submit button clicked 
+2019-12-05 12:00:13,644 INFO  [Log] Workitem is created successfully 
+2019-12-05 12:00:13,645 INFO  [Log] Folder: folder1933912115903 has been created 
+2019-12-05 12:00:31,782 INFO  [Log] Selected: wi1933912115903 to file work item 
+2019-12-05 12:00:38,127 INFO  [Log] File Work item dialog box is open 
+2019-12-05 12:00:38,290 INFO  [Log] Selected destination folder as: folder1933912115903 
+2019-12-05 12:01:05,783 ERROR [Log] unknown error: Element <font class="WorkitemNameColor">...</font> is not clickable at point (218, 287). Other element would receive the click: <div class="ui-tooltip-content">...</div>
+  (Session info: chrome=62.0.3202.94)
+  (Driver info: chromedriver=2.31.488763 (092de99f48a300323ecf8c2a4e2e7cab51de5ba8),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'IN-MADHURVK-1', ip: '129.221.62.89', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.31.488763 (092de99f48a300..., userDataDir: C:\Users\MadhurVK\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 62.0.3202.94, webStorageEnabled: true}
+Session ID: 2e11596a7b05f8526b0aa2b8b3859176 
+2019-12-05 12:01:05,784 INFO  [Log] INFO_10679 VerifyReturntoQueuFunctionalityForFolderTypeOfWorkitemWhereDocumentIsFiledInsideFolder is failed. 
+2019-12-05 12:01:05,789 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-        XXXXXXXXXXXXXXXXXXXXXX 
+2019-12-05 12:01:05,789 INFO  [Log] X 
+2019-12-05 12:01:05,789 INFO  [Log] X 
+2019-12-05 12:01:05,789 INFO  [Log] X 
+2019-12-05 12:01:05,789 INFO  [Log] X 
+2019-12-05 12:02:33,521 ERROR [Log] Log out failed 
+2019-12-05 12:27:30,641 ERROR [Log] Login failed 
+2019-12-05 12:27:56,114 INFO  [Log] Login successful 
+2019-12-05 12:27:57,575 INFO  [Log] VerifyReturntoQueuFunctionalityForFolderTypeOfWorkitemWhereDocumentIsFiledInsideFolder 
+2019-12-05 12:27:57,576 INFO  [Log] Workitem : wi1933912122757 
+2019-12-05 12:27:57,576 INFO  [Log] Class Name : archive 
+2019-12-05 12:27:57,577 INFO  [Log] Workitem Type : Document 
+2019-12-05 12:27:57,719 INFO  [Log] Create Workitem page box present 
+2019-12-05 12:28:00,104 INFO  [Log] Create Workitem window box is present 
+2019-12-05 12:28:00,365 INFO  [Log]  Workitem name inserted 
+2019-12-05 12:28:00,580 INFO  [Log] ClassName selected as archive 
+2019-12-05 12:28:05,299 INFO  [Log] Create Workitem submit button clicked 
+2019-12-05 12:28:25,137 INFO  [Log] Workitem is created successfully 
+2019-12-05 12:28:25,138 INFO  [Log] CreateWorkitem operation performed 
+2019-12-05 12:28:25,139 INFO  [Log] Document: wi1933912122757 has been created 
+2019-12-05 12:28:25,139 INFO  [Log] Workitem Type : Folder 
+2019-12-05 12:28:25,347 INFO  [Log] Create Workitem page box present 
+2019-12-05 12:28:27,856 INFO  [Log] Create Workitem window box is present 
+2019-12-05 12:28:28,178 INFO  [Log]  Workitem name inserted 
+2019-12-05 12:28:28,421 INFO  [Log] ClassName selected as archive 
+2019-12-05 12:28:32,854 INFO  [Log] Create Workitem submit button clicked 
+2019-12-05 12:28:53,197 INFO  [Log] Workitem is created successfully 
+2019-12-05 12:28:53,199 INFO  [Log] Folder: folder1933912122757 has been created 
+2019-12-05 12:29:11,294 INFO  [Log] Selected: wi1933912122757 to file work item 
+2019-12-05 12:29:17,680 INFO  [Log] File Work item dialog box is open 
+2019-12-05 12:29:17,993 INFO  [Log] Selected destination folder as: folder1933912122757 
+2019-12-05 12:29:45,775 ERROR [Log] unknown error: Element <font class="WorkitemNameColor">...</font> is not clickable at point (218, 250). Other element would receive the click: <div class="ui-tooltip-content">...</div>
+  (Session info: chrome=62.0.3202.94)
+  (Driver info: chromedriver=2.31.488763 (092de99f48a300323ecf8c2a4e2e7cab51de5ba8),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'IN-MADHURVK-1', ip: '129.221.62.89', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.31.488763 (092de99f48a300..., userDataDir: C:\Users\MadhurVK\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 62.0.3202.94, webStorageEnabled: true}
+Session ID: 5398fca1b28194bf8d5169d60d1ec852 
+2019-12-05 12:29:45,775 INFO  [Log] INFO_10679 VerifyReturntoQueuFunctionalityForFolderTypeOfWorkitemWhereDocumentIsFiledInsideFolder is failed. 
+2019-12-05 12:29:45,778 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-        XXXXXXXXXXXXXXXXXXXXXX 
+2019-12-05 12:29:45,778 INFO  [Log] X 
+2019-12-05 12:29:45,779 INFO  [Log] X 
+2019-12-05 12:29:45,779 INFO  [Log] X 
+2019-12-05 12:29:45,779 INFO  [Log] X 
+2019-12-05 12:31:13,533 ERROR [Log] Log out failed 
+2019-12-05 12:37:15,298 INFO  [Log] Login successful 
+2019-12-05 12:37:16,803 INFO  [Log] VerifyReturntoQueuFunctionalityForFolderTypeOfWorkitemWhereDocumentIsFiledInsideFolder 
+2019-12-05 12:37:16,803 INFO  [Log] Workitem : wi1933912123716 
+2019-12-05 12:37:16,804 INFO  [Log] Class Name : archive 
+2019-12-05 12:37:16,804 INFO  [Log] Workitem Type : Document 
+2019-12-05 12:37:16,971 INFO  [Log] Create Workitem page box present 
+2019-12-05 12:37:19,195 INFO  [Log] Create Workitem window box is present 
+2019-12-05 12:37:19,467 INFO  [Log]  Workitem name inserted 
+2019-12-05 12:37:19,683 INFO  [Log] ClassName selected as archive 
+2019-12-05 12:37:24,245 INFO  [Log] Create Workitem submit button clicked 
+2019-12-05 12:37:44,262 INFO  [Log] Workitem is created successfully 
+2019-12-05 12:37:44,263 INFO  [Log] CreateWorkitem operation performed 
+2019-12-05 12:37:44,264 INFO  [Log] Document: wi1933912123716 has been created 
+2019-12-05 12:37:44,265 INFO  [Log] Workitem Type : Folder 
+2019-12-05 12:37:44,583 INFO  [Log] Create Workitem page box present 
+2019-12-05 12:37:46,907 INFO  [Log] Create Workitem window box is present 
+2019-12-05 12:37:47,362 INFO  [Log]  Workitem name inserted 
+2019-12-05 12:37:47,569 INFO  [Log] ClassName selected as archive 
+2019-12-05 12:37:52,144 INFO  [Log] Create Workitem submit button clicked 
+2019-12-05 12:38:12,279 INFO  [Log] Workitem is created successfully 
+2019-12-05 12:38:12,280 INFO  [Log] Folder: folder1933912123716 has been created 
+2019-12-05 12:38:30,177 INFO  [Log] Selected: wi1933912123716 to file work item 
+2019-12-05 12:38:36,685 INFO  [Log] File Work item dialog box is open 
+2019-12-05 12:38:36,991 INFO  [Log] Selected destination folder as: folder1933912123716 
+2019-12-05 12:40:18,944 ERROR [Log] no such element: Unable to locate element: {"method":"xpath","selector":"//font[text()='folder1933912123716']"}
+  (Session info: chrome=62.0.3202.94)
+  (Driver info: chromedriver=2.31.488763 (092de99f48a300323ecf8c2a4e2e7cab51de5ba8),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'IN-MADHURVK-1', ip: '129.221.62.89', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.31.488763 (092de99f48a300..., userDataDir: C:\Users\MadhurVK\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 62.0.3202.94, webStorageEnabled: true}
+Session ID: 6c6c36d716b7aedb09e136bd57bb5c31
+*** Element info: {Using=xpath, value=//font[text()='folder1933912123716']} 
+2019-12-05 12:40:18,945 INFO  [Log] INFO_10679 VerifyReturntoQueuFunctionalityForFolderTypeOfWorkitemWhereDocumentIsFiledInsideFolder is failed. 
+2019-12-05 12:40:18,955 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-        XXXXXXXXXXXXXXXXXXXXXX 
+2019-12-05 12:40:18,955 INFO  [Log] X 
+2019-12-05 12:40:18,955 INFO  [Log] X 
+2019-12-05 12:40:18,955 INFO  [Log] X 
+2019-12-05 12:40:18,955 INFO  [Log] X 
+2019-12-05 12:40:38,998 INFO  [Log] Log out success  
+2019-12-05 12:49:57,671 INFO  [Log] Login successful 
+2019-12-05 12:49:59,030 INFO  [Log] VerifyReturntoQueuFunctionalityForFolderTypeOfWorkitemWhereDocumentIsFiledInsideFolder 
+2019-12-05 12:49:59,030 INFO  [Log] Workitem : wi1933912124958 
+2019-12-05 12:49:59,030 INFO  [Log] Class Name : archive 
+2019-12-05 12:49:59,031 INFO  [Log] Workitem Type : Document 
+2019-12-05 12:49:59,167 INFO  [Log] Create Workitem page box present 
+2019-12-05 12:50:01,387 INFO  [Log] Create Workitem window box is present 
+2019-12-05 12:50:01,672 INFO  [Log]  Workitem name inserted 
+2019-12-05 12:50:01,909 INFO  [Log] ClassName selected as archive 
+2019-12-05 12:50:06,360 INFO  [Log] Create Workitem submit button clicked 
+2019-12-05 12:50:26,498 INFO  [Log] Workitem is created successfully 
+2019-12-05 12:50:26,500 INFO  [Log] CreateWorkitem operation performed 
+2019-12-05 12:50:26,500 INFO  [Log] Document: wi1933912124958 has been created 
+2019-12-05 12:50:26,501 INFO  [Log] Workitem Type : Folder 
+2019-12-05 12:50:26,830 INFO  [Log] Create Workitem page box present 
+2019-12-05 12:50:29,299 INFO  [Log] Create Workitem window box is present 
+2019-12-05 12:50:29,659 INFO  [Log]  Workitem name inserted 
+2019-12-05 12:50:29,862 INFO  [Log] ClassName selected as archive 
+2019-12-05 12:50:34,454 INFO  [Log] Create Workitem submit button clicked 
+2019-12-05 12:50:54,685 INFO  [Log] Workitem is created successfully 
+2019-12-05 12:50:54,685 INFO  [Log] Folder: folder1933912124958 has been created 
+2019-12-05 12:51:13,002 INFO  [Log] Selected: wi1933912124958 to file work item 
+2019-12-05 12:51:19,422 INFO  [Log] File Work item dialog box is open 
+2019-12-05 12:51:19,694 INFO  [Log] Selected destination folder as: folder1933912124958 
+2019-12-05 12:53:04,471 ERROR [Log] no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='contentItem']"}
+  (Session info: chrome=62.0.3202.94)
+  (Driver info: chromedriver=2.31.488763 (092de99f48a300323ecf8c2a4e2e7cab51de5ba8),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'IN-MADHURVK-1', ip: '129.221.62.89', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.31.488763 (092de99f48a300..., userDataDir: C:\Users\MadhurVK\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 62.0.3202.94, webStorageEnabled: true}
+Session ID: 1156e4423ecf9a2fbb59f86087d72db8
+*** Element info: {Using=xpath, value=//div[@id='contentItem']} 
+2019-12-05 12:53:04,473 INFO  [Log] INFO_10679 VerifyReturntoQueuFunctionalityForFolderTypeOfWorkitemWhereDocumentIsFiledInsideFolder is failed. 
+2019-12-05 12:53:04,481 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-        XXXXXXXXXXXXXXXXXXXXXX 
+2019-12-05 12:53:04,482 INFO  [Log] X 
+2019-12-05 12:53:04,482 INFO  [Log] X 
+2019-12-05 12:53:04,482 INFO  [Log] X 
+2019-12-05 12:53:04,482 INFO  [Log] X 
+2019-12-05 12:53:24,444 INFO  [Log] Log out success  
+2019-12-05 13:00:21,997 INFO  [Log] Login successful 
+2019-12-05 13:00:23,026 INFO  [Log] VerifyReturntoQueuFunctionalityForFolderTypeOfWorkitemWhereDocumentIsFiledInsideFolder 
+2019-12-05 13:00:23,026 INFO  [Log] Workitem : wi1933912010022 
+2019-12-05 13:00:23,027 INFO  [Log] Class Name : archive 
+2019-12-05 13:00:23,027 INFO  [Log] Workitem Type : Document 
+2019-12-05 13:00:23,149 INFO  [Log] Create Workitem page box present 
+2019-12-05 13:00:25,406 INFO  [Log] Create Workitem window box is present 
+2019-12-05 13:00:25,649 INFO  [Log]  Workitem name inserted 
+2019-12-05 13:00:25,832 INFO  [Log] ClassName selected as archive 
+2019-12-05 13:00:30,179 INFO  [Log] Create Workitem submit button clicked 
+2019-12-05 13:00:48,987 INFO  [Log] Workitem is created successfully 
+2019-12-05 13:00:48,987 INFO  [Log] CreateWorkitem operation performed 
+2019-12-05 13:00:48,988 INFO  [Log] Document: wi1933912010022 has been created 
+2019-12-05 13:00:48,988 INFO  [Log] Workitem Type : Folder 
+2019-12-05 13:00:49,091 INFO  [Log] Create Workitem page box present 
+2019-12-05 13:00:51,388 INFO  [Log] Create Workitem window box is present 
+2019-12-05 13:00:51,648 INFO  [Log]  Workitem name inserted 
+2019-12-05 13:00:51,824 INFO  [Log] ClassName selected as archive 
+2019-12-05 13:00:56,164 INFO  [Log] Create Workitem submit button clicked 
+2019-12-05 13:01:15,548 INFO  [Log] Workitem is created successfully 
+2019-12-05 13:01:15,549 INFO  [Log] Folder: folder1933912010022 has been created 
+2019-12-05 13:01:33,318 INFO  [Log] Selected: wi1933912010022 to file work item 
+2019-12-05 13:01:39,574 INFO  [Log] File Work item dialog box is open 
+2019-12-05 13:01:39,733 INFO  [Log] Selected destination folder as: folder1933912010022 
+2019-12-05 13:03:17,089 ERROR [Log] Cannot locate element with text: folder1933912010022
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'IN-MADHURVK-1', ip: '129.221.62.89', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: driver.version: unknown 
+2019-12-05 13:03:17,089 INFO  [Log] INFO_10679 VerifyReturntoQueuFunctionalityForFolderTypeOfWorkitemWhereDocumentIsFiledInsideFolder is failed. 
+2019-12-05 13:03:17,096 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-        XXXXXXXXXXXXXXXXXXXXXX 
+2019-12-05 13:03:17,096 INFO  [Log] X 
+2019-12-05 13:03:17,096 INFO  [Log] X 
+2019-12-05 13:03:17,096 INFO  [Log] X 
+2019-12-05 13:03:17,096 INFO  [Log] X 
+2019-12-05 13:08:54,653 INFO  [Log] Login successful 
+2019-12-05 13:08:55,748 INFO  [Log] VerifyReturntoQueuFunctionalityForFolderTypeOfWorkitemWhereDocumentIsFiledInsideFolder 
+2019-12-05 13:08:55,748 INFO  [Log] Workitem : wi1933912010855 
+2019-12-05 13:08:55,748 INFO  [Log] Class Name : archive 
+2019-12-05 13:08:55,748 INFO  [Log] Workitem Type : Document 
+2019-12-05 13:08:55,881 INFO  [Log] Create Workitem page box present 
+2019-12-05 13:08:58,101 INFO  [Log] Create Workitem window box is present 
+2019-12-05 13:08:58,317 INFO  [Log]  Workitem name inserted 
+2019-12-05 13:08:58,497 INFO  [Log] ClassName selected as archive 
+2019-12-05 13:09:02,795 INFO  [Log] Create Workitem submit button clicked 
+2019-12-05 13:09:21,967 INFO  [Log] Workitem is created successfully 
+2019-12-05 13:09:21,967 INFO  [Log] CreateWorkitem operation performed 
+2019-12-05 13:09:21,967 INFO  [Log] Document: wi1933912010855 has been created 
+2019-12-05 13:09:21,967 INFO  [Log] Workitem Type : Folder 
+2019-12-05 13:09:22,069 INFO  [Log] Create Workitem page box present 
+2019-12-05 13:09:24,266 INFO  [Log] Create Workitem window box is present 
+2019-12-05 13:09:24,498 INFO  [Log]  Workitem name inserted 
+2019-12-05 13:09:24,691 INFO  [Log] ClassName selected as archive 
+2019-12-05 13:09:29,085 INFO  [Log] Create Workitem submit button clicked 
+2019-12-05 13:09:48,114 INFO  [Log] Workitem is created successfully 
+2019-12-05 13:09:48,114 INFO  [Log] Folder: folder1933912010855 has been created 
+2019-12-05 13:10:05,808 INFO  [Log] Selected: wi1933912010855 to file work item 
+2019-12-05 13:10:12,125 INFO  [Log] File Work item dialog box is not open 
+2019-12-05 13:10:12,127 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-        XXXXXXXXXXXXXXXXXXXXXX 
+2019-12-05 13:10:12,127 INFO  [Log] X 
+2019-12-05 13:10:12,127 INFO  [Log] X 
+2019-12-05 13:10:12,127 INFO  [Log] X 
+2019-12-05 13:10:12,127 INFO  [Log] X 
+2019-12-05 13:11:39,596 ERROR [Log] Log out failed 
+2019-12-05 13:17:51,220 INFO  [Log] Login successful 
+2019-12-05 13:17:52,307 INFO  [Log] VerifyReturntoQueuFunctionalityForFolderTypeOfWorkitemWhereDocumentIsFiledInsideFolder 
+2019-12-05 13:17:52,307 INFO  [Log] Workitem : wi1933912011752 
+2019-12-05 13:17:52,308 INFO  [Log] Class Name : archive 
+2019-12-05 13:17:52,308 INFO  [Log] Workitem Type : Document 
+2019-12-05 13:17:52,432 INFO  [Log] Create Workitem page box present 
+2019-12-05 13:17:54,678 INFO  [Log] Create Workitem window box is present 
+2019-12-05 13:17:54,919 INFO  [Log]  Workitem name inserted 
+2019-12-05 13:17:55,103 INFO  [Log] ClassName selected as archive 
+2019-12-05 13:17:59,349 INFO  [Log] Create Workitem submit button clicked 
+2019-12-05 13:18:18,526 INFO  [Log] Workitem is created successfully 
+2019-12-05 13:18:18,527 INFO  [Log] CreateWorkitem operation performed 
+2019-12-05 13:18:18,527 INFO  [Log] Document: wi1933912011752 has been created 
+2019-12-05 13:18:18,528 INFO  [Log] Workitem Type : Folder 
+2019-12-05 13:18:18,641 INFO  [Log] Create Workitem page box present 
+2019-12-05 13:18:20,841 INFO  [Log] Create Workitem window box is present 
+2019-12-05 13:18:21,103 INFO  [Log]  Workitem name inserted 
+2019-12-05 13:18:21,287 INFO  [Log] ClassName selected as archive 
+2019-12-05 13:18:25,695 INFO  [Log] Create Workitem submit button clicked 
+2019-12-05 13:18:44,945 INFO  [Log] Workitem is created successfully 
+2019-12-05 13:18:44,945 INFO  [Log] Folder: folder1933912011752 has been created 
+2019-12-05 13:19:02,707 INFO  [Log] Selected: wi1933912011752 to file work item 
+2019-12-05 13:19:08,972 INFO  [Log] File Work item dialog box is open 
+2019-12-05 13:19:09,153 INFO  [Log] Selected destination folder as: folder1933912011752 
+2019-12-05 13:20:46,795 ERROR [Log] Cannot locate element with text: folder1933912011752
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'IN-MADHURVK-1', ip: '129.221.62.89', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: driver.version: unknown 
+2019-12-05 13:20:46,796 INFO  [Log] INFO_10679 VerifyReturntoQueuFunctionalityForFolderTypeOfWorkitemWhereDocumentIsFiledInsideFolder is failed. 
+2019-12-05 13:20:46,799 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-        XXXXXXXXXXXXXXXXXXXXXX 
+2019-12-05 13:20:46,799 INFO  [Log] X 
+2019-12-05 13:20:46,799 INFO  [Log] X 
+2019-12-05 13:20:46,799 INFO  [Log] X 
+2019-12-05 13:20:46,799 INFO  [Log] X 
+2019-12-05 13:22:14,241 ERROR [Log] Log out failed 
+2019-12-05 13:41:27,122 INFO  [Log] Login successful 
+2019-12-05 13:41:28,231 INFO  [Log] VerifyReturntoQueuFunctionalityForFolderTypeOfWorkitemWhereDocumentIsFiledInsideFolder 
+2019-12-05 13:41:28,231 INFO  [Log] Workitem : wi1933912014128 
+2019-12-05 13:41:28,231 INFO  [Log] Class Name : archive 
+2019-12-05 13:41:28,231 INFO  [Log] Workitem Type : Document 
+2019-12-05 13:41:28,350 INFO  [Log] Create Workitem page box present 
+2019-12-05 13:41:30,597 INFO  [Log] Create Workitem window box is present 
+2019-12-05 13:41:30,845 INFO  [Log]  Workitem name inserted 
+2019-12-05 13:41:31,034 INFO  [Log] ClassName selected as archive 
+2019-12-05 13:41:35,376 INFO  [Log] Create Workitem submit button clicked 
+2019-12-05 13:41:54,581 INFO  [Log] Workitem is created successfully 
+2019-12-05 13:41:54,581 INFO  [Log] CreateWorkitem operation performed 
+2019-12-05 13:41:54,581 INFO  [Log] Document: wi1933912014128 has been created 
+2019-12-05 13:41:54,582 INFO  [Log] Workitem Type : Folder 
+2019-12-05 13:41:54,689 INFO  [Log] Create Workitem page box present 
+2019-12-05 13:41:56,908 INFO  [Log] Create Workitem window box is present 
+2019-12-05 13:41:57,171 INFO  [Log]  Workitem name inserted 
+2019-12-05 13:41:57,355 INFO  [Log] ClassName selected as archive 
+2019-12-05 13:42:01,752 INFO  [Log] Create Workitem submit button clicked 
+2019-12-05 13:42:21,150 INFO  [Log] Workitem is created successfully 
+2019-12-05 13:42:21,151 INFO  [Log] Folder: folder1933912014128 has been created 
+2019-12-05 13:42:38,740 INFO  [Log] Selected: wi1933912014128 to file work item 
+2019-12-05 13:42:45,049 INFO  [Log] File Work item dialog box is open 
+2019-12-05 13:42:45,227 INFO  [Log] Selected destination folder as: folder1933912014128 
+2019-12-05 13:43:19,898 INFO  [Log] wi1933912014128 Successfully filed in folder: folder1933912014128 
+2019-12-05 13:43:45,167 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-        XXXXXXXXXXXXXXXXXXXXXX 
+2019-12-05 13:43:45,167 INFO  [Log] X 
+2019-12-05 13:43:45,167 INFO  [Log] X 
+2019-12-05 13:43:45,167 INFO  [Log] X 
+2019-12-05 13:43:45,167 INFO  [Log] X 
+2019-12-05 13:45:12,576 ERROR [Log] Log out failed 
+2019-12-05 13:57:07,436 INFO  [Log] Login successful 
+2019-12-05 13:57:08,543 INFO  [Log] VerifyReturntoQueuFunctionalityForFolderTypeOfWorkitemWhereDocumentIsFiledInsideFolder 
+2019-12-05 13:57:08,544 INFO  [Log] Workitem : wi1933912015708 
+2019-12-05 13:57:08,544 INFO  [Log] Class Name : archive 
+2019-12-05 13:57:08,544 INFO  [Log] Workitem Type : Document 
+2019-12-05 13:57:08,702 INFO  [Log] Create Workitem page box present 
+2019-12-05 13:57:10,926 INFO  [Log] Create Workitem window box is present 
+2019-12-05 13:57:11,217 INFO  [Log]  Workitem name inserted 
+2019-12-05 13:57:11,417 INFO  [Log] ClassName selected as archive 
+2019-12-05 13:57:15,756 INFO  [Log] Create Workitem submit button clicked 
+2019-12-05 13:57:35,113 INFO  [Log] Workitem is created successfully 
+2019-12-05 13:57:35,114 INFO  [Log] CreateWorkitem operation performed 
+2019-12-05 13:57:35,114 INFO  [Log] Document: wi1933912015708 has been created 
+2019-12-05 13:57:35,115 INFO  [Log] Workitem Type : Folder 
+2019-12-05 13:57:35,230 INFO  [Log] Create Workitem page box present 
+2019-12-05 13:57:37,489 INFO  [Log] Create Workitem window box is present 
+2019-12-05 13:57:37,808 INFO  [Log]  Workitem name inserted 
+2019-12-05 13:57:38,017 INFO  [Log] ClassName selected as archive 
+2019-12-05 13:57:42,360 INFO  [Log] Create Workitem submit button clicked 
+2019-12-05 13:58:01,586 INFO  [Log] Workitem is created successfully 
+2019-12-05 13:58:01,587 INFO  [Log] Folder: folder1933912015708 has been created 
+2019-12-05 13:58:19,289 INFO  [Log] Selected: wi1933912015708 to file work item 
+2019-12-05 13:58:25,534 INFO  [Log] File Work item dialog box is open 
+2019-12-05 13:58:25,699 INFO  [Log] Selected destination folder as: folder1933912015708 
+2019-12-05 13:58:59,430 INFO  [Log] wi1933912015708 Successfully filed in folder: folder1933912015708 
+2019-12-05 14:01:48,159 ERROR [Log]  
+2019-12-05 14:01:48,159 INFO  [Log] INFO_10679 VerifyReturntoQueuFunctionalityForFolderTypeOfWorkitemWhereDocumentIsFiledInsideFolder is failed. 
+2019-12-05 14:01:48,163 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-        XXXXXXXXXXXXXXXXXXXXXX 
+2019-12-05 14:01:48,163 INFO  [Log] X 
+2019-12-05 14:01:48,163 INFO  [Log] X 
+2019-12-05 14:01:48,163 INFO  [Log] X 
+2019-12-05 14:01:48,163 INFO  [Log] X 
+2019-12-05 14:02:08,722 INFO  [Log] Log out success  
+2019-12-05 15:24:05,651 ERROR [Log] Login failed 
+2019-12-05 15:27:45,884 ERROR [Log] Login failed 
+2019-12-05 15:56:39,382 INFO  [Log] Login successful 
+2019-12-05 15:56:43,110 INFO  [Log] VerifyReturntoQueuFunctionalityForFolderTypeOfWorkitemWhereDocumentIsFiledInsideFolder 
+2019-12-05 15:56:43,110 INFO  [Log] Workitem : wi1933912035642 
+2019-12-05 15:56:43,111 INFO  [Log] Class Name : archive 
+2019-12-05 15:56:43,111 INFO  [Log] Workitem Type : Document 
+2019-12-05 15:56:43,270 INFO  [Log] Create Workitem page box present 
+2019-12-05 15:56:45,572 INFO  [Log] Create Workitem window box is present 
+2019-12-05 15:56:45,871 INFO  [Log]  Workitem name inserted 
+2019-12-05 15:56:46,079 INFO  [Log] ClassName selected as archive 
+2019-12-05 15:56:54,521 INFO  [Log] Create Workitem submit button clicked 
+2019-12-05 15:57:11,596 INFO  [Log] Workitem is created successfully 
+2019-12-05 15:57:11,597 INFO  [Log] CreateWorkitem operation performed 
+2019-12-05 15:57:11,597 INFO  [Log] Document: wi1933912035642 has been created 
+2019-12-05 15:57:11,598 INFO  [Log] Workitem Type : Folder 
+2019-12-05 15:57:11,779 INFO  [Log] Create Workitem page box present 
+2019-12-05 15:57:14,117 INFO  [Log] Create Workitem window box is present 
+2019-12-05 15:57:14,658 INFO  [Log]  Workitem name inserted 
+2019-12-05 15:57:14,897 INFO  [Log] ClassName selected as archive 
+2019-12-05 15:57:19,690 INFO  [Log] Create Workitem submit button clicked 
+2019-12-05 15:57:41,031 INFO  [Log] Workitem is created successfully 
+2019-12-05 15:57:41,033 INFO  [Log] Folder: folder1933912035642 has been created 
+2019-12-05 15:57:59,395 INFO  [Log] Selected: wi1933912035642 to file work item 
+2019-12-05 15:58:05,835 INFO  [Log] File Work item dialog box is open 
+2019-12-05 15:58:06,158 INFO  [Log] Selected destination folder as: folder1933912035642 
+2019-12-05 15:58:43,297 INFO  [Log] wi1933912035642 Successfully filed in folder: folder1933912035642 
+2019-12-05 16:00:10,113 INFO  [Log] Sending Workitem to Workflow 
+2019-12-05 16:00:13,178 INFO  [Log] Retrieving Workitem 
+2019-12-05 16:01:23,235 ERROR [Log] no such element: Unable to locate element: {"method":"xpath","selector":"//font[text()='wi1933912035642']"}
+  (Session info: chrome=62.0.3202.94)
+  (Driver info: chromedriver=2.31.488763 (092de99f48a300323ecf8c2a4e2e7cab51de5ba8),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'IN-MADHURVK-1', ip: '129.221.62.89', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.31.488763 (092de99f48a300..., userDataDir: C:\Users\MadhurVK\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 62.0.3202.94, webStorageEnabled: true}
+Session ID: 61419905f5b1e1dd3045dc0dbb3bbc0b
+*** Element info: {Using=xpath, value=//font[text()='wi1933912035642']} 
+2019-12-05 16:01:23,238 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-        XXXXXXXXXXXXXXXXXXXXXX 
+2019-12-05 16:01:23,238 INFO  [Log] X 
+2019-12-05 16:01:23,238 INFO  [Log] X 
+2019-12-05 16:01:23,238 INFO  [Log] X 
+2019-12-05 16:01:23,238 INFO  [Log] X 
+2019-12-05 16:02:51,050 ERROR [Log] Log out failed 
+2019-12-05 16:14:42,157 INFO  [Log] Login successful 
+2019-12-05 16:14:42,188 INFO  [Log] **************************************************************************************** 
+2019-12-05 16:14:42,189 INFO  [Log] **************************************************************************************** 
+2019-12-05 16:14:42,189 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Retrieves and reserves workitem       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-12-05 16:14:42,189 INFO  [Log] **************************************************************************************** 
+2019-12-05 16:14:42,189 INFO  [Log] **************************************************************************************** 
+2019-12-05 16:14:43,278 INFO  [Log] RetrieveAndReserveTest : testRetrieveAndReserve() 
+2019-12-05 16:14:43,279 INFO  [Log] Workitem : wi1933912041443 
+2019-12-05 16:14:43,279 INFO  [Log] Class Name : archive 
+2019-12-05 16:14:43,279 INFO  [Log] Workitem Type : Document 
+2019-12-05 16:14:43,425 INFO  [Log] Create Workitem page box present 
+2019-12-05 16:14:45,767 INFO  [Log] Create Workitem window box is present 
+2019-12-05 16:14:46,141 INFO  [Log]  Workitem name inserted 
+2019-12-05 16:14:46,379 INFO  [Log] ClassName selected as archive 
+2019-12-05 16:14:50,961 INFO  [Log] Create Workitem submit button clicked 
+2019-12-05 16:15:10,842 INFO  [Log] Workitem is created successfully 
+2019-12-05 16:15:10,843 INFO  [Log] CreateWorkitem operation performed 
+2019-12-05 16:15:10,843 INFO  [Log] Document: wi1933912041443 has been created 
+2019-12-05 16:15:10,844 INFO  [Log] Sending Workitem to Workflow 
+2019-12-05 16:17:08,739 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-        XXXXXXXXXXXXXXXXXXXXXX 
+2019-12-05 16:17:08,740 INFO  [Log] X 
+2019-12-05 16:17:08,740 INFO  [Log] X 
+2019-12-05 16:17:08,740 INFO  [Log] X 
+2019-12-05 16:17:08,740 INFO  [Log] X 
+2019-12-05 16:21:24,589 ERROR [Log] Login failed 
+2019-12-05 16:23:55,844 INFO  [Log] Login successful 
+2019-12-05 16:23:55,875 INFO  [Log] **************************************************************************************** 
+2019-12-05 16:23:55,875 INFO  [Log] **************************************************************************************** 
+2019-12-05 16:23:55,875 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Retrieves and reserves workitem       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-12-05 16:23:55,875 INFO  [Log] **************************************************************************************** 
+2019-12-05 16:23:55,875 INFO  [Log] **************************************************************************************** 
+2019-12-05 16:23:57,162 INFO  [Log] RetrieveAndReserveTest : testRetrieveAndReserve() 
+2019-12-05 16:23:57,163 INFO  [Log] Workitem : wi1933912042356 
+2019-12-05 16:23:57,163 INFO  [Log] Class Name : archive 
+2019-12-05 16:23:57,163 INFO  [Log] Workitem Type : Document 
+2019-12-05 16:23:57,304 INFO  [Log] Create Workitem page box present 
+2019-12-05 16:23:59,568 INFO  [Log] Create Workitem window box is present 
+2019-12-05 16:23:59,857 INFO  [Log]  Workitem name inserted 
+2019-12-05 16:24:00,105 INFO  [Log] ClassName selected as archive 
+2019-12-05 16:24:07,771 INFO  [Log] Create Workitem submit button clicked 
+2019-12-05 16:24:24,889 INFO  [Log] Workitem is created successfully 
+2019-12-05 16:24:24,890 INFO  [Log] CreateWorkitem operation performed 
+2019-12-05 16:24:24,891 INFO  [Log] Document: wi1933912042356 has been created 
+2019-12-05 16:24:24,891 INFO  [Log] Sending Workitem to Workflow 
+2019-12-05 16:25:21,048 INFO  [Log] Retrieving Workitem 
+2019-12-05 16:26:31,086 ERROR [Log] no such element: Unable to locate element: {"method":"xpath","selector":"//font[text()='wi1933912042356']"}
+  (Session info: chrome=62.0.3202.94)
+  (Driver info: chromedriver=2.31.488763 (092de99f48a300323ecf8c2a4e2e7cab51de5ba8),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'IN-MADHURVK-1', ip: '129.221.62.89', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.31.488763 (092de99f48a300..., userDataDir: C:\Users\MadhurVK\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 62.0.3202.94, webStorageEnabled: true}
+Session ID: 7927d8b9052dc608c2c29ef1a9e6d19e
+*** Element info: {Using=xpath, value=//font[text()='wi1933912042356']} 
+2019-12-05 16:26:31,088 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-        XXXXXXXXXXXXXXXXXXXXXX 
+2019-12-05 16:26:31,088 INFO  [Log] X 
+2019-12-05 16:26:31,088 INFO  [Log] X 
+2019-12-05 16:26:31,088 INFO  [Log] X 
+2019-12-05 16:26:31,088 INFO  [Log] X 
+2019-12-05 16:26:50,701 INFO  [Log] Log out success  
+2019-12-05 16:39:07,234 INFO  [Log] Login successful 
+2019-12-05 16:39:07,266 INFO  [Log] **************************************************************************************** 
+2019-12-05 16:39:07,266 INFO  [Log] **************************************************************************************** 
+2019-12-05 16:39:07,266 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Retrieves and reserves workitem       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-12-05 16:39:07,266 INFO  [Log] **************************************************************************************** 
+2019-12-05 16:39:07,266 INFO  [Log] **************************************************************************************** 
+2019-12-05 16:39:08,364 INFO  [Log] RetrieveAndReserveTest : testRetrieveAndReserve() 
+2019-12-05 16:39:08,364 INFO  [Log] Workitem : wi1933912043908 
+2019-12-05 16:39:08,364 INFO  [Log] Class Name : archive 
+2019-12-05 16:39:08,365 INFO  [Log] Workitem Type : Document 
+2019-12-05 16:39:08,508 INFO  [Log] Create Workitem page box present 
+2019-12-05 16:39:10,726 INFO  [Log] Create Workitem window box is present 
+2019-12-05 16:39:10,992 INFO  [Log]  Workitem name inserted 
+2019-12-05 16:39:11,201 INFO  [Log] ClassName selected as archive 
+2019-12-05 16:39:15,484 INFO  [Log] Create Workitem submit button clicked 
+2019-12-05 16:39:34,726 INFO  [Log] Workitem is created successfully 
+2019-12-05 16:39:34,727 INFO  [Log] CreateWorkitem operation performed 
+2019-12-05 16:39:34,727 INFO  [Log] Document: wi1933912043908 has been created 
+2019-12-05 16:39:34,728 INFO  [Log] Sending Workitem to Workflow 
+2019-12-05 16:40:28,253 INFO  [Log] Retrieving Workitem 
+2019-12-05 16:40:55,777 INFO  [Log] Reserving Workitem 
+2019-12-05 16:42:10,560 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-        XXXXXXXXXXXXXXXXXXXXXX 
+2019-12-05 16:42:10,560 INFO  [Log] X 
+2019-12-05 16:42:10,560 INFO  [Log] X 
+2019-12-05 16:42:10,560 INFO  [Log] X 
+2019-12-05 16:42:10,560 INFO  [Log] X 
+2019-12-05 16:42:29,917 INFO  [Log] Log out success  
+2019-12-05 16:52:39,589 INFO  [Log] Login successful 
+2019-12-05 16:52:39,622 INFO  [Log] **************************************************************************************** 
+2019-12-05 16:52:39,623 INFO  [Log] **************************************************************************************** 
+2019-12-05 16:52:39,623 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Retrieves and reserves workitem       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-12-05 16:52:39,623 INFO  [Log] **************************************************************************************** 
+2019-12-05 16:52:39,623 INFO  [Log] **************************************************************************************** 
+2019-12-05 16:52:42,480 INFO  [Log] RetrieveAndReserveTest : testRetrieveAndReserve() 
+2019-12-05 16:52:42,480 INFO  [Log] Workitem : wi1933912045242 
+2019-12-05 16:52:42,480 INFO  [Log] Class Name : archive 
+2019-12-05 16:52:42,481 INFO  [Log] Workitem Type : Document 
+2019-12-05 16:52:42,632 INFO  [Log] Create Workitem page box present 
+2019-12-05 16:52:45,521 INFO  [Log] Create Workitem window box is present 
+2019-12-05 16:52:45,806 INFO  [Log]  Workitem name inserted 
+2019-12-05 16:52:46,027 INFO  [Log] ClassName selected as archive 
+2019-12-05 16:52:50,309 INFO  [Log] Create Workitem submit button clicked 
+2019-12-05 16:53:09,574 INFO  [Log] Workitem is created successfully 
+2019-12-05 16:53:09,574 INFO  [Log] CreateWorkitem operation performed 
+2019-12-05 16:53:09,574 INFO  [Log] Document: wi1933912045242 has been created 
+2019-12-05 16:53:09,574 INFO  [Log] Sending Workitem to Workflow 
+2019-12-05 16:54:06,660 INFO  [Log] Retrieving Workitem 
+2019-12-05 16:54:34,076 INFO  [Log] Reserving Workitem 
+2019-12-05 16:55:03,685 INFO  [Log] Log out success  
+2019-12-05 16:55:06,705 INFO  [Log] Logging into another user 
+2019-12-05 16:56:36,061 INFO  [Log] Login successful 
+2019-12-05 16:56:39,061 INFO  [Log] Retrieving Workitem From Search 
+2019-12-05 16:58:14,001 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-        XXXXXXXXXXXXXXXXXXXXXX 
+2019-12-05 16:58:14,001 INFO  [Log] X 
+2019-12-05 16:58:14,001 INFO  [Log] X 
+2019-12-05 16:58:14,001 INFO  [Log] X 
+2019-12-05 16:58:14,001 INFO  [Log] X 
+2019-12-05 16:58:43,087 INFO  [Log] Log out success  
+2019-12-05 17:16:57,677 INFO  [Log] Login successful 
+2019-12-05 17:16:57,708 INFO  [Log] **************************************************************************************** 
+2019-12-05 17:16:57,708 INFO  [Log] **************************************************************************************** 
+2019-12-05 17:16:57,708 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Retrieves and reserves workitem       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-12-05 17:16:57,708 INFO  [Log] **************************************************************************************** 
+2019-12-05 17:16:57,708 INFO  [Log] **************************************************************************************** 
+2019-12-05 17:16:58,679 INFO  [Log] RetrieveAndReserveTest : testRetrieveAndReserve() 
+2019-12-05 17:16:58,680 INFO  [Log] Workitem : wi1933912051658 
+2019-12-05 17:16:58,680 INFO  [Log] Class Name : archive 
+2019-12-05 17:16:58,680 INFO  [Log] Workitem Type : Document 
+2019-12-05 17:16:58,833 INFO  [Log] Create Workitem page box present 
+2019-12-05 17:17:01,063 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-        XXXXXXXXXXXXXXXXXXXXXX 
+2019-12-05 17:17:01,063 INFO  [Log] X 
+2019-12-05 17:17:01,063 INFO  [Log] X 
+2019-12-05 17:17:01,063 INFO  [Log] X 
+2019-12-05 17:17:01,063 INFO  [Log] X 
+2019-12-05 17:18:20,545 INFO  [Log] Log out success  
+2019-12-05 17:20:11,156 INFO  [Log] Login successful 
+2019-12-05 17:20:11,189 INFO  [Log] **************************************************************************************** 
+2019-12-05 17:20:11,189 INFO  [Log] **************************************************************************************** 
+2019-12-05 17:20:11,189 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Retrieves and reserves workitem       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-12-05 17:20:11,189 INFO  [Log] **************************************************************************************** 
+2019-12-05 17:20:11,189 INFO  [Log] **************************************************************************************** 
+2019-12-05 17:20:12,469 INFO  [Log] RetrieveAndReserveTest : testRetrieveAndReserve() 
+2019-12-05 17:20:12,471 INFO  [Log] Workitem : wi1933912052012 
+2019-12-05 17:20:12,471 INFO  [Log] Class Name : archive 
+2019-12-05 17:20:12,471 INFO  [Log] Workitem Type : Document 
+2019-12-05 17:20:12,612 INFO  [Log] Create Workitem page box present 
+2019-12-05 17:20:14,869 INFO  [Log] Create Workitem window box is present 
+2019-12-05 17:20:15,116 INFO  [Log]  Workitem name inserted 
+2019-12-05 17:20:15,320 INFO  [Log] ClassName selected as archive 
+2019-12-05 17:20:22,436 INFO  [Log] Create Workitem submit button clicked 
+2019-12-05 17:20:39,855 INFO  [Log] Workitem is created successfully 
+2019-12-05 17:20:39,856 INFO  [Log] CreateWorkitem operation performed 
+2019-12-05 17:20:39,856 INFO  [Log] Document: wi1933912052012 has been created 
+2019-12-05 17:20:39,857 INFO  [Log] Sending Workitem to Workflow 
+2019-12-05 17:21:36,912 INFO  [Log] Retrieving Workitem 
+2019-12-05 17:21:45,993 ERROR [Log] unknown error: Element <span>...</span> is not clickable at point (53, 120). Other element would receive the click: <div class="ui-widget-overlay ui-front"></div>
+  (Session info: chrome=62.0.3202.94)
+  (Driver info: chromedriver=2.31.488763 (092de99f48a300323ecf8c2a4e2e7cab51de5ba8),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'IN-MADHURVK-1', ip: '129.221.62.89', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.31.488763 (092de99f48a300..., userDataDir: C:\Users\MadhurVK\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 62.0.3202.94, webStorageEnabled: true}
+Session ID: c4f24900806ca9612a603d87d0753a8e 
+2019-12-05 17:21:45,995 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-        XXXXXXXXXXXXXXXXXXXXXX 
+2019-12-05 17:21:45,995 INFO  [Log] X 
+2019-12-05 17:21:45,995 INFO  [Log] X 
+2019-12-05 17:21:45,995 INFO  [Log] X 
+2019-12-05 17:21:45,996 INFO  [Log] X 
+2019-12-05 17:23:13,786 ERROR [Log] Log out failed 
+2019-12-05 17:25:39,050 INFO  [Log] Login successful 
+2019-12-05 17:25:39,089 INFO  [Log] **************************************************************************************** 
+2019-12-05 17:25:39,089 INFO  [Log] **************************************************************************************** 
+2019-12-05 17:25:39,089 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Retrieves and reserves workitem       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-12-05 17:25:39,089 INFO  [Log] **************************************************************************************** 
+2019-12-05 17:25:39,089 INFO  [Log] **************************************************************************************** 
+2019-12-05 17:25:40,362 INFO  [Log] RetrieveAndReserveTest : testRetrieveAndReserve() 
+2019-12-05 17:25:40,363 INFO  [Log] Workitem : wi1933912052540 
+2019-12-05 17:25:40,363 INFO  [Log] Class Name : archive 
+2019-12-05 17:25:40,363 INFO  [Log] Workitem Type : Document 
+2019-12-05 17:25:40,493 INFO  [Log] Create Workitem page box present 
+2019-12-05 17:25:42,880 INFO  [Log] Create Workitem window box is present 
+2019-12-05 17:25:43,196 INFO  [Log]  Workitem name inserted 
+2019-12-05 17:25:43,388 INFO  [Log] ClassName selected as archive 
+2019-12-05 17:25:48,007 INFO  [Log] Create Workitem submit button clicked 
+2019-12-05 17:26:07,857 INFO  [Log] Workitem is created successfully 
+2019-12-05 17:26:07,858 INFO  [Log] CreateWorkitem operation performed 
+2019-12-05 17:26:07,858 INFO  [Log] Document: wi1933912052540 has been created 
+2019-12-05 17:26:07,859 INFO  [Log] Sending Workitem to Workflow 
+2019-12-05 17:27:03,267 INFO  [Log] Retrieving Workitem 
+2019-12-05 17:27:31,778 INFO  [Log] Reserving Workitem 
+2019-12-05 17:28:01,988 INFO  [Log] Log out success  
+2019-12-05 17:28:05,031 INFO  [Log] Logging into another user 
+2019-12-05 17:29:34,984 INFO  [Log] Login successful 
+2019-12-05 17:29:37,985 INFO  [Log] Retrieving Workitem From Search 
+2019-12-05 17:30:28,047 INFO  [Log] Checking Reserve for Workitem By another user 
+2019-12-05 17:31:42,848 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-        XXXXXXXXXXXXXXXXXXXXXX 
+2019-12-05 17:31:42,849 INFO  [Log] X 
+2019-12-05 17:31:42,849 INFO  [Log] X 
+2019-12-05 17:31:42,849 INFO  [Log] X 
+2019-12-05 17:31:42,849 INFO  [Log] X 
+2019-12-05 17:32:02,921 INFO  [Log] Log out success  
+2019-12-05 17:37:55,718 INFO  [Log] Login successful 
+2019-12-05 17:37:55,757 INFO  [Log] **************************************************************************************** 
+2019-12-05 17:37:55,757 INFO  [Log] **************************************************************************************** 
+2019-12-05 17:37:55,757 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Retrieves and reserves workitem       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-12-05 17:37:55,757 INFO  [Log] **************************************************************************************** 
+2019-12-05 17:37:55,757 INFO  [Log] **************************************************************************************** 
+2019-12-05 17:37:57,023 INFO  [Log] RetrieveAndReserveTest : testRetrieveAndReserve() 
+2019-12-05 17:37:57,024 INFO  [Log] Workitem : wi1933912053756 
+2019-12-05 17:37:57,025 INFO  [Log] Class Name : archive 
+2019-12-05 17:37:57,025 INFO  [Log] Workitem Type : Document 
+2019-12-05 17:37:57,192 INFO  [Log] Create Workitem page box present 
+2019-12-05 17:37:59,574 INFO  [Log] Create Workitem window box is present 
+2019-12-05 17:37:59,927 INFO  [Log]  Workitem name inserted 
+2019-12-05 17:38:00,152 INFO  [Log] ClassName selected as archive 
+2019-12-05 17:38:04,529 INFO  [Log] Create Workitem submit button clicked 
+2019-12-05 17:38:24,374 INFO  [Log] Workitem is created successfully 
+2019-12-05 17:38:24,374 INFO  [Log] CreateWorkitem operation performed 
+2019-12-05 17:38:24,375 INFO  [Log] Document: wi1933912053756 has been created 
+2019-12-05 17:38:24,375 INFO  [Log] Sending Workitem to Workflow 
+2019-12-05 17:39:19,960 INFO  [Log] Retrieving Workitem 
+2019-12-05 17:39:48,729 INFO  [Log] Reserving Workitem 
+2019-12-05 17:40:20,087 INFO  [Log] Log out success  
+2019-12-05 17:40:23,142 INFO  [Log] Logging into another user 
+2019-12-05 17:41:53,150 INFO  [Log] Login successful 
+2019-12-05 17:41:56,152 INFO  [Log] Retrieving Workitem From Search 
+2019-12-05 17:42:45,494 INFO  [Log] Checking Reserve for Workitem By another user 
+2019-12-05 17:44:00,140 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-        XXXXXXXXXXXXXXXXXXXXXX 
+2019-12-05 17:44:00,140 INFO  [Log] X 
+2019-12-05 17:44:00,140 INFO  [Log] X 
+2019-12-05 17:44:00,140 INFO  [Log] X 
+2019-12-05 17:44:00,140 INFO  [Log] X 
+2019-12-05 17:44:19,895 INFO  [Log] Log out success  
+2019-12-05 17:47:45,564 INFO  [Log] Login successful 
+2019-12-05 17:47:45,597 INFO  [Log] **************************************************************************************** 
+2019-12-05 17:47:45,597 INFO  [Log] **************************************************************************************** 
+2019-12-05 17:47:45,597 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Retrieves and reserves workitem       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-12-05 17:47:45,597 INFO  [Log] **************************************************************************************** 
+2019-12-05 17:47:45,597 INFO  [Log] **************************************************************************************** 
+2019-12-05 17:47:46,869 INFO  [Log] RetrieveAndReserveTest : testRetrieveAndReserve() 
+2019-12-05 17:47:46,869 INFO  [Log] Workitem : wi1933912054746 
+2019-12-05 17:47:46,869 INFO  [Log] Class Name : archive 
+2019-12-05 17:47:46,870 INFO  [Log] Workitem Type : Document 
+2019-12-05 17:47:47,008 INFO  [Log] Create Workitem page box present 
+2019-12-05 17:47:49,258 INFO  [Log] Create Workitem window box is present 
+2019-12-05 17:47:49,546 INFO  [Log]  Workitem name inserted 
+2019-12-05 17:47:49,757 INFO  [Log] ClassName selected as archive 
+2019-12-05 17:47:56,957 INFO  [Log] Create Workitem submit button clicked 
+2019-12-05 17:48:14,206 INFO  [Log] Workitem is created successfully 
+2019-12-05 17:48:14,207 INFO  [Log] CreateWorkitem operation performed 
+2019-12-05 17:48:14,209 INFO  [Log] Document: wi1933912054746 has been created 
+2019-12-05 17:48:14,210 INFO  [Log] Sending Workitem to Workflow 
+2019-12-05 17:49:09,383 INFO  [Log] Retrieving Workitem 
+2019-12-05 17:49:18,071 ERROR [Log] unknown error: Element <span>...</span> is not clickable at point (53, 120). Other element would receive the click: <div class="ui-widget-overlay ui-front"></div>
+  (Session info: chrome=62.0.3202.94)
+  (Driver info: chromedriver=2.31.488763 (092de99f48a300323ecf8c2a4e2e7cab51de5ba8),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'IN-MADHURVK-1', ip: '129.221.62.89', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.31.488763 (092de99f48a300..., userDataDir: C:\Users\MadhurVK\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 62.0.3202.94, webStorageEnabled: true}
+Session ID: f7b2636503a957a5759010a4c8475476 
+2019-12-05 17:49:18,074 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-        XXXXXXXXXXXXXXXXXXXXXX 
+2019-12-05 17:49:18,074 INFO  [Log] X 
+2019-12-05 17:49:18,074 INFO  [Log] X 
+2019-12-05 17:49:18,074 INFO  [Log] X 
+2019-12-05 17:49:18,074 INFO  [Log] X 
+2019-12-06 08:45:25,413 INFO  [Log] Login successful 
+2019-12-06 08:45:25,432 INFO  [Log] **************************************************************************************** 
+2019-12-06 08:45:25,432 INFO  [Log] **************************************************************************************** 
+2019-12-06 08:45:25,432 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Retrieves and reserves workitem       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-12-06 08:45:25,432 INFO  [Log] **************************************************************************************** 
+2019-12-06 08:45:25,432 INFO  [Log] **************************************************************************************** 
+2019-12-06 08:45:26,821 INFO  [Log] RetrieveAndReserveTest : testRetrieveAndReserve() 
+2019-12-06 08:45:26,821 INFO  [Log] Workitem : wi1934012084526 
+2019-12-06 08:45:26,821 INFO  [Log] Class Name : archive 
+2019-12-06 08:45:26,821 INFO  [Log] Workitem Type : Document 
+2019-12-06 08:45:26,974 INFO  [Log] Create Workitem page box present 
+2019-12-06 08:45:29,232 INFO  [Log] Create Workitem window box is present 
+2019-12-06 08:45:29,500 INFO  [Log]  Workitem name inserted 
+2019-12-06 08:45:29,737 INFO  [Log] ClassName selected as archive 
+2019-12-06 08:45:34,024 INFO  [Log] Create Workitem submit button clicked 
+2019-12-06 08:45:54,299 INFO  [Log] Workitem is created successfully 
+2019-12-06 08:45:54,299 INFO  [Log] CreateWorkitem operation performed 
+2019-12-06 08:45:54,299 INFO  [Log] Document: wi1934012084526 has been created 
+2019-12-06 08:45:54,300 INFO  [Log] Sending Workitem to Workflow 
+2019-12-06 08:46:49,450 INFO  [Log] Retrieving Workitem 
+2019-12-06 08:47:17,509 INFO  [Log] Reserving Workitem 
+2019-12-06 08:47:47,113 INFO  [Log] Log out success  
+2019-12-06 08:47:50,161 INFO  [Log] Logging into another user 
+2019-12-06 08:49:19,041 INFO  [Log] Login successful 
+2019-12-06 08:49:22,041 INFO  [Log] Retrieving Workitem From Search 
+2019-12-06 08:50:09,422 INFO  [Log] Checking Reserve for Workitem By another user 
+2019-12-06 08:51:26,390 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-        XXXXXXXXXXXXXXXXXXXXXX 
+2019-12-06 08:51:26,391 INFO  [Log] X 
+2019-12-06 08:51:26,391 INFO  [Log] X 
+2019-12-06 08:51:26,391 INFO  [Log] X 
+2019-12-06 08:51:26,391 INFO  [Log] X 
+2019-12-06 08:52:53,781 ERROR [Log] Log out failed 
+2019-12-06 09:25:22,522 INFO  [Log] Login successful 
+2019-12-06 09:25:23,574 INFO  [Log] VerifyReturntoQueuFunctionalityForFolderTypeOfWorkitemWhereDocumentIsFiledInsideFolder 
+2019-12-06 09:25:23,574 INFO  [Log] Workitem : wi1934012092523 
+2019-12-06 09:25:23,574 INFO  [Log] Class Name : archive 
+2019-12-06 09:25:23,574 INFO  [Log] Workitem Type : Document 
+2019-12-06 09:25:23,698 INFO  [Log] Create Workitem page box present 
+2019-12-06 09:25:25,955 INFO  [Log] Create Workitem window box is present 
+2019-12-06 09:25:26,205 INFO  [Log]  Workitem name inserted 
+2019-12-06 09:25:26,404 INFO  [Log] ClassName selected as archive 
+2019-12-06 09:25:30,699 INFO  [Log] Create Workitem submit button clicked 
+2019-12-06 09:25:49,932 INFO  [Log] Workitem is created successfully 
+2019-12-06 09:25:49,932 INFO  [Log] CreateWorkitem operation performed 
+2019-12-06 09:25:49,933 INFO  [Log] Document: wi1934012092523 has been created 
+2019-12-06 09:25:49,933 INFO  [Log] Workitem Type : Folder 
+2019-12-06 09:25:50,045 INFO  [Log] Create Workitem page box present 
+2019-12-06 09:25:52,263 INFO  [Log] Create Workitem window box is present 
+2019-12-06 09:25:52,510 INFO  [Log]  Workitem name inserted 
+2019-12-06 09:25:52,693 INFO  [Log] ClassName selected as archive 
+2019-12-06 09:25:57,035 INFO  [Log] Create Workitem submit button clicked 
+2019-12-06 09:26:16,206 INFO  [Log] Workitem is created successfully 
+2019-12-06 09:26:16,206 INFO  [Log] Folder: folder1934012092523 has been created 
+2019-12-06 09:26:33,943 INFO  [Log] Selected: wi1934012092523 to file work item 
+2019-12-06 09:26:40,193 INFO  [Log] File Work item dialog box is open 
+2019-12-06 09:29:31,180 INFO  [Log] Login successful 
+2019-12-06 09:29:31,194 INFO  [Log] **************************************************************************************** 
+2019-12-06 09:29:31,194 INFO  [Log] **************************************************************************************** 
+2019-12-06 09:29:31,194 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Retrieves and reserves workitem       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-12-06 09:29:31,194 INFO  [Log] **************************************************************************************** 
+2019-12-06 09:29:31,194 INFO  [Log] **************************************************************************************** 
+2019-12-06 09:29:32,159 INFO  [Log] RetrieveAndReserveTest : testRetrieveAndReserve() 
+2019-12-06 09:29:32,159 INFO  [Log] Workitem : wi1934012092932 
+2019-12-06 09:29:32,159 INFO  [Log] Class Name : archive 
+2019-12-06 09:29:32,159 INFO  [Log] Workitem Type : Document 
+2019-12-06 09:29:32,286 INFO  [Log] Create Workitem page box present 
+2019-12-06 09:29:34,545 INFO  [Log] Create Workitem window box is present 
+2019-12-06 09:29:34,760 INFO  [Log]  Workitem name inserted 
+2019-12-06 09:29:34,941 INFO  [Log] ClassName selected as archive 
+2019-12-06 09:29:39,312 INFO  [Log] Create Workitem submit button clicked 
+2019-12-06 09:29:59,195 INFO  [Log] Workitem is created successfully 
+2019-12-06 09:29:59,195 INFO  [Log] CreateWorkitem operation performed 
+2019-12-06 09:29:59,195 INFO  [Log] Document: wi1934012092932 has been created 
+2019-12-06 09:29:59,195 INFO  [Log] Sending Workitem to Workflow 
+2019-12-06 09:30:58,301 INFO  [Log] Retrieving Workitem 
+2019-12-06 09:31:25,590 INFO  [Log] Reserving Workitem 
+2019-12-06 09:31:54,677 INFO  [Log] Log out success  
+2019-12-06 09:31:57,717 INFO  [Log] Logging into another user 
+2019-12-06 09:33:26,560 INFO  [Log] Login successful 
+2019-12-06 09:33:29,561 INFO  [Log] Retrieving Workitem From Search 
+2019-12-06 09:34:16,389 INFO  [Log] Checking Reserve for Workitem By another user 
+2019-12-06 09:35:34,372 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-        XXXXXXXXXXXXXXXXXXXXXX 
+2019-12-06 09:35:34,372 INFO  [Log] X 
+2019-12-06 09:35:34,372 INFO  [Log] X 
+2019-12-06 09:35:34,372 INFO  [Log] X 
+2019-12-06 09:35:34,372 INFO  [Log] X 
+2019-12-06 09:35:53,925 INFO  [Log] Log out success  
+2019-12-06 09:47:31,900 INFO  [Log] Login successful 
+2019-12-06 09:47:31,917 INFO  [Log] **************************************************************************************** 
+2019-12-06 09:47:31,917 INFO  [Log] **************************************************************************************** 
+2019-12-06 09:47:31,917 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Retrieves and reserves workitem       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-12-06 09:47:31,917 INFO  [Log] **************************************************************************************** 
+2019-12-06 09:47:31,917 INFO  [Log] **************************************************************************************** 
+2019-12-06 09:47:33,304 INFO  [Log] RetrieveAndReserveTest : testRetrieveAndReserve() 
+2019-12-06 09:47:33,304 INFO  [Log] Workitem : wi1934012094733 
+2019-12-06 09:47:33,305 INFO  [Log] Class Name : archive 
+2019-12-06 09:47:33,305 INFO  [Log] Workitem Type : Document 
+2019-12-06 09:47:33,547 INFO  [Log] Create Workitem page box present 
+2019-12-06 09:47:35,840 INFO  [Log] Create Workitem window box is present 
+2019-12-06 09:47:36,112 INFO  [Log]  Workitem name inserted 
+2019-12-06 09:47:36,348 INFO  [Log] ClassName selected as archive 
+2019-12-06 09:47:40,626 INFO  [Log] Create Workitem submit button clicked 
+2019-12-06 09:48:00,558 INFO  [Log] Workitem is created successfully 
+2019-12-06 09:48:00,558 INFO  [Log] CreateWorkitem operation performed 
+2019-12-06 09:48:00,559 INFO  [Log] Document: wi1934012094733 has been created 
+2019-12-06 09:48:00,559 INFO  [Log] Sending Workitem to Workflow 
+2019-12-06 09:48:53,869 INFO  [Log] Retrieving Workitem 
+2019-12-06 09:49:46,281 INFO  [Log] Reserving Workitem 
+2019-12-06 09:51:00,578 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-        XXXXXXXXXXXXXXXXXXXXXX 
+2019-12-06 09:51:00,578 INFO  [Log] X 
+2019-12-06 09:51:00,578 INFO  [Log] X 
+2019-12-06 09:51:00,579 INFO  [Log] X 
+2019-12-06 09:51:00,579 INFO  [Log] X 
+2019-12-06 09:51:20,271 INFO  [Log] Log out success  
+2019-12-06 10:05:29,673 ERROR [Log] Login failed 
+2019-12-06 10:22:14,550 ERROR [Log] Login failed 
+2019-12-06 11:05:21,212 ERROR [Log] Login failed 
+2019-12-06 11:06:22,797 INFO  [Log] Login successful 
+2019-12-06 11:06:22,818 INFO  [Log] **************************************************************************************** 
+2019-12-06 11:06:22,818 INFO  [Log] **************************************************************************************** 
+2019-12-06 11:06:22,818 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Retrieves and reserves workitem       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-12-06 11:06:22,818 INFO  [Log] **************************************************************************************** 
+2019-12-06 11:06:22,818 INFO  [Log] **************************************************************************************** 
+2019-12-06 11:06:24,269 INFO  [Log] RetrieveAndReserveTest : testRetrieveAndReserve() 
+2019-12-06 11:06:24,269 INFO  [Log] Workitem : wi1934012110624 
+2019-12-06 11:06:24,270 INFO  [Log] Class Name : archive 
+2019-12-06 11:06:24,270 INFO  [Log] Workitem Type : Document 
+2019-12-06 11:06:24,409 INFO  [Log] Create Workitem page box present 
+2019-12-06 11:06:26,833 INFO  [Log] Create Workitem window box is present 
+2019-12-06 11:06:27,248 INFO  [Log]  Workitem name inserted 
+2019-12-06 11:07:37,496 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-        XXXXXXXXXXXXXXXXXXXXXX 
+2019-12-06 11:07:37,496 INFO  [Log] X 
+2019-12-06 11:07:37,496 INFO  [Log] X 
+2019-12-06 11:07:37,496 INFO  [Log] X 
+2019-12-06 11:07:37,497 INFO  [Log] X 
+2019-12-06 11:08:54,777 INFO  [Log] Log out success  
+2019-12-06 11:10:51,333 INFO  [Log] Login successful 
+2019-12-06 11:10:51,350 INFO  [Log] **************************************************************************************** 
+2019-12-06 11:10:51,350 INFO  [Log] **************************************************************************************** 
+2019-12-06 11:10:51,350 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Retrieves and reserves workitem       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-12-06 11:10:51,350 INFO  [Log] **************************************************************************************** 
+2019-12-06 11:10:51,350 INFO  [Log] **************************************************************************************** 
+2019-12-06 11:10:52,887 INFO  [Log] RetrieveAndReserveTest : testRetrieveAndReserve() 
+2019-12-06 11:10:52,887 INFO  [Log] Workitem : wi1934012111052 
+2019-12-06 11:10:52,887 INFO  [Log] Class Name : Archive 
+2019-12-06 11:10:52,887 INFO  [Log] Workitem Type : Document 
+2019-12-06 11:10:53,087 INFO  [Log] Create Workitem page box present 
+2019-12-06 11:10:55,438 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-        XXXXXXXXXXXXXXXXXXXXXX 
+2019-12-06 11:10:55,438 INFO  [Log] X 
+2019-12-06 11:10:55,438 INFO  [Log] X 
+2019-12-06 11:10:55,438 INFO  [Log] X 
+2019-12-06 11:10:55,438 INFO  [Log] X 
+2019-12-06 11:11:16,013 INFO  [Log] Log out success  
+2019-12-06 11:12:20,254 INFO  [Log] Login successful 
+2019-12-06 11:12:20,272 INFO  [Log] **************************************************************************************** 
+2019-12-06 11:12:20,272 INFO  [Log] **************************************************************************************** 
+2019-12-06 11:12:20,272 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Retrieves and reserves workitem       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-12-06 11:12:20,272 INFO  [Log] **************************************************************************************** 
+2019-12-06 11:12:20,272 INFO  [Log] **************************************************************************************** 
+2019-12-06 11:12:21,634 INFO  [Log] RetrieveAndReserveTest : testRetrieveAndReserve() 
+2019-12-06 11:12:21,634 INFO  [Log] Workitem : wi1934012111221 
+2019-12-06 11:12:21,635 INFO  [Log] Class Name : Archive 
+2019-12-06 11:12:21,635 INFO  [Log] Workitem Type : Document 
+2019-12-06 11:12:21,805 INFO  [Log] Create Workitem page box present 
+2019-12-06 11:12:24,170 INFO  [Log] Create Workitem window box is present 
+2019-12-06 11:12:24,494 INFO  [Log]  Workitem name inserted 
+2019-12-06 11:12:24,671 INFO  [Log] ClassName selected as Archive 
+2019-12-06 11:12:29,354 INFO  [Log] Create Workitem submit button clicked 
+2019-12-06 11:13:05,538 INFO  [Log] Workitem is created successfully 
+2019-12-06 11:13:05,539 INFO  [Log] CreateWorkitem operation performed 
+2019-12-06 11:13:05,539 INFO  [Log] Document: wi1934012111221 has been created 
+2019-12-06 11:13:05,539 INFO  [Log] Sending Workitem to Workflow 
+2019-12-06 11:15:14,120 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-        XXXXXXXXXXXXXXXXXXXXXX 
+2019-12-06 11:15:14,121 INFO  [Log] X 
+2019-12-06 11:15:14,121 INFO  [Log] X 
+2019-12-06 11:15:14,121 INFO  [Log] X 
+2019-12-06 11:15:14,121 INFO  [Log] X 
+2019-12-06 11:15:37,492 INFO  [Log] Log out success  

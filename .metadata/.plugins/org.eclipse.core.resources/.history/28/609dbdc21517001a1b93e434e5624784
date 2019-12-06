@@ -1,0 +1,404 @@
+package apd.infoimage.iwm.pageFactory;
+
+import java.util.Iterator;
+import java.util.Set;
+
+import org.openqa.selenium.Keys;
+import org.openqa.selenium.StaleElementReferenceException;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.ui.Select;
+import org.testng.Assert;
+import org.testng.Reporter;
+
+import apd.infoimage.iwm.genericLib.Driver;
+import apd.infoimage.iwm.genericLib.Log;
+import apd.infoimage.iwm.projectLib.ServerClassIWM;
+import atu.testng.reports.ATUReports;
+
+/**
+ * @author KencharV
+ *
+ */
+
+     //for 7.2 liferay Modify by Chandan Modi
+
+public class HomePage extends ServerClassIWM {
+	
+	@FindBy(xpath = "//li[@id='layout_2']//span[contains(text(),'Workitems')]") //added by Chandan Modi
+	//@FindBy(xpath = "//a/span[contains(text(),'Workitems')]")
+	private WebElement workItemTab;
+
+	public WebElement getWorkItemTab() {
+		return workItemTab;
+	}
+	
+	@FindBy(xpath = "//span[contains(text(),'Inbox')]")  //added by Chandan Modi
+	//@FindBy(xpath = "//span[contains(text(),'Inbox')]")
+	private WebElement inbox;
+
+	public WebElement getInbox() {
+		return inbox;
+	}
+
+	
+	@FindBy(xpath = "//li[@id='layout_4']//span[contains(text(),'Search')]") //added by Chandan Modi
+	//@FindBy(xpath = "(//li/a/span[contains(text(),'Search')])[1]")
+	private WebElement SearchTab;
+
+	public WebElement getSearchTab() {
+		return SearchTab;
+	}
+	
+	
+	@FindBy(xpath = "//span[contains(text(),'Custom JS - Forms')]")
+	private WebElement customJSFormsTab;
+
+	public WebElement getCustomJSFormsTab() {
+		return customJSFormsTab;
+	}
+	
+
+	@FindBy(xpath = "//span[contains(text(),'User Preferences')]")  // added  by Chandan Modi
+	//@FindBy(xpath = "//a[contains(@href,'user-preferences')]")
+	private WebElement userPreferencesTab;
+
+	public WebElement getUserPreferencesTab() {
+		return userPreferencesTab;
+	}
+	
+	
+	@FindBy(xpath = "//span[@class='user-full-name']")
+	private WebElement userInfoTab;
+
+	public WebElement getUserInfoTab() {
+		return userInfoTab;
+	}
+
+	
+	@FindBy(xpath = "//span[text()='Sign Out']")    // added  by Chandan Modi
+	private WebElement signOutBtn;
+
+	public WebElement getSignOutBtn() {
+		return signOutBtn;
+	}
+
+	@FindBy(id = "NumOfRows")
+	private WebElement sumOfRowsDropDown;
+
+	public WebElement getNumOfRowsDropDown() {
+		return sumOfRowsDropDown;
+	}
+
+	// Added By Jayashri
+	@FindBy(xpath = "//span[@class='userRle']")
+	private WebElement roleField;
+
+	public WebElement getRoleField() {
+		return roleField;
+	}
+
+	// Added By Jayashri
+	@FindBy(xpath = "//li[@class='sltdRle']/a/span")
+	private WebElement selectedRole;
+
+	public WebElement getSelectedRole() {
+		return selectedRole;
+	}
+
+	// Added By Jayashri
+	@FindBy(xpath = "(//li[not(@class)])[1]")
+	private WebElement otherRole;
+
+	public WebElement getOtherRole() {
+		return otherRole;
+	}
+	
+	
+
+	@FindBy(xpath = "//span[text()='User Preferences']")
+	private WebElement userPreferencePageHeader;
+
+	public WebElement getUserPreferencePageHeader() {
+		return userPreferencePageHeader;
+	}
+
+	// Added by Suman - 23-Nov-2017
+	@FindBy(xpath = "//li/a/span[contains(text(),'classeur')]")
+	private WebElement FrenchSearchTab;
+
+	public WebElement getFrenchSearchTab() {
+		return FrenchSearchTab;
+	}
+
+	@FindBy(xpath = "//select[@id='columnNameForSearching']")
+	private WebElement nameSearchingDropdown;
+
+	public WebElement getNameSearchingDropdown() {
+		return nameSearchingDropdown;
+	}
+
+	@FindBy(xpath = "//input[@id='searchField']")
+	private WebElement searchFieldInWorkitemTab;
+
+	public WebElement getSearchFieldInWorkitemTab() {
+		return searchFieldInWorkitemTab;
+	}
+
+	@FindBy(xpath = "//li/a/span[contains(text(),'Caixa de entrada')]")
+	private WebElement PortugueseInboxTab;
+
+	public WebElement getPortugueseInboxTab() {
+		return PortugueseInboxTab;
+	}
+
+	@FindBy(xpath = "//li/a/span[contains(text(),'Gabinete de Archivo')]")
+	private WebElement SpanishSearchTab;
+
+	public WebElement getSpanishSearchTab() {
+		return SpanishSearchTab;
+	}
+
+	@FindBy(xpath = "//li/a/span[contains(text(),'Zoeken')]")
+	private WebElement DutchSearchTab;
+
+	public WebElement getDutchSearchTab() {
+		return DutchSearchTab;
+	}
+
+	
+
+	// suman - 09-Mar-2018
+	@FindBy(xpath = "//tr[1]/td[1]/button[@class='actionBtn']")
+	private WebElement firstRowFirstCell;
+
+	public WebElement getFirstRowFirstCell() {
+		return firstRowFirstCell;
+	}
+
+	@FindBy(xpath = "//li[@id='docDuplicate']")
+	private WebElement documentDuplicateOption;
+
+	public WebElement getDocumentDuplicateOption() {
+		return documentDuplicateOption;
+	}
+
+	@FindBy(xpath = "//td/input[@id='workitemName']")
+	private WebElement documentDuplicateWorkitemNameTextBox;
+
+	public WebElement getDocumentDuplicateWorkitemNameTextBox() {
+		return documentDuplicateWorkitemNameTextBox;
+	}
+
+	@FindBy(xpath = "//input[@id='AutoOpen']")
+	private WebElement autoOpenCheckBox;
+
+	public WebElement getAutoOpenCheckBox() {
+		return autoOpenCheckBox;
+	}
+
+	@FindBy(xpath = "//input[@id='restoreFormData']")
+	private WebElement includeFormDataCheckBox;
+
+	public WebElement getIncludeFormDataCheckBox() {
+		return includeFormDataCheckBox;
+	}
+
+	@FindBy(xpath = "//button[@id='docDuplicateSubmit']")
+	private WebElement duplicateButton;
+
+	public WebElement getDuplicateButton() {
+		return duplicateButton;
+	}
+
+	@FindBy(xpath = "//button[contains(text(),'Close')]")
+	private WebElement documentDuplicateCloseButton;
+
+	public WebElement getDocumentDuplicateCloseButton() {
+		return documentDuplicateCloseButton;
+	}
+
+	public void CreateWorkitemTab() {
+		try {
+			workItemTab.click();
+			Reporter.log("Workitem Tab is clicked", true);
+			Thread.sleep(2000);
+			boolean f1 = util.verifyObjectEnabledReturnsBool(cwp.getCreateWorkitem_btn());
+			if (f1) {
+				Reporter.log("Create Workitem page exists", true);
+			} else {
+				Reporter.log("Log out is failed ", true);
+				Assert.fail("Log out is failed ");
+			}
+		} catch (Exception e) {
+			Reporter.log("Log out is failed ", true);
+			Assert.fail("Log out is failed ");
+		}
+	}
+
+	/**
+	 * validate user preference page is displayed or not
+	 * 
+	 * @author PradhanJ
+	 * @throws InterruptedException
+	 */
+	public void clickUserPreferenceTab() throws InterruptedException {
+		Thread.sleep(2000);
+		userPreferencesTab.click();
+		Reporter.log("User Preferences Tab is clicked.", true);
+		util.waitForPageToLoad();
+		boolean userPrefHeaderPresent = util.verifyObjectPresentReturnsBool(userPreferencePageHeader);
+		if (userPrefHeaderPresent) {
+			Reporter.log("User preference page is displayed ", true);
+		} else {
+			Reporter.log("User preference page header validation failed", true);
+			Assert.fail("User preference page header validation failed");
+		}
+	}
+
+	// Suman - 09-Mar-2018
+	public void searchByNameInWorkitemTab(String wiName) {
+		try {
+			Thread.sleep(3000);
+			Select s1 = new Select(nameSearchingDropdown);
+			s1.selectByVisibleText("Name");
+			Thread.sleep(5000);
+			searchFieldInWorkitemTab.sendKeys(wiName);
+			Thread.sleep(3000);
+		} catch (Exception e) {
+			Reporter.log("Searching item failed", true);
+		}
+	}
+
+	// Suman - 09-Mar-2018
+	public void searchByNameInWorkitemTabAndDisplay(String wiName) {
+		try {
+			Thread.sleep(3000);
+			Select s1 = new Select(nameSearchingDropdown);
+			s1.selectByVisibleText("Name");
+			Thread.sleep(5000);
+			searchFieldInWorkitemTab.sendKeys(wiName + Keys.ENTER);
+			Thread.sleep(3000);
+		} catch (Exception e) {
+			Reporter.log("Searching And Display item is failed", true);
+		}
+	}
+
+	/**
+	 * This method logs out from application.
+	 * 
+	 * @author SumanGaK
+	 * @param
+	 * @throws Exception
+	 */
+	// suman
+	public void logoutApp() {
+		try {
+			getUserInfoTab().click();
+			Thread.sleep(2000);
+			util.waitForPageToLoad();
+			String MainWindow = Driver.driver.getWindowHandle();
+			// To handle all new opened window.
+			Set<String> s1 = Driver.driver.getWindowHandles();
+			Iterator<String> i1 = s1.iterator();
+
+			while (i1.hasNext()) {
+				String ChildWindow = i1.next().toString();
+
+				if (!MainWindow.equalsIgnoreCase(ChildWindow)) {
+
+					Driver.driver.switchTo().window(ChildWindow);
+					Driver.driver.close();
+
+				}
+
+			}
+			Thread.sleep(3000);
+			Driver.driver.switchTo().window(MainWindow);
+			Thread.sleep(10000);
+			getSignOutBtn().click();
+			Thread.sleep(10000);
+
+			boolean f = util.verifyObjectPresentReturnsBool(lp.getUserName_TF());
+			if (f) {
+				Reporter.log("Log out success ", true);
+				Log.info("Log out success ");
+			} else {
+
+				Reporter.log("Log out failed ", true);
+				Log.error("Log out failed");
+				Assert.fail("Log out failed ");
+			}
+		} catch (Exception e) {
+			Reporter.log("Log out failed ", true);
+			Assert.fail("Log out failed ");
+		}
+
+	}
+
+	@FindBy(xpath = "//span[contains(text(),'My Sites')]")
+	private WebElement mySitesField;
+
+	public WebElement getMySitesField() {
+		return mySitesField;
+	}
+
+	@FindBy(xpath = "//i[@class='icon-spacer']/..")
+	private WebElement rmSite;
+
+	public WebElement getSumOfRowsDropDown() {
+		return sumOfRowsDropDown;
+	}
+
+	public WebElement getRmSite() {
+		return rmSite;
+	}
+
+	// Added by Suman - 04-Jul-2018
+	@FindBy(xpath = "//span[@class='ui-dialog-title']")
+	private WebElement documentDuplicateWindow;
+
+	public WebElement getDocumentDuplicateWindow() {
+		return documentDuplicateWindow;
+	}
+
+	//Added by Suman - 26-Jul-2018	
+	@FindBy(xpath="//li[@id='sendThisWorkitem']")
+	private WebElement sendThisWorkitemOption;
+
+	public WebElement getSendThisWorkitemOption() {
+		return sendThisWorkitemOption;
+	}
+	// added by princi
+	@FindBy(xpath="//li[@id='returnToQueue']")
+	private WebElement returnToQueueOption;
+	
+    public WebElement getreturnToQueueOption(){
+     return returnToQueueOption;
+}
+    
+    
+  //Added by Biswajit - 03-Aug-2018	
+  		@FindBy(xpath="//div[@role='alert']")
+  		private WebElement WIWarningMessage;
+
+  		public WebElement getWIWarningMessage() {
+  			return WIWarningMessage;
+  		}
+
+  		//Navigate to Inbox page
+  		@SuppressWarnings("deprecation")
+		public void navigateToInbox() throws StaleElementReferenceException, InterruptedException
+  		{
+  			util.wait(3000);
+  			util.jclick(hp.getInbox());
+			util.waitForPageToLoad();			
+			Reporter.log("Navigating to inbox page", true);
+			ATUReports.add("Navigating to inbox page", true);
+			Log.info("Navigating to inbox page");
+			util.waitForElementEnabled(ip.getMyPersonalQueue());
+			util.waitForPageToLoad();
+			util.waitForClick(ip.getMyPersonalQueue());
+  		}
+  		
+}

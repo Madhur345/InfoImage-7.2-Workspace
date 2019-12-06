@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="RegressionSuite">
+<listeners>
+		<listener class-name="atu.testng.reports.listeners.ATUReportsListener"></listener>
+		<listener class-name="atu.testng.reports.listeners.ConfigurationListener"></listener>
+		<listener class-name="atu.testng.reports.listeners.MethodListener"></listener>
+		</listeners>
+  <test name="RegressionTest" preserve-order="true" enabled="true">
+    <classes>
+    
+    
+    <class name="apd.infoimage.iwm.tests.INFO_10635" />
+   <!--  <class name="apd.infoimage.iwm.tests.INFO_10661" />
+    <class name="apd.infoimage.iwm.tests.INFO_10664" />
+    <class name="apd.infoimage.iwm.tests.INFO_10694" />
+    <class name="apd.infoimage.iwm.tests.INFO_10699" />
+    <class name="apd.infoimage.iwm.tests.INFO_10702" />
+    <class name="apd.infoimage.iwm.tests.INFO_11018" />
+    <class name="apd.infoimage.iwm.tests.INFO_11041" />
+    <class name="apd.infoimage.iwm.tests.INFO_11058" />
+    <class name="apd.infoimage.iwm.tests.INFO_11059" />
+    <class name="apd.infoimage.iwm.tests.INFO_11060" />
+    <class name="apd.infoimage.iwm.tests.INFO_11061" />
+    <class name="apd.infoimage.iwm.tests.INFO_11062" />
+    <class name="apd.infoimage.iwm.tests.INFO_11063" />
+    <class name="apd.infoimage.iwm.tests.INFO_11064" />
+    <class name="apd.infoimage.iwm.tests.INFO_11065" />
+    <class name="apd.infoimage.iwm.tests.INFO_11067" />
+    <class name="apd.infoimage.iwm.tests.INFO_11069" />
+    <class name="apd.infoimage.iwm.tests.INFO_11071" />
+    <class name="apd.infoimage.iwm.tests.INFO_11072" />
+    <class name="apd.infoimage.iwm.tests.INFO_11073" />
+    <class name="apd.infoimage.iwm.tests.INFO_11076" />
+    <class name="apd.infoimage.iwm.tests.INFO_11092" />
+    <class name="apd.infoimage.iwm.tests.INFO_11093" />
+    <class name="apd.infoimage.iwm.tests.INFO_11112" />
+    <class name="apd.infoimage.iwm.tests.INFO_11113" /> -->
+    
+    
+    </classes>
+  </test> <!-- HotFix10.3.2Test -->
+</suite> <!-- HotFix10.3.2Suite -->
+    

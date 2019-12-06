@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;infoimage.iwm&apos;" deleteContents="false" description="Delete resource &apos;infoimage.iwm&apos;" element1="/infoimage.iwm" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1575461866999"/>
+</session>

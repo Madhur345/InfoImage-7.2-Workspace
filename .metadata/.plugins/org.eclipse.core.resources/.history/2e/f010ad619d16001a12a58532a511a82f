@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="RegressionSuite">
+	<listeners>
+		<listener class-name="atu.testng.reports.listeners.ATUReportsListener"></listener>
+		<listener class-name="atu.testng.reports.listeners.ConfigurationListener"></listener>
+		<listener class-name="atu.testng.reports.listeners.MethodListener"></listener>
+	</listeners>
+	<test name="RegressionTest" preserve-order="true" enabled="true">
+		<classes>
+
+
+
+
+		<!-- 	<class name="apd.infoimage.iwm.tests.INFO_10635" />
+			<class name="apd.infoimage.iwm.tests.INFO_11018" />
+			<class name="apd.infoimage.iwm.tests.INFO_11063" />
+			<class name="apd.infoimage.iwm.tests.INFO_12010" />
+			<class name="apd.infoimage.iwm.tests.INFO_16779" />
+			<class name="apd.infoimage.iwm.tests.INFO_10661" />
+			<class name="apd.infoimage.iwm.tests.INFO_11041" />
+			<class name="apd.infoimage.iwm.tests.INFO_10664" />
+			<class name="apd.infoimage.iwm.tests.INFO_10694" />
+			<class name="apd.infoimage.iwm.tests.INFO_11067" />
+			<class name="apd.infoimage.iwm.tests.INFO_11071" />
+			<class name="apd.infoimage.iwm.tests.INFO_11072" />
+			<class name="apd.infoimage.iwm.tests.INFO_11092" />
+			<class name="apd.infoimage.iwm.tests.INFO_11112" />
+			<class name="apd.infoimage.iwm.tests.INFO_11113" />
+			<class name="apd.infoimage.iwm.tests.INFO_11751" />
+			<class name="apd.infoimage.iwm.tests.INFO_11752" />
+			<class name="apd.infoimage.iwm.tests.INFO_11808" />
+			<class name="apd.infoimage.iwm.tests.INFO_11058" />
+			<class name="apd.infoimage.iwm.tests.INFO_5110" />
+			<class name="apd.infoimage.iwm.tests.INFO_11059" />
+			<class name="apd.infoimage.iwm.tests.INFO_5106" /> 
+			<class name="apd.infoimage.iwm.tests.INFO_11076" />
+			-->
+
+
+
+
+			<class name="apd.infoimage.iwm.tests.INFO_10699" />
+			<class name="apd.infoimage.iwm.tests.INFO_10702" />
+			<class name="apd.infoimage.iwm.tests.INFO_11041" />
+			<class name="apd.infoimage.iwm.tests.INFO_11076" />
+			<class name="apd.infoimage.iwm.tests.INFO_11093" />
+			<class name="apd.infoimage.iwm.tests.INFO_11117" />
+			<class name="apd.infoimage.iwm.tests.INFO_11118" />
+			<class name="apd.infoimage.iwm.tests.INFO_11122" />
+			<class name="apd.infoimage.iwm.tests.INFO_11128" />
+			<class name="apd.infoimage.iwm.tests.INFO_11559" />
+			<class name="apd.infoimage.iwm.tests.INFO_11526" />
+			<class name="apd.infoimage.iwm.tests.INFO_11753" />
+			<class name="apd.infoimage.iwm.tests.INFO_11754" />
+			<class name="apd.infoimage.iwm.tests.INFO_11768" />
+			<class name="apd.infoimage.iwm.tests.INFO_11770" />
+			<class name="apd.infoimage.iwm.tests.INFO_11772" />
+			<class name="apd.infoimage.iwm.tests.INFO_11773" />
+			<class name="apd.infoimage.iwm.tests.INFO_11774" />
+			<class name="apd.infoimage.iwm.tests.INFO_11775" />
+			<class name="apd.infoimage.iwm.tests.INFO_11777" />
+			<class name="apd.infoimage.iwm.tests.INFO_11788" />
+			<class name="apd.infoimage.iwm.tests.INFO_11805" />
+			<class name="apd.infoimage.iwm.tests.INFO_11806" />
+			<class name="apd.infoimage.iwm.tests.INFO_11847" />
+			<class name="apd.infoimage.iwm.tests.INFO_11887" />
+			<class name="apd.infoimage.iwm.tests.INFO_11889" />
+			<class name="apd.infoimage.iwm.tests.INFO_12005" />
+			<class name="apd.infoimage.iwm.tests.INFO_12006" />
+			<class name="apd.infoimage.iwm.tests.INFO_12009" />
+			<class name="apd.infoimage.iwm.tests.INFO_12065" />
+			<class name="apd.infoimage.iwm.tests.INFO_12068" />
+			<class name="apd.infoimage.iwm.tests.INFO_12130" />
+			<class name="apd.infoimage.iwm.tests.INFO_12131" />
+			<class name="apd.infoimage.iwm.tests.INFO_12183" />
+			<class name="apd.infoimage.iwm.tests.INFO_12184" />
+			<class name="apd.infoimage.iwm.tests.INFO_12424" />
+			<class name="apd.infoimage.iwm.tests.INFO_16732" />
+			<class name="apd.infoimage.iwm.tests.INFO_17266" />
+			<class name="apd.infoimage.iwm.tests.INFO_17362" />
+			<class name="apd.infoimage.iwm.tests.INFO_2208" />
+			<class name="apd.infoimage.iwm.tests.INFO_23335" />
+			<class name="apd.infoimage.iwm.tests.INFO_2741" />
+			<class name="apd.infoimage.iwm.tests.INFO_2791" />
+			<class name="apd.infoimage.iwm.tests.INFO_2954" />
+			<class name="apd.infoimage.iwm.tests.INFO_2957" />
+			<class name="apd.infoimage.iwm.tests.INFO_3006" />
+			<class name="apd.infoimage.iwm.tests.INFO_5098" />
+			<class name="apd.infoimage.iwm.tests.INFO_5104" />
+			<class name="apd.infoimage.iwm.tests.INFO_5111" />
+			<class name="apd.infoimage.iwm.tests.INFO_8752" />
+
+
+
+
+
+		</classes>
+	</test> <!-- HotFix10.3.2Test -->
+</suite> <!-- HotFix10.3.2Suite -->

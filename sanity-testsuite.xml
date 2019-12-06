@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="RegressionSuite">
+<listeners>
+		<listener class-name="atu.testng.reports.listeners.ATUReportsListener"></listener>
+		<listener class-name="atu.testng.reports.listeners.ConfigurationListener"></listener>
+		<listener class-name="atu.testng.reports.listeners.MethodListener"></listener>
+		</listeners>
+  <test name="RegressionTest" preserve-order="true" enabled="true">
+    <classes>
+ <!-- <class name="apd.infoimage.iwm.tests.INFO_10929"/> 
+ <class name="apd.infoimage.iwm.tests.INFO_10636"/>
+ <class name="apd.infoimage.iwm.tests.INFO_12128"/>  -->
+ 
+ 
+ <!-- <class name="apd.infoimage.iwm.tests.INFO_11118"/>
+ <class name="apd.infoimage.iwm.tests.INFO_11117"/>
+ <class name="apd.infoimage.iwm.tests.INFO_12424"/>  -->
+ 
+ <class name="apd.infoimage.iwm.tests.INFO_12183"/>
+ <class name="apd.infoimage.iwm.tests.INFO_12184"/>
+ <class name="apd.infoimage.iwm.tests.INFO_5104"/>
+ 
+ <!-- <class name="apd.infoimage.iwm.tests.INFO_5105"/> 
+ <class name="apd.infoimage.iwm.tests.INFO_23335"/>
+ <class name="apd.infoimage.iwm.tests.INFO_5107"/> -->
+ <class name="apd.infoimage.iwm.tests.INFO_5106"/>
+ <class name="apd.infoimage.iwm.tests.INFO_5111"/>
+ <class name="apd.infoimage.iwm.tests.INFO_5110"/>
+ <class name="apd.infoimage.iwm.tests.INFO_8752"/>
+ <class name="apd.infoimage.iwm.tests.INFO_11058"/> 
+ <class name="apd.infoimage.iwm.tests.INFO_5098"/>
+ <class name="apd.infoimage.iwm.tests.INFO_2954"/> 
+ <class name="apd.infoimage.iwm.tests.INFO_2957"/> 
+ <class name="apd.infoimage.iwm.tests.INFO_2741"/>
+ <class name="apd.infoimage.iwm.tests.INFO_11092"/>
+ <class name="apd.infoimage.iwm.tests.INFO_11067"/> 
+ 
+ 
+ 
+ 
+    </classes>
+  </test> <!-- HotFix10.3.2Test -->
+</suite> <!-- HotFix10.3.2Suite -->

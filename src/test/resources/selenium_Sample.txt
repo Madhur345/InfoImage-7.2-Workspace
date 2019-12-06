@@ -1,0 +1,4 @@
+WebDriver driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), DesiredCapabilities.firefox());
+ Here in above statement , 
+it is specified that Selenium Server is running on localhost with the default port 4444 
+and execute on firefox browser 

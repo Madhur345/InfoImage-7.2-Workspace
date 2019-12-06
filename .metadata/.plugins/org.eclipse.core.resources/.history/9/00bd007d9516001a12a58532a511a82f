@@ -1,0 +1,125 @@
+package apd.infoimage.iwm.genericLib;
+
+import java.io.File;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.edge.EdgeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.FirefoxProfile;
+import org.openqa.selenium.ie.InternetExplorerDriver;
+import org.openqa.selenium.remote.CapabilityType;
+import org.openqa.selenium.remote.DesiredCapabilities;
+import org.testng.Assert;
+
+
+
+
+public class Driver {
+
+	public static String  browser=null;
+	public static WebDriver driver;
+	public static  FirefoxProfile fprofile;
+
+
+	public static WebDriver openBroser(String browser){
+
+		Driver.browser=browser;
+
+		try{
+			DesiredCapabilities capabilities ;
+
+			String iePath = new File("lib\\IEDriverServer.exe").getAbsolutePath();
+			String chromePath = new File("lib\\chromedriver.exe").getAbsolutePath();
+			String firefoxPath = new File("lib\\geckodriver.exe").getAbsolutePath();
+			String edgepath = new File("lib\\edgeDriver.exe").getAbsolutePath();
+
+			System.setProperty("webdriver.ie.driver", iePath);
+			System.setProperty("webdriver.chrome.driver", chromePath);
+			System.setProperty("webdriver.gecko.driver", firefoxPath);
+			System.setProperty("webdriver.edge.driver", edgepath);
+
+
+			if (browser.equalsIgnoreCase("firefox"))
+			{
+				System.out.println("download properties start");
+				//Create object of FirefoxProfile in built class to access Its properties.
+				fprofile = new FirefoxProfile();
+				//Set Location to store files after downloading.
+				fprofile.setPreference("browser.download.dir", "lib\\downloads");
+				fprofile.setPreference("browser.download.folderList", 2);
+				//Set Preference to not show file download confirmation dialogue using MIME types Of different file extension types.
+				fprofile.setPreference("browser.helperApps.neverAsk.saveToDisk", 
+						"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;"//MIME types Of MS Excel File.
+						+ "application/pdf;" //MIME types Of PDF File.
+						+ "application/vnd.openxmlformats-officedocument.wordprocessingml.document;" //MIME types Of MS doc File.
+						+ "text/plain;" //MIME types Of text File.
+						+ "text/csv"); //MIME types Of CSV File.
+				fprofile.setPreference( "browser.download.manager.showWhenStarting", false );
+				fprofile.setPreference( "pdfjs.disabled", true );
+				//Pass fprofile parameter In webdriver to use preferences to download file.
+				System.out.println("download properties end");
+				capabilities = new DesiredCapabilities();
+				capabilities.setCapability("browser", "Firefox");
+				capabilities.setCapability("os", "Windows");
+				capabilities.setCapability("browserstack.debug", "true");
+				capabilities.setCapability(FirefoxDriver.PROFILE, fprofile);
+				driver= new FirefoxDriver(capabilities);
+			}
+			else if (browser.equalsIgnoreCase("ie")) {
+				capabilities = DesiredCapabilities.internetExplorer(); 
+				capabilities.setCapability("browser", "IE");
+				capabilities.setCapability("os", "Windows");
+				capabilities.setCapability(InternetExplorerDriver.INTRODUCE_FLAKINESS_BY_IGNORING_SECURITY_DOMAINS,true);  
+				capabilities.setCapability("nativeEvents", false);
+				capabilities.setCapability("ie.ensureCleanSession", true);
+				capabilities.setCapability("acceptSslCerts", "true");
+				capabilities.setCapability("browserstack.ie.enablePopups", "false");
+				driver= new InternetExplorerDriver(capabilities);
+				System.out.println(" open ie browser");
+			}
+			else if(browser.equalsIgnoreCase("chrome")){
+				System.out.println("set chrome Desired capabilities");
+				ChromeOptions options= new ChromeOptions();
+				options.addArguments("window-size=1366,768");
+				options.addArguments("--disable-notifications");
+				options.addArguments("--disable-geolocation");
+				options.addArguments("--ignore-certificate-errors");
+				driver=new ChromeDriver(options);
+				System.out.println(" open chrome browser");
+			}
+			else if(browser.equalsIgnoreCase("edge")){
+				System.out.println("set edge Desired capabilities");
+				capabilities= DesiredCapabilities.edge();
+				capabilities.setCapability(CapabilityType.ACCEPT_SSL_CERTS, true);
+				driver = new EdgeDriver(capabilities);
+				System.out.println(" open Edge browser");
+			}
+
+
+			driver.manage().window().maximize();
+
+		}
+		catch(Exception exception)
+		{
+			System.out.println(" there is an error in initiating browser ");
+			Assert.fail("there is an error in initiating browser ");
+		} 
+		return driver;
+
+
+	}
+
+
+	public static void  closeBrowser() 	{
+		CommonUtils util=new CommonUtils();
+		util.wait(3000);
+
+		//driver.close();
+		driver.quit();
+		util.wait(3000);
+	}
+
+
+}
